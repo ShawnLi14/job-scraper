@@ -2254,5 +2254,269 @@
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/e84f6113-2118-4698-a22a-d1701669ce4f",
     "department": "Early Career"
+  },
+  {
+    "_key": "TransMarket Group||DevOps/SRE Intern||https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007",
+    "firm": "TransMarket Group",
+    "title": "DevOps/SRE Intern",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007",
+    "department": ""
+  },
+  {
+    "_key": "TransMarket Group||Quantitative Trader Intern||https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007",
+    "firm": "TransMarket Group",
+    "title": "Quantitative Trader Intern",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007",
+    "department": ""
+  },
+  {
+    "_key": "Flexport||Inbound Sales Development Representative - New Grad||https://boards.greenhouse.io/flexport/jobs/5850324?gh_jid=5850324",
+    "firm": "Flexport",
+    "title": "Inbound Sales Development Representative - New Grad",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://boards.greenhouse.io/flexport/jobs/5850324?gh_jid=5850324",
+    "department": ""
+  },
+  {
+    "_key": "Spotify||Data Scientist - Discovery Mode||https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+    "firm": "Spotify",
+    "title": "Data Scientist - Discovery Mode",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+    "department": "Music"
+  },
+  {
+    "_key": "Character||Software Engineer, Applied ML (Discovery, Recommendation & Search)||https://jobs.ashbyhq.com/character/3cfa1472-4f6d-46fa-bd08-f6de0833a53f",
+    "firm": "Character",
+    "title": "Software Engineer, Applied ML (Discovery, Recommendation & Search)",
+    "location": "Redwood City, CA",
+    "url": "https://jobs.ashbyhq.com/character/3cfa1472-4f6d-46fa-bd08-f6de0833a53f",
+    "department": "Technical Staff - Engineering"
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, AI Security||https://job-boards.greenhouse.io/lilasciences/jobs/4280945009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, AI Security",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4280945009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-op, Analytical Chemistry||https://job-boards.greenhouse.io/lilasciences/jobs/4284224009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, Analytical Chemistry",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4284224009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Data Extraction||https://job-boards.greenhouse.io/lilasciences/jobs/4280811009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Data Extraction",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4280811009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Electrical Engineer||https://job-boards.greenhouse.io/lilasciences/jobs/4286059009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Electrical Engineer",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286059009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Finance||https://job-boards.greenhouse.io/lilasciences/jobs/4278444009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Finance",
+    "location": "Cambridge, MA USA; San Francisco, CA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4278444009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Lab IT/OT Security Engineer||https://job-boards.greenhouse.io/lilasciences/jobs/4279721009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Lab IT/OT Security Engineer",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4279721009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-op, LLMs for Decision Making||https://job-boards.greenhouse.io/lilasciences/jobs/4280808009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, LLMs for Decision Making",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4280808009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-op, Machine Learning for Digital Twins||https://job-boards.greenhouse.io/lilasciences/jobs/4280809009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, Machine Learning for Digital Twins",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4280809009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-op, Mechanical Engineer||https://job-boards.greenhouse.io/lilasciences/jobs/4284223009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, Mechanical Engineer",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4284223009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-op, Protein Sciences||https://job-boards.greenhouse.io/lilasciences/jobs/4257050009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, Protein Sciences",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4257050009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, PS Experiment, LNP Formulations||https://job-boards.greenhouse.io/lilasciences/jobs/4278675009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, PS Experiment, LNP Formulations",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4278675009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Software Product Management||https://job-boards.greenhouse.io/lilasciences/jobs/4286512009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Software Product Management",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286512009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Director, Discovery Chemistry ||https://job-boards.greenhouse.io/lilasciences/jobs/4192648009",
+    "firm": "Lila Sciences",
+    "title": "Director, Discovery Chemistry ",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4192648009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Director/Senior Director, Molecular Discovery||https://job-boards.greenhouse.io/lilasciences/jobs/4273680009",
+    "firm": "Lila Sciences",
+    "title": "Director/Senior Director, Molecular Discovery",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4273680009",
+    "department": ""
+  },
+  {
+    "_key": "DeepMind||Staff AI Product Designer, Growth & Discovery, GeminiApp||https://job-boards.greenhouse.io/deepmind/jobs/7728122",
+    "firm": "DeepMind",
+    "title": "Staff AI Product Designer, Growth & Discovery, GeminiApp",
+    "location": "Mountain View, California, US; San Francisco, California, US",
+    "url": "https://job-boards.greenhouse.io/deepmind/jobs/7728122",
+    "department": ""
+  },
+  {
+    "_key": "Continue||Software Engineer (New grad)||https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7",
+    "firm": "Continue",
+    "title": "Software Engineer (New grad)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Figure AI||Electrical Engineering Intern [Fall 2026]||https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+    "firm": "Figure AI",
+    "title": "Electrical Engineering Intern [Fall 2026]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Embedded Software Intern [Fall 2026]||https://job-boards.greenhouse.io/figureai/jobs/4397706006",
+    "firm": "Figure AI",
+    "title": "Embedded Software Intern [Fall 2026]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4397706006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Firmware Intern [Fall 2026]||https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+    "firm": "Figure AI",
+    "title": "Firmware Intern [Fall 2026]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4691070006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Hardware Reliability Intern [Fall 2026]||https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+    "firm": "Figure AI",
+    "title": "Hardware Reliability Intern [Fall 2026]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Validation Engineering Intern [Fall 2026]||https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+    "firm": "Figure AI",
+    "title": "Validation Engineering Intern [Fall 2026]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+    "department": ""
+  },
+  {
+    "_key": "Physical Intelligence||Hardware Systems Intern||https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f",
+    "firm": "Physical Intelligence",
+    "title": "Hardware Systems Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/physicalintelligence/96bc1142-f406-4df3-aaa0-4bcce85f457f",
+    "department": "Hardware"
+  },
+  {
+    "_key": "Affirm||Software Engineer, Early Career||https://job-boards.greenhouse.io/affirm/jobs/7485068003",
+    "firm": "Affirm",
+    "title": "Software Engineer, Early Career",
+    "location": "San Francisco, California, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
+    "department": ""
+  },
+  {
+    "_key": "Gusto||Future Opportunities: Early Career Sales Talent||https://job-boards.greenhouse.io/gusto/jobs/8001931",
+    "firm": "Gusto",
+    "title": "Future Opportunities: Early Career Sales Talent",
+    "location": "Denver, CO;Atlanta, GA;Phoenix, AZ;Las Vegas, NV;Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8001931",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026||https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb",
+    "firm": "Skydio",
+    "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Fall 2026",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/c84945f0-b8e0-4272-b636-265d6611a8eb",
+    "department": "Autonomy"
+  },
+  {
+    "_key": "Skydio||Autonomy Engineer Intern - Deep Learning (Computational Photography)||https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25",
+    "firm": "Skydio",
+    "title": "Autonomy Engineer Intern - Deep Learning (Computational Photography)",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25",
+    "department": "Autonomy"
+  },
+  {
+    "_key": "Skydio||Software Engineer Intern Fall 2026/Winter 2027||https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
+    "firm": "Skydio",
+    "title": "Software Engineer Intern Fall 2026/Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee",
+    "department": "Software"
+  },
+  {
+    "_key": "Skydio||Middleware Software Engineer Intern - Fall 2026||https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
+    "firm": "Skydio",
+    "title": "Middleware Software Engineer Intern - Fall 2026",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
+    "department": "Software"
   }
 ]
