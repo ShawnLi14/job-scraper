@@ -178,6 +178,14 @@ FIRMS: list[Firm] = [
     Firm("Gelber Group", "greenhouse", {"board": "gelbergroup"}),
     Firm("Maven Securities", "ashby", {"board": "maven"}),
 
+    # ---- Tier 1 prop / quant (verified boards) ----
+    Firm("Chicago Trading Company", "greenhouse", {"board": "chicagotrading"}),
+    Firm("Belvedere Trading", "lever", {"company": "belvederetrading"}),
+    Firm("TransMarket Group", "greenhouse", {"board": "transmarketgroup"}),
+    Firm("Geneva Trading", "greenhouse", {"board": "genevatrading"}),
+    Firm("Wolverine Trading", "wolve", {}),
+    Firm("Paradigm", "ashby", {"board": "paradigm"}),
+
     # ---- Tech unicorns / high-signal companies (Greenhouse) ----
     Firm("Databricks", "greenhouse", {"board": "databricks"}),
     Firm("Stripe", "greenhouse", {"board": "stripe"}),
@@ -227,6 +235,64 @@ FIRMS: list[Firm] = [
     Firm("Mercor", "ashby", {"board": "mercor"}),
     Firm("OpenEvidence", "ashby", {"board": "openevidence"}),
     Firm("Kalshi", "ashby", {"board": "kalshi"}),
+    Firm("Reddit", "greenhouse", {"board": "reddit"}),
+    Firm("Flexport", "greenhouse", {"board": "flexport"}),
+    Firm("Fivetran", "greenhouse", {"board": "fivetran"}),
+    Firm("Spotify", "lever", {"company": "spotify"}),
+    Firm("Supabase", "ashby", {"board": "supabase"}),
+    Firm("Replit", "ashby", {"board": "replit"}),
+    Firm("LangChain", "ashby", {"board": "langchain"}),
+    Firm("Modal", "ashby", {"board": "modal"}),
+    Firm("Cognition", "ashby", {"board": "cognition"}),
+    Firm("Character", "ashby", {"board": "character"}),
+    Firm("Warp", "ashby", {"board": "warp"}),
+    Firm("Polymarket", "ashby", {"board": "polymarket"}),
+    Firm("Zapier", "ashby", {"board": "zapier"}),
+    Firm("Runway", "ashby", {"board": "runway"}),
+
+    # ---- AI labs (frontier research) ----
+    Firm("Thinking Machines Lab", "greenhouse", {"board": "thinkingmachines"}),
+    Firm("Reflection AI", "ashby", {"board": "reflectionai"}),
+    Firm("Magic", "ashby", {"board": "magic.dev"}),
+    Firm("Imbue", "greenhouse", {"board": "imbue"}),
+    Firm("World Labs", "greenhouse", {"board": "worldlabs"}),
+    Firm("Lila Sciences", "greenhouse", {"board": "lilasciences"}),
+    Firm("Isomorphic Labs", "greenhouse", {"board": "isomorphiclabs"}),
+    Firm("DeepMind", "greenhouse", {"board": "deepmind"}),
+    Firm("Stability AI", "greenhouse", {"board": "stabilityai"}),
+
+    # ---- AI infra / applied research unicorns ----
+    Firm("Cerebras", "ashby", {"board": "cerebras"}),
+    Firm("Tenstorrent", "greenhouse", {"board": "tenstorrent"}),
+    Firm("Etched", "ashby", {"board": "etched"}),
+    Firm("MatX", "greenhouse", {"board": "matx"}),
+    Firm("Baseten", "ashby", {"board": "baseten"}),
+    Firm("Fireworks AI", "ashby", {"board": "fireworksai"}),
+    Firm("OpenRouter", "ashby", {"board": "openrouter"}),
+    Firm("Poolside", "ashby", {"board": "poolside"}),
+    Firm("Writer", "ashby", {"board": "writer"}),
+    Firm("Typeface", "greenhouse", {"board": "typeface"}),
+    Firm("Ideogram", "ashby", {"board": "ideogram"}),
+    Firm("Pika", "ashby", {"board": "pika"}),
+    Firm("Continue", "ashby", {"board": "continue"}),
+
+    # ---- Robotics / embodied AI ----
+    Firm("Figure AI", "greenhouse", {"board": "figureai"}),
+    Firm("Physical Intelligence", "ashby", {"board": "physicalintelligence"}),
+    Firm("Sanctuary AI", "ashby", {"board": "sanctuary"}),
+    Firm("Wayve", "greenhouse", {"board": "wayve"}),
+
+    # ---- Unicorns (fintech / productivity / other) ----
+    Firm("Affirm", "greenhouse", {"board": "affirm"}),
+    Firm("Chime", "greenhouse", {"board": "chime"}),
+    Firm("SoFi", "greenhouse", {"board": "sofi"}),
+    Firm("Marqeta", "greenhouse", {"board": "marqeta"}),
+    Firm("Airtable", "greenhouse", {"board": "airtable"}),
+    Firm("Webflow", "greenhouse", {"board": "webflow"}),
+    Firm("Gusto", "greenhouse", {"board": "gusto"}),
+    Firm("Relativity Space", "greenhouse", {"board": "relativity"}),
+    Firm("Motional", "greenhouse", {"board": "motional"}),
+    Firm("Skydio", "ashby", {"board": "skydio"}),
 
     # ---- Workday API firms ----
     Firm("G-Research", "workday", {
@@ -420,6 +486,30 @@ def scrape_lever(firm: Firm) -> list[Job]:
             url=job_url,
             department=team,
         ))
+    return jobs
+
+
+def scrape_wolve(firm: Firm) -> list[Job]:
+    """Scrape Wolverine Trading's public careers JSON feed."""
+    resp = requests.get(
+        "https://careers.wolve.com/postings",
+        headers=HEADERS,
+        timeout=REQUEST_TIMEOUT,
+    )
+    resp.raise_for_status()
+    jobs: list[Job] = []
+    for posting in resp.json().get("data", []):
+        title = posting.get("title") or ""
+        url = posting.get("url") or ""
+        loc = posting.get("location") or {}
+        location = loc.get("name") or ""
+        if title:
+            jobs.append(Job(
+                firm=firm.name,
+                title=title,
+                location=location,
+                url=url,
+            ))
     return jobs
 
 
@@ -906,6 +996,7 @@ SCRAPER_MAP = {
     "greenhouse_multi": scrape_greenhouse_multi,
     "workday": scrape_workday,
     "lever": scrape_lever,
+    "wolve": scrape_wolve,
     "twosigma": scrape_twosigma,
     "deshaw": scrape_deshaw,
     "browser": scrape_browser,
