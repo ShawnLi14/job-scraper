@@ -1,0 +1,6 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+rich>=13.7.0
+playwright>=1.44.0
+# After installing requirements, run once:
+#   python -m playwright install chromium
