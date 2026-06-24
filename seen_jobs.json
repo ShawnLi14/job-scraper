@@ -2518,5 +2518,21 @@
     "location": "San Mateo, California, United States",
     "url": "https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915",
     "department": "Software"
+  },
+  {
+    "_key": "Palantir||Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial||https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "firm": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "location": "Chicago, IL",
+    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "department": "Delta"
+  },
+  {
+    "_key": "Nuro||Data Scientist Intern||https://nuro.ai/careersitem?gh_jid=7594577",
+    "firm": "Nuro",
+    "title": "Data Scientist Intern",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=7594577",
+    "department": ""
   }
 ]
