@@ -2,8 +2,13 @@ name: Scrape jobs
 
 on:
   schedule:
-    # Every 6 hours (UTC)
-    - cron: "0 */6 * * *"
+    # 20 runs/day, every 36 min during 8am–8pm US Eastern (GitHub cron is UTC).
+    # During EDT (Mar–Nov): 12:00–23:24 UTC. A job gate enforces 8am–8pm America/New_York.
+    - cron: "0 12,15,18,21 * * *"
+    - cron: "36 12,15,18,21 * * *"
+    - cron: "12 13,16,19,22 * * *"
+    - cron: "48 13,16,19,22 * * *"
+    - cron: "24 14,17,20,23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,22 +24,41 @@ jobs:
     timeout-minutes: 60
 
     steps:
+      - name: Skip scheduled runs outside 8am–8pm Eastern
+        id: business_hours
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          hour=$(TZ=America/New_York date +%H)
+          if [ "$hour" -ge 8 ] && [ "$hour" -lt 20 ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Outside 8am–8pm Eastern (${hour}:00), skipping"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout
+        if: steps.business_hours.outputs.run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: steps.business_hours.outputs.run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
+        if: steps.business_hours.outputs.run == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Run scraper and notify Discord
+        if: steps.business_hours.outputs.run == 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_MENTION_ROLE_ID: ${{ secrets.DISCORD_MENTION_ROLE_ID }}
@@ -42,6 +66,7 @@ jobs:
         run: python run_pipeline.py
 
       - name: Commit seen_jobs.json
+        if: steps.business_hours.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
