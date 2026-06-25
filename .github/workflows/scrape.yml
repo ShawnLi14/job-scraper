@@ -58,6 +58,7 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Run scraper and notify Discord
+        id: pipeline
         if: steps.business_hours.outputs.run == 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
@@ -66,7 +67,11 @@ jobs:
         run: python run_pipeline.py
 
       - name: Commit seen_jobs.json
-        if: steps.business_hours.outputs.run == 'true'
+        if: |
+          always() &&
+          steps.business_hours.outputs.run == 'true' &&
+          steps.pipeline.outcome != 'skipped' &&
+          steps.pipeline.outcome != 'cancelled'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

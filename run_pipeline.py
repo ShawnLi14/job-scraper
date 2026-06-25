@@ -66,8 +66,7 @@ def main() -> int:
             )
             _log(f"Posted {len(result.new_jobs)} new job(s) to Discord ({batches} message batch(es))")
         except Exception as e:
-            _log(f"ERROR: Discord post failed: {e}")
-            return 1
+            _log(f"WARNING: Discord post failed (scrape still saved): {e}")
     elif not result.new_jobs:
         _log("No new jobs — staying silent on Discord")
 
