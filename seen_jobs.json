@@ -2550,5 +2550,29 @@
     "location": "San Jose, CA",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4303098006",
     "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Automation||https://job-boards.greenhouse.io/lilasciences/jobs/4287004009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Automation",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4287004009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-op, Materials Science, Electrosynthesis||https://job-boards.greenhouse.io/lilasciences/jobs/4288399009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, Materials Science, Electrosynthesis",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4288399009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, ML Scientist for Biology||https://job-boards.greenhouse.io/lilasciences/jobs/4294212009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, ML Scientist for Biology",
+    "location": "San Francisco, CA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4294212009",
+    "department": ""
   }
 ]
