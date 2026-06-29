@@ -2668,5 +2668,21 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer, Internship - Commercial||https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "department": "Delta"
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer, New Grad - Commercial||https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728",
+    "department": "Delta"
   }
 ]
