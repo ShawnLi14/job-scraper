@@ -2648,5 +2648,25 @@
     "location": "US-WA-Bellevue",
     "url": "https://jobs.ashbyhq.com/snowflake/8866f98e-ec0c-4d04-9b38-7c9299e858e8",
     "department": "Marketing"
+  },
+  {
+    "_key": "SIG (Susquehanna)||Accounting Internship: Summer 2027||https://careers.sig.com/jobs/10966?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Accounting Internship: Summer 2027",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/10966?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
+  },
+  {
+    "_key": "SIG (Susquehanna)||Tax Internship: Summer 2027||https://careers.sig.com/jobs/10965?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Tax Internship: Summer 2027",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/10965?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
