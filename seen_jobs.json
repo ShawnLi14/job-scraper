@@ -2804,5 +2804,69 @@
     "location": "Washington, D.C.",
     "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
     "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship||https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship",
+    "location": "Denver, CO",
+    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship||https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship||https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship||https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Defense Tech||https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Defense Tech",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Defense Tech||https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Defense Tech",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Defense Tech||https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Defense Tech",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Infrastructure||https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Infrastructure",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "department": "Dev"
   }
 ]
