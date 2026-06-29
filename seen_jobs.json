@@ -2764,5 +2764,45 @@
     "location": "New York, NY",
     "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a",
     "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer, New Grad - Commercial||https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "location": "Chicago, IL",
+    "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "department": "Delta"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Infrastructure||https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Infrastructure",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Production Infrastructure||https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Production Infrastructure",
+    "location": "Seattle, WA",
+    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Production Infrastructure||https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Production Infrastructure",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Production Infrastructure||https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Production Infrastructure",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "department": "Dev"
   }
 ]
