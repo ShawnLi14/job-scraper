@@ -3130,5 +3130,23 @@
     "location": "Chicago, Illinois, United States",
     "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
     "department": ""
+  },
+  {
+    "_key": "Optiver||Graduate Software Engineer (2027 Start)||https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
+    "firm": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
+    "department": ""
+  },
+  {
+    "_key": "SIG (Susquehanna)||Technology Co-op with Drexel University||https://careers.sig.com/jobs/11159?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Technology Co-op with Drexel University",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11159?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
