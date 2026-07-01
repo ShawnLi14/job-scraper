@@ -3098,5 +3098,37 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4300246009",
     "department": ""
+  },
+  {
+    "_key": "Optiver||Graduate Software Engineer (2027 Start)||https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+    "firm": "Optiver",
+    "title": "Graduate Software Engineer (2027 Start)",
+    "location": "Austin, Texas, United States; Chicago, Illinois, United States",
+    "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+    "department": ""
+  },
+  {
+    "_key": "Optiver||Quantitative Intern (Summer 2027)||https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+    "firm": "Optiver",
+    "title": "Quantitative Intern (Summer 2027)",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+    "department": ""
+  },
+  {
+    "_key": "Optiver||Software Engineer Intern (Summer 2027 - Austin)||https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+    "firm": "Optiver",
+    "title": "Software Engineer Intern (Summer 2027 - Austin)",
+    "location": "Austin, Texas, United States",
+    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+    "department": ""
+  },
+  {
+    "_key": "Optiver||Software Engineer Intern (Summer 2027 - Chicago)||https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+    "firm": "Optiver",
+    "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+    "department": ""
   }
 ]
