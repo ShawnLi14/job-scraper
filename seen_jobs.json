@@ -3180,5 +3180,37 @@
     "location": "",
     "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2027-Summer/13945",
     "department": ""
+  },
+  {
+    "_key": "Google||Group Product Manager, YouTube Live Discovery||https://www.google.com/about/careers/applications/jobs/results/104318620313494214",
+    "firm": "Google",
+    "title": "Group Product Manager, YouTube Live Discovery",
+    "location": "San Bruno, CA, USA; Mountain View, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/104318620313494214",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Research Scientist Intern, AI Alignment||https://www.metacareers.com/jobs/1782902493113620",
+    "firm": "Meta",
+    "title": "Research Scientist Intern, AI Alignment",
+    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; Boston, MA; New York, NY; San Francisco, CA",
+    "url": "https://www.metacareers.com/jobs/1782902493113620",
+    "department": "Artificial Intelligence, AI Research, Research"
+  },
+  {
+    "_key": "Meta||AI Research Scientist — Agentic AI for Materials Discovery||https://www.metacareers.com/jobs/1139345932588438",
+    "firm": "Meta",
+    "title": "AI Research Scientist — Agentic AI for Materials Discovery",
+    "location": "Redmond, WA; Pasadena, CA",
+    "url": "https://www.metacareers.com/jobs/1139345932588438",
+    "department": "AI Research, AR/VR, Artificial Intelligence, Facebook Reality Labs"
+  },
+  {
+    "_key": "Meta||AI Research Scientist —Generative AI for Materials Discovery||https://www.metacareers.com/jobs/968722059080516",
+    "firm": "Meta",
+    "title": "AI Research Scientist —Generative AI for Materials Discovery",
+    "location": "Redmond, WA; Pasadena, CA",
+    "url": "https://www.metacareers.com/jobs/968722059080516",
+    "department": "AI Research, AR/VR, Artificial Intelligence, Generative AI, Research"
   }
 ]
