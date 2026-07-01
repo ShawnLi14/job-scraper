@@ -185,6 +185,15 @@ FIRMS: list[Firm] = [
     Firm("Geneva Trading", "greenhouse", {"board": "genevatrading"}),
     Firm("Wolverine Trading", "wolve", {}),
     Firm("Paradigm", "ashby", {"board": "paradigm"}),
+    Firm("WorldQuant", "greenhouse", {"board": "worldquant"}),
+    Firm("Marshall Wace", "greenhouse", {"board": "marshallwace"}),
+    Firm("Engineers Gate", "greenhouse", {"board": "engineersgate"}),
+
+    # ---- NYC high-TC ($200k+ new grad) — crypto / fintech ----
+    Firm("Gemini", "greenhouse", {"board": "gemini"}),
+    Firm("Paxos", "ashby", {"board": "paxos"}),
+    Firm("Socure", "ashby", {"board": "socure"}),
+    Firm("Alloy", "greenhouse", {"board": "alloy"}),
 
     # ---- Tech unicorns / high-signal companies (Greenhouse) ----
     Firm("Databricks", "greenhouse", {"board": "databricks"}),
