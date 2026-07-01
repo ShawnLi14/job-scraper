@@ -317,6 +317,9 @@ FIRMS: list[Firm] = [
     }),
 
     # ---- Custom / API scrapers (verified working) ----
+    Firm("Google", "google", {"max_pages": 50}),
+    Firm("Bloomberg", "bloomberg", {}),
+    Firm("Meta", "meta", {}),
     Firm("Uber", "uber", {}),
     Firm("Two Sigma", "twosigma", {}),
     Firm("DE Shaw", "deshaw", {}),
@@ -1000,6 +1003,205 @@ def scrape_eightfold(firm: Firm) -> list[Job]:
     return jobs
 
 
+_GOOGLE_DS1_RE = re.compile(
+    r"AF_initDataCallback\(\{key: 'ds:1', hash: '[^']+', data:(.*?), sideChannel:",
+    re.S,
+)
+
+
+def _google_format_locations(loc_field) -> str:
+    locs: list[str] = []
+    if isinstance(loc_field, list):
+        for item in loc_field:
+            if isinstance(item, list) and item and isinstance(item[0], str):
+                locs.append(item[0])
+    return "; ".join(locs)
+
+
+def _fetch_google_jobs_page(page_num: int, location: str = "") -> list[list]:
+    """Return raw job card arrays from a Google careers results page."""
+    from urllib.parse import quote
+
+    params = f"distance=50&page={page_num}&q=&sort_by=date"
+    if location:
+        params += f"&location={quote(location)}"
+    url = (
+        "https://www.google.com/about/careers/applications/jobs/results/"
+        f"?{params}"
+    )
+    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    resp.raise_for_status()
+    match = _GOOGLE_DS1_RE.search(resp.text)
+    if not match:
+        return []
+    data = json.loads(match.group(1))
+    if not data or not isinstance(data[0], list):
+        return []
+    return data[0]
+
+
+def scrape_google(firm: Firm) -> list[Job]:
+    """Scrape Google careers via embedded AF_initDataCallback payloads."""
+    max_pages = int(firm.config.get("max_pages", 50))
+    location = firm.config.get("location", "")
+    jobs: list[Job] = []
+    seen_ids: set[str] = set()
+
+    for page_num in range(1, max_pages + 1):
+        cards = _fetch_google_jobs_page(page_num, location=location)
+        if not cards:
+            break
+        new_on_page = 0
+        for card in cards:
+            if not isinstance(card, list) or not card:
+                continue
+            jid = str(card[0]) if card[0] is not None else ""
+            if not jid or jid in seen_ids:
+                continue
+            seen_ids.add(jid)
+            new_on_page += 1
+            title = str(card[1]) if len(card) > 1 and card[1] is not None else ""
+            loc_field = card[9] if len(card) > 9 else None
+            location_text = _google_format_locations(loc_field)
+            job_url = (
+                "https://www.google.com/about/careers/applications/"
+                f"jobs/results/{jid}"
+            )
+            if title:
+                jobs.append(Job(
+                    firm=firm.name,
+                    title=title,
+                    location=location_text,
+                    url=job_url,
+                ))
+        if new_on_page == 0:
+            break
+    return jobs
+
+
+def _parse_bloomberg_html(firm_name: str, html: str) -> list[Job]:
+    soup = BeautifulSoup(html, "html.parser")
+    jobs: list[Job] = []
+    for article in soup.select("article.article--result"):
+        link = article.select_one("a.link[href*='JobDetail']")
+        if not link:
+            continue
+        title = link.get_text(" ", strip=True)
+        href = link.get("href", "") or ""
+        if href and not href.startswith(("http://", "https://")):
+            href = urljoin("https://bloomberg.avature.net", href)
+        loc_el = article.select_one(".article__header__text__subtitle")
+        location = loc_el.get_text(" ", strip=True) if loc_el else ""
+        if title:
+            jobs.append(Job(firm=firm_name, title=title, location=location, url=href))
+    return jobs
+
+
+def scrape_bloomberg(firm: Firm) -> list[Job]:
+    """Scrape Bloomberg's Avature-hosted careers site."""
+    base = firm.config.get(
+        "base_url",
+        "https://bloomberg.avature.net/careers/SearchJobs",
+    )
+    page_size = int(firm.config.get("page_size", 24))
+    max_pages = int(firm.config.get("max_pages", 30))
+    jobs: list[Job] = []
+    seen_urls: set[str] = set()
+    offset = 0
+
+    for _ in range(max_pages):
+        if offset == 0:
+            resp = requests.get(base, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        else:
+            resp = requests.post(
+                base,
+                data={
+                    "jobRecordsPerPage": str(page_size),
+                    "jobOffset": str(offset),
+                    "sortBy": "date",
+                },
+                headers=HEADERS,
+                timeout=REQUEST_TIMEOUT,
+            )
+        resp.raise_for_status()
+        page_jobs = _parse_bloomberg_html(firm.name, resp.text)
+        if not page_jobs:
+            break
+        new_on_page = 0
+        for job in page_jobs:
+            key = job.url or (job.title, job.location)
+            if key in seen_urls:
+                continue
+            seen_urls.add(key)
+            new_on_page += 1
+            jobs.append(job)
+        if new_on_page == 0:
+            break
+        offset += page_size
+    return jobs
+
+
+def scrape_meta(firm: Firm) -> list[Job]:
+    """Scrape Meta careers via GraphQL responses captured in Playwright."""
+    from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
+
+    list_url = firm.config.get("list_url", "https://www.metacareers.com/jobs")
+    wait_ms = int(firm.config.get("extra_wait_ms", 10000))
+    jobs: list[Job] = []
+    seen_ids: set[str] = set()
+    captured: list[dict] = []
+
+    def on_response(resp):
+        if "metacareers.com/graphql" not in resp.url:
+            return
+        try:
+            text = resp.text()
+            if text.startswith("for (;;);"):
+                text = text[9:]
+            data = json.loads(text)
+            block = data.get("data", {}).get("job_search_with_featured_jobs_v2")
+            if block and block.get("all_jobs"):
+                captured.extend(block["all_jobs"])
+        except Exception:
+            pass
+
+    with sync_playwright() as pw:
+        browser = _launch_playwright_browser(pw)
+        context = browser.new_context(user_agent=BROWSER_USER_AGENT, locale="en-US")
+        page = context.new_page()
+        page.on("response", on_response)
+        try:
+            page.goto(list_url, wait_until="domcontentloaded", timeout=60000)
+        except PWTimeoutError:
+            pass
+        page.wait_for_timeout(wait_ms)
+        browser.close()
+
+    for row in captured:
+        jid = str(row.get("id", ""))
+        if not jid or jid in seen_ids:
+            continue
+        seen_ids.add(jid)
+        title = row.get("title", "") or ""
+        locations = row.get("locations") or []
+        if isinstance(locations, list):
+            location = "; ".join(str(x) for x in locations if x)
+        else:
+            location = str(locations)
+        teams = row.get("teams") or []
+        department = ", ".join(str(x) for x in teams) if isinstance(teams, list) else str(teams)
+        job_url = f"https://www.metacareers.com/jobs/{jid}"
+        if title:
+            jobs.append(Job(
+                firm=firm.name,
+                title=title,
+                location=location,
+                url=job_url,
+                department=department,
+            ))
+    return jobs
+
+
 SCRAPER_MAP = {
     "greenhouse": scrape_greenhouse,
     "greenhouse_multi": scrape_greenhouse_multi,
@@ -1013,6 +1215,9 @@ SCRAPER_MAP = {
     "ashby": scrape_ashby,
     "sig": scrape_sig,
     "uber": scrape_uber,
+    "google": scrape_google,
+    "bloomberg": scrape_bloomberg,
+    "meta": scrape_meta,
 }
 
 
@@ -1182,10 +1387,11 @@ def run(workers: int = 8, diagnose: bool = False, *, persist_history: bool = Tru
 
     firm_results: dict[str, FirmResult] = {}
 
-    PLAYWRIGHT_BACKED = frozenset({"browser", "uber"})
+    PLAYWRIGHT_BACKED = frozenset({"browser", "uber", "meta"})
     http_firms = [f for f in FIRMS if f.scrape_fn not in PLAYWRIGHT_BACKED]
     browser_firms = [f for f in FIRMS if f.scrape_fn == "browser"]
     uber_firms = [f for f in FIRMS if f.scrape_fn == "uber"]
+    meta_firms = [f for f in FIRMS if f.scrape_fn == "meta"]
 
     with console.status("[bold green]Scraping career pages…", spinner="dots"):
         with ThreadPoolExecutor(max_workers=workers) as pool:
@@ -1207,6 +1413,14 @@ def run(workers: int = 8, diagnose: bool = False, *, persist_history: bool = Tru
             spinner="dots",
         ):
             for firm in uber_firms:
+                firm_results[firm.name] = scrape_firm(firm)
+
+    if meta_firms:
+        with console.status(
+            f"[bold green]Fetching {len(meta_firms)} Meta GraphQL career page(s) in Chromium…",
+            spinner="dots",
+        ):
+            for firm in meta_firms:
                 firm_results[firm.name] = scrape_firm(firm)
 
     # ---- Diagnose mode: show per-firm scraper health ----
