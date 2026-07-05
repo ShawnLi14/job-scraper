@@ -3268,5 +3268,117 @@
     "location": "Redmond, WA",
     "url": "https://www.metacareers.com/jobs/1418337243438665",
     "department": "Research"
+  },
+  {
+    "_key": "Coupang||Director ll, Product Management - Search & Discovery||https://www.coupang.jobs/en/jobs/?gh_jid=7783372",
+    "firm": "Coupang",
+    "title": "Director ll, Product Management - Search & Discovery",
+    "location": "Mountain View, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7783372",
+    "department": ""
+  },
+  {
+    "_key": "Coupang||Director, Product Management - Search & Discovery||https://www.coupang.jobs/en/jobs/?gh_jid=7783307",
+    "firm": "Coupang",
+    "title": "Director, Product Management - Search & Discovery",
+    "location": "Mountain View, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7783307",
+    "department": ""
+  },
+  {
+    "_key": "Coupang||Senior Staff Machine Learning Infrastructure Engineer – Search & Discovery||https://www.coupang.jobs/en/jobs/?gh_jid=7528580",
+    "firm": "Coupang",
+    "title": "Senior Staff Machine Learning Infrastructure Engineer – Search & Discovery",
+    "location": "Mountain View, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7528580",
+    "department": ""
+  },
+  {
+    "_key": "Coupang||Staff AI Engineer - Search & Discovery||https://www.coupang.jobs/en/jobs/?gh_jid=7775452",
+    "firm": "Coupang",
+    "title": "Staff AI Engineer - Search & Discovery",
+    "location": "Mountain View, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7775452",
+    "department": ""
+  },
+  {
+    "_key": "Coupang||Staff ML Infra Engineer, Search & Discovery||https://www.coupang.jobs/en/jobs/?gh_jid=8025195",
+    "firm": "Coupang",
+    "title": "Staff ML Infra Engineer, Search & Discovery",
+    "location": "Mountain View, USA",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8025195",
+    "department": ""
+  },
+  {
+    "_key": "Roblox||Principal Frontend Engineer - Discovery ||https://careers.roblox.com/jobs/7623438?gh_jid=7623438",
+    "firm": "Roblox",
+    "title": "Principal Frontend Engineer - Discovery ",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7623438?gh_jid=7623438",
+    "department": ""
+  },
+  {
+    "_key": "Roblox||Principal/Senior Machine Learning Scientist - Search and Discovery ||https://careers.roblox.com/jobs/7655346?gh_jid=7655346",
+    "firm": "Roblox",
+    "title": "Principal/Senior Machine Learning Scientist - Search and Discovery ",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7655346?gh_jid=7655346",
+    "department": ""
+  },
+  {
+    "_key": "Roblox||Product Marketing Manager, Discovery ||https://careers.roblox.com/jobs/7950883?gh_jid=7950883",
+    "firm": "Roblox",
+    "title": "Product Marketing Manager, Discovery ",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7950883?gh_jid=7950883",
+    "department": ""
+  },
+  {
+    "_key": "Roblox||Senior Engineering Manager, Search and Discovery||https://careers.roblox.com/jobs/7764306?gh_jid=7764306",
+    "firm": "Roblox",
+    "title": "Senior Engineering Manager, Search and Discovery",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7764306?gh_jid=7764306",
+    "department": ""
+  },
+  {
+    "_key": "Roblox||Senior / Principal Data Scientist - Discovery||https://careers.roblox.com/jobs/7701054?gh_jid=7701054",
+    "firm": "Roblox",
+    "title": "Senior / Principal Data Scientist - Discovery",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7701054?gh_jid=7701054",
+    "department": ""
+  },
+  {
+    "_key": "Roblox||Technical Director - Data Science (Discovery)||https://careers.roblox.com/jobs/7376352?gh_jid=7376352",
+    "firm": "Roblox",
+    "title": "Technical Director - Data Science (Discovery)",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7376352?gh_jid=7376352",
+    "department": ""
+  },
+  {
+    "_key": "Intel||DTCO Data Engineer Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+    "firm": "Intel",
+    "title": "DTCO Data Engineer Intern",
+    "location": "US, Texas, Austin",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
+    "department": ""
+  },
+  {
+    "_key": "Intel||AI Software Engineering Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
+    "firm": "Intel",
+    "title": "AI Software Engineering Intern",
+    "location": "US, Arizona, Phoenix",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
+    "department": ""
+  },
+  {
+    "_key": "Intel||Silicon Performance Validation and Characterization Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "firm": "Intel",
+    "title": "Silicon Performance Validation and Characterization Intern",
+    "location": "US, Arizona, Phoenix",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310",
+    "department": ""
   }
 ]
