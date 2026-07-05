@@ -303,6 +303,24 @@ FIRMS: list[Firm] = [
     Firm("Motional", "greenhouse", {"board": "motional"}),
     Firm("Skydio", "ashby", {"board": "skydio"}),
 
+    # ---- Additional high-TC (verified boards) ----
+    Firm("Wiz", "greenhouse", {"board": "wizinc"}),
+    Firm("Rubrik", "greenhouse", {"board": "rubrik"}),
+    Firm("StubHub", "greenhouse", {"board": "stubhubinc"}),
+    Firm("Coupang", "greenhouse", {"board": "coupang"}),
+    Firm("Roblox", "greenhouse", {"board": "roblox"}),
+    Firm("Pinterest", "greenhouse", {"board": "pinterest"}),
+    Firm("Elastic", "greenhouse", {"board": "elastic"}),
+    Firm("Mercury", "greenhouse", {"board": "mercury"}),
+    Firm("Monzo", "greenhouse", {"board": "monzo"}),
+    Firm("IEX", "greenhouse", {"board": "iex"}),
+    Firm("Synthesia", "ashby", {"board": "synthesia"}),
+    Firm("Lambda", "ashby", {"board": "lambda"}),
+    Firm("Sentry", "ashby", {"board": "sentry"}),
+    Firm("Vanta", "ashby", {"board": "vanta"}),
+    Firm("Normal Computing", "ashby", {"board": "normalcomputing"}),
+    Firm("Ashby", "ashby", {"board": "ashby"}),
+
     # ---- Workday API firms ----
     Firm("G-Research", "workday", {
         "tenant": "gresearch",
@@ -313,6 +331,18 @@ FIRMS: list[Firm] = [
         "tenant": "nvidia",
         "site": "NVIDIAExternalCareerSite",
         "instance": "wd5",
+        "page_size": 20,
+    }),
+    Firm("Salesforce", "workday", {
+        "tenant": "salesforce",
+        "site": "External_Career_Site",
+        "instance": "wd12",
+        "page_size": 20,
+    }),
+    Firm("Intel", "workday", {
+        "tenant": "intel",
+        "site": "External",
+        "instance": "wd1",
         "page_size": 20,
     }),
 
