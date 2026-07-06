@@ -3396,5 +3396,53 @@
     "location": "New York, Chicago",
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
     "department": ""
+  },
+  {
+    "_key": "Jane Street||Cybersecurity Analyst: New Grad ||https://job-boards.greenhouse.io/janestreet/jobs/8613910002",
+    "firm": "Jane Street",
+    "title": "Cybersecurity Analyst: New Grad ",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8613910002",
+    "department": ""
+  },
+  {
+    "_key": "Citadel Securities||Software Engineer – Intern (US) Miami, New York Apply Now||https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+    "firm": "Citadel Securities",
+    "title": "Software Engineer – Intern (US) Miami, New York Apply Now",
+    "location": "",
+    "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+    "department": ""
+  },
+  {
+    "_key": "Citadel Securities||Quantitative Trader – Intern (US) Miami, New York Apply Now||https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+    "firm": "Citadel Securities",
+    "title": "Quantitative Trader – Intern (US) Miami, New York Apply Now",
+    "location": "",
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/",
+    "department": ""
+  },
+  {
+    "_key": "Citadel Securities||Quantitative Research Analyst – Intern (US) Miami, New York Apply Now||https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+    "firm": "Citadel Securities",
+    "title": "Quantitative Research Analyst – Intern (US) Miami, New York Apply Now",
+    "location": "",
+    "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/",
+    "department": ""
+  },
+  {
+    "_key": "Citadel Securities||Designated Market Maker (DMM) Trader – Intern (US) New York Apply Now||https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/",
+    "firm": "Citadel Securities",
+    "title": "Designated Market Maker (DMM) Trader – Intern (US) New York Apply Now",
+    "location": "",
+    "url": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/",
+    "department": ""
+  },
+  {
+    "_key": "Citadel Securities||FPGA Engineer – Intern (US) Miami, New York Apply Now||https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+    "firm": "Citadel Securities",
+    "title": "FPGA Engineer – Intern (US) Miami, New York Apply Now",
+    "location": "",
+    "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+    "department": ""
   }
 ]
