@@ -61,7 +61,9 @@ NEW_GRAD_KEYWORDS = [
     r"\brotational\s+program",
     r"\banalyst\s+program\b",
     r"\bassociate\s+program\b",
-    r"\bfull[-\s]?time\s+(?:analyst|associate|new\s*grad|graduate|campus)",
+    r"\bfull[-\s]?time\b",
+    r"\bfulltime\b",
+    r"\bfull[-\s]?time\s+(?:analyst|associate|engineer|developer|researcher|scientist|trader|new\s*grad|graduate|campus|role|position)",
 ]
 
 UNDERGRAD_KEYWORDS = INTERN_KEYWORDS + NEW_GRAD_KEYWORDS
