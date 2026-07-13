@@ -53,6 +53,8 @@ INTERN_KEYWORDS = [
 # Keywords that tag a role as a full-time new-grad / graduate / campus hire.
 NEW_GRAD_KEYWORDS = [
     r"\bnew\s*grad(?:uate)?s?\b",
+    r"\bgrad\b",
+    r"\b2027\b",
     r"\brecent\s+graduate",
     r"\bgraduate\s+program(?:me)?",
     r"\bgraduate\s+(?:analyst|trader|engineer|developer|researcher|software|quant|quantitative|associate|scientist)",
@@ -73,7 +75,9 @@ EXCLUDE_TITLE_PATTERNS = re.compile(
     r"\brecruit\w*\b"          # recruiter, recruiting, recruitment coordinator, etc.
     r"|\bph\.?\s*d\.?\b"       # PhD / Ph.D. / Ph D — doctoral-only roles
     r"|\bdoctoral\b"
-    r"|\bpost[-\s]?doc(?:toral)?\b",
+    r"|\bpost[-\s]?doc(?:toral)?\b"
+    r"|\bsenior\b"
+    r"|\bstaff\b",
     re.IGNORECASE,
 )
 
