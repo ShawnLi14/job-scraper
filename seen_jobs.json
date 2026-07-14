@@ -4468,5 +4468,15 @@
     "location": "United States",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7738964",
     "department": ""
+  },
+  {
+    "_key": "SIG (Susquehanna)||Network Security Associate | New Grad||https://careers.sig.com/jobs/11195?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Network Security Associate | New Grad",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11195?lang=en-us",
+    "department": [
+      " New Graduates"
+    ]
   }
 ]
