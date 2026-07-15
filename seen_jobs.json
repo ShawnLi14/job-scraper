@@ -4478,5 +4478,21 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Google||Data Scientist, Ads Insight and Measurement||https://www.google.com/about/careers/applications/jobs/results/134590021188362950",
+    "firm": "Google",
+    "title": "Data Scientist, Ads Insight and Measurement",
+    "location": "Mountain View, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134590021188362950",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Production Engineer (University Grad)||https://www.metacareers.com/jobs/1570473568087646",
+    "firm": "Meta",
+    "title": "Production Engineer (University Grad)",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1570473568087646",
+    "department": "Infrastructure"
   }
 ]
