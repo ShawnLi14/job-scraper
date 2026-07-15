@@ -4502,5 +4502,21 @@
     "location": "New York",
     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008",
     "department": ""
+  },
+  {
+    "_key": "Two Sigma||AI Research Scientist - Intern [2027 Summer]||https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096",
+    "firm": "Two Sigma",
+    "title": "AI Research Scientist - Intern [2027 Summer]",
+    "location": "",
+    "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096",
+    "department": ""
+  },
+  {
+    "_key": "Two Sigma||Quantitative Researcher - Intern [2027 Summer]||https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945",
+    "firm": "Two Sigma",
+    "title": "Quantitative Researcher - Intern [2027 Summer]",
+    "location": "",
+    "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945",
+    "department": ""
   }
 ]
