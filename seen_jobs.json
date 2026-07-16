@@ -4574,5 +4574,29 @@
     "location": "Redmond, WA; Pasadena, CA",
     "url": "https://www.metacareers.com/jobs/1569760278118088",
     "department": "Research, University Grad - PhD & Postdoc"
+  },
+  {
+    "_key": "Databricks||Associate Product Manager, New Grad (2027 Start)||https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
+    "firm": "Databricks",
+    "title": "Associate Product Manager, New Grad (2027 Start)",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||Product Management Intern (Summer 2027)||https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+    "firm": "Databricks",
+    "title": "Product Management Intern (Summer 2027)",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+    "department": ""
+  },
+  {
+    "_key": "Nuro||Software Engineer, Performance - New Grad||https://nuro.ai/careersitem?gh_jid=6972272",
+    "firm": "Nuro",
+    "title": "Software Engineer, Performance - New Grad",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=6972272",
+    "department": ""
   }
 ]
