@@ -46,7 +46,6 @@ INTERN_KEYWORDS = [
     r"\bsummer analyst\b",
     r"\bsummer associate\b",
     r"\bexploration\b",
-    r"\bdiscovery\b",
     r"\bacademy\b",
 ]
 
