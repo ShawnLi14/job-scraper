@@ -4872,5 +4872,21 @@
     "location": "Illinois - Chicago",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Illinois---Chicago/Business-Development-Associate_JR347430-1",
     "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-op, Electrosynthesis||https://job-boards.greenhouse.io/lilasciences/jobs/4288399009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, Electrosynthesis",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4288399009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, ML Scientist for Protein Engineering||https://job-boards.greenhouse.io/lilasciences/jobs/4289387009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, ML Scientist for Protein Engineering",
+    "location": "San Francisco, CA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4289387009",
+    "department": ""
   }
 ]
