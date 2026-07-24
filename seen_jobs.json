@@ -4920,5 +4920,29 @@
     "location": "New York, NY",
     "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
     "department": ""
+  },
+  {
+    "_key": "Palantir||Forward Deployed Infrastructure Engineer, New Grad - US Government||https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "firm": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "department": "Delta"
+  },
+  {
+    "_key": "Palantir||Forward Deployed Infrastructure Engineer, New Grad - US Government||https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8",
+    "firm": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8",
+    "department": "Delta"
+  },
+  {
+    "_key": "Palantir||Forward Deployed Infrastructure Engineer, New Grad - US Government||https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "firm": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "department": "Delta"
   }
 ]
