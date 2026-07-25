@@ -326,6 +326,26 @@ FIRMS: list[Firm] = [
     Firm("Normal Computing", "ashby", {"board": "normalcomputing"}),
     Firm("Ashby", "ashby", {"board": "ashby"}),
 
+    # ---- Product-heavy / APM-signal companies (verified boards) ----
+    Firm("Duolingo", "greenhouse", {"board": "duolingo"}),
+    Firm("Asana", "greenhouse", {"board": "asana"}),
+    Firm("Dropbox", "greenhouse", {"board": "dropbox"}),
+    Firm("Appian", "greenhouse", {"board": "appian"}),
+    Firm("Twitch", "greenhouse", {"board": "twitch"}),
+    Firm("Box", "greenhouse", {"board": "boxinc"}),
+    Firm("Intercom", "greenhouse", {"board": "intercom"}),
+    Firm("Braze", "greenhouse", {"board": "braze"}),
+    Firm("Amplitude", "ashby", {"board": "amplitude"}),
+    Firm("Miro", "ashby", {"board": "miro"}),
+    Firm("Toast", "greenhouse", {"board": "toast"}),
+    Firm("Faire", "greenhouse", {"board": "faire"}),
+    Firm("Carta", "greenhouse", {"board": "carta"}),
+    Firm("Lattice", "greenhouse", {"board": "lattice"}),
+    Firm("Mixpanel", "greenhouse", {"board": "mixpanel"}),
+    Firm("Pendo", "greenhouse", {"board": "pendo"}),
+    Firm("Calendly", "greenhouse", {"board": "calendly"}),
+    Firm("Arcade AI", "ashby", {"board": "arcadeai"}),
+
     # ---- Workday API firms ----
     Firm("G-Research", "workday", {
         "tenant": "gresearch",
