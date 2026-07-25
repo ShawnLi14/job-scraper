@@ -5032,5 +5032,141 @@
     "location": "San Francisco, CA",
     "url": "https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002",
     "department": ""
+  },
+  {
+    "_key": "Zscaler||Detection Engineer- SkillBridge Intern||https://job-boards.greenhouse.io/zscaler/jobs/5114254007",
+    "firm": "Zscaler",
+    "title": "Detection Engineer- SkillBridge Intern",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5114254007",
+    "department": ""
+  },
+  {
+    "_key": "Zscaler||Federal Security Operations - SkillBridge Intern||https://job-boards.greenhouse.io/zscaler/jobs/5069684007",
+    "firm": "Zscaler",
+    "title": "Federal Security Operations - SkillBridge Intern",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5069684007",
+    "department": ""
+  },
+  {
+    "_key": "Zscaler||Insider Risk Analyst - SkillBridge Intern||https://job-boards.greenhouse.io/zscaler/jobs/5100618007",
+    "firm": "Zscaler",
+    "title": "Insider Risk Analyst - SkillBridge Intern",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5100618007",
+    "department": ""
+  },
+  {
+    "_key": "Zscaler||Phishing Analyst-SkillBridge Intern||https://job-boards.greenhouse.io/zscaler/jobs/5065302007",
+    "firm": "Zscaler",
+    "title": "Phishing Analyst-SkillBridge Intern",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5065302007",
+    "department": ""
+  },
+  {
+    "_key": "Zscaler||Site Reliability Engineer Federal- SkillBridge Intern||https://job-boards.greenhouse.io/zscaler/jobs/5046050007",
+    "firm": "Zscaler",
+    "title": "Site Reliability Engineer Federal- SkillBridge Intern",
+    "location": "Remote - Virginia, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5046050007",
+    "department": ""
+  },
+  {
+    "_key": "Zscaler||Site Reliability Engineer-SkillBridge Intern||https://job-boards.greenhouse.io/zscaler/jobs/5045817007",
+    "firm": "Zscaler",
+    "title": "Site Reliability Engineer-SkillBridge Intern",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5045817007",
+    "department": ""
+  },
+  {
+    "_key": "Verkada||Global Sourcing Specialist (Co-op)||https://job-boards.greenhouse.io/verkada/jobs/5175755007",
+    "firm": "Verkada",
+    "title": "Global Sourcing Specialist (Co-op)",
+    "location": "San Mateo, CA United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5175755007",
+    "department": ""
+  },
+  {
+    "_key": "Verkada||Hardware Engineer (Fall Co-op)||https://job-boards.greenhouse.io/verkada/jobs/4321159007",
+    "firm": "Verkada",
+    "title": "Hardware Engineer (Fall Co-op)",
+    "location": "San Mateo, CA United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
+    "department": ""
+  },
+  {
+    "_key": "Verkada||Solutions Engineering Director, Associate Program||https://job-boards.greenhouse.io/verkada/jobs/5124829007",
+    "firm": "Verkada",
+    "title": "Solutions Engineering Director, Associate Program",
+    "location": "San Mateo, CA United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5124829007",
+    "department": ""
+  },
+  {
+    "_key": "Netic||Forward Deployed Engineer (FDE) - New Grad - 2026-2027||https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8",
+    "firm": "Netic",
+    "title": "Forward Deployed Engineer (FDE) - New Grad - 2026-2027",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8",
+    "department": "University"
+  },
+  {
+    "_key": "Netic||Forward Deployed Engineer (FDE) - Intern - 2026-2027||https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c",
+    "firm": "Netic",
+    "title": "Forward Deployed Engineer (FDE) - Intern - 2026-2027",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c",
+    "department": "University"
+  },
+  {
+    "_key": "Netic||Full-Stack Software Engineer (Product) - New Grad - 2026-2027||https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+    "firm": "Netic",
+    "title": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
+    "department": "University"
+  },
+  {
+    "_key": "Netic||Full-Stack Software Engineer (Product) - Intern - 2026-2027||https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef",
+    "firm": "Netic",
+    "title": "Full-Stack Software Engineer (Product) - Intern - 2026-2027",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef",
+    "department": "University"
+  },
+  {
+    "_key": "Netic||Software Engineer (Agent Platform) - New Grad - 2026-2027||https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+    "firm": "Netic",
+    "title": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+    "department": "University"
+  },
+  {
+    "_key": "Netic||Software Engineer (Agent Platform) - Intern - 2026-2027||https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+    "firm": "Netic",
+    "title": "Software Engineer (Agent Platform) - Intern - 2026-2027",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+    "department": "University"
+  },
+  {
+    "_key": "Column||Payment Operations (New Grad/ Early Career)||https://jobs.ashbyhq.com/column/c349d594-33a2-49a2-a168-afa8d8226572",
+    "firm": "Column",
+    "title": "Payment Operations (New Grad/ Early Career)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/column/c349d594-33a2-49a2-a168-afa8d8226572",
+    "department": "Product & Engineering"
+  },
+  {
+    "_key": "Lucid Motors||Customer Care Specialist (Full-Time)||https://job-boards.greenhouse.io/lucidmotors/jobs/5123424007",
+    "firm": "Lucid Motors",
+    "title": "Customer Care Specialist (Full-Time)",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123424007",
+    "department": ""
   }
 ]
