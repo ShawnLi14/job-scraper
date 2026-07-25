@@ -346,6 +346,28 @@ FIRMS: list[Firm] = [
     Firm("Calendly", "greenhouse", {"board": "calendly"}),
     Firm("Arcade AI", "ashby", {"board": "arcadeai"}),
 
+    # ---- Security / infra / data / autonomy / gaming (verified boards) ----
+    Firm("Okta", "greenhouse", {"board": "okta"}),
+    Firm("Zscaler", "greenhouse", {"board": "zscaler"}),
+    Firm("Verkada", "greenhouse", {"board": "verkada"}),
+    Firm("Tailscale", "greenhouse", {"board": "tailscale"}),
+    Firm("1Password", "ashby", {"board": "1password"}),
+    Firm("GitLab", "greenhouse", {"board": "gitlab"}),
+    Firm("New Relic", "greenhouse", {"board": "newrelic"}),
+    Firm("ClickHouse", "ashby", {"board": "clickhouse"}),
+    Firm("Anyscale", "ashby", {"board": "anyscale"}),
+    Firm("Arize AI", "greenhouse", {"board": "arizeai"}),
+    Firm("Netic", "ashby", {"board": "netic"}),
+    Firm("Adyen", "greenhouse", {"board": "adyen"}),
+    Firm("Column", "ashby", {"board": "column"}),
+    Firm("Modern Treasury", "ashby", {"board": "moderntreasury"}),
+    Firm("Zoox", "lever", {"company": "zoox"}),
+    Firm("Aurora", "greenhouse", {"board": "aurorainnovation"}),
+    Firm("Lucid Motors", "greenhouse", {"board": "lucidmotors"}),
+    Firm("Riot Games", "greenhouse", {"board": "riotgames"}),
+    Firm("Epic Games", "greenhouse", {"board": "epicgames"}),
+    Firm("Benchling", "ashby", {"board": "benchling"}),
+
     # ---- Workday API firms ----
     Firm("G-Research", "workday", {
         "tenant": "gresearch",
