@@ -5208,5 +5208,21 @@
     "location": "US, Oregon, Hillsboro",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916",
     "department": ""
+  },
+  {
+    "_key": "LangChain||Deployed Engineer (Early Career- SF/NY)||https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+    "firm": "LangChain",
+    "title": "Deployed Engineer (Early Career- SF/NY)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+    "department": "Deployed Engineering"
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Enterprise Go-to-Market||https://job-boards.greenhouse.io/lilasciences/jobs/4332041009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Enterprise Go-to-Market",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4332041009",
+    "department": ""
   }
 ]
