@@ -5168,5 +5168,29 @@
     "location": "Southfield, MI",
     "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5123424007",
     "department": ""
+  },
+  {
+    "_key": "Squarepoint Capital||Intern Quant Researcher||https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+    "firm": "Squarepoint Capital",
+    "title": "Intern Quant Researcher",
+    "location": "London, Paris, New York, Singapore, Hong Kong",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+    "department": ""
+  },
+  {
+    "_key": "Notion||Business Development Representative, New York||https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "firm": "Notion",
+    "title": "Business Development Representative, New York",
+    "location": "New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "department": "Early Career"
+  },
+  {
+    "_key": "Notion||Business Development Representative, San Francisco||https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+    "firm": "Notion",
+    "title": "Business Development Representative, San Francisco",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
+    "department": "Early Career"
   }
 ]
