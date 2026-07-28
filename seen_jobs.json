@@ -5256,5 +5256,29 @@
     "location": "McLean, Virginia",
     "url": "https://job-boards.greenhouse.io/appian/jobs/8088498",
     "department": ""
+  },
+  {
+    "_key": "Skydio||Product Design Engineer Intern||https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182",
+    "firm": "Skydio",
+    "title": "Product Design Engineer Intern",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182",
+    "department": "Hardware"
+  },
+  {
+    "_key": "Skydio||Electrical Engineer Intern||https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+    "firm": "Skydio",
+    "title": "Electrical Engineer Intern",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+    "department": "Hardware"
+  },
+  {
+    "_key": "Skydio||Operations Program Management Intern||https://jobs.ashbyhq.com/skydio/3444dc8a-1b2a-4bb1-9bfb-15252d2a25e5",
+    "firm": "Skydio",
+    "title": "Operations Program Management Intern",
+    "location": "Hayward, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/3444dc8a-1b2a-4bb1-9bfb-15252d2a25e5",
+    "department": "Manufacturing Engineering"
   }
 ]
