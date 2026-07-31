@@ -5416,5 +5416,37 @@
     "location": "Menlo Park, CA; New York, NY; San Francisco, CA",
     "url": "https://www.metacareers.com/jobs/1468691051611430",
     "department": "Data & Analytics"
+  },
+  {
+    "_key": "Palantir||Product Designer, Internship||https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
+    "firm": "Palantir",
+    "title": "Product Designer, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
+    "department": "Design"
+  },
+  {
+    "_key": "Palantir||Product Designer, Internship - US Government||https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "firm": "Palantir",
+    "title": "Product Designer, Internship - US Government",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "department": "Design"
+  },
+  {
+    "_key": "Palantir||Product Designer, Internship - US Government||https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "firm": "Palantir",
+    "title": "Product Designer, Internship - US Government",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "department": "Design"
+  },
+  {
+    "_key": "Palantir||Product Designer, Internship - US Government||https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "firm": "Palantir",
+    "title": "Product Designer, Internship - US Government",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "department": "Design"
   }
 ]
