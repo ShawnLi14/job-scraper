@@ -5448,5 +5448,37 @@
     "location": "Washington, D.C.",
     "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
     "department": "Design"
+  },
+  {
+    "_key": "Palantir||Product Designer, New Grad||https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e",
+    "firm": "Palantir",
+    "title": "Product Designer, New Grad",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e",
+    "department": "Design"
+  },
+  {
+    "_key": "Palantir||Product Designer, New Grad - US Government||https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65",
+    "firm": "Palantir",
+    "title": "Product Designer, New Grad - US Government",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/25378ba0-db78-4c70-8174-a05ce514fc65",
+    "department": "Design"
+  },
+  {
+    "_key": "Palantir||Product Designer, New Grad - US Government||https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb",
+    "firm": "Palantir",
+    "title": "Product Designer, New Grad - US Government",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/32295454-6629-4f47-b11e-bbd7f5d41acb",
+    "department": "Design"
+  },
+  {
+    "_key": "Palantir||Product Designer, New Grad - US Government||https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02",
+    "firm": "Palantir",
+    "title": "Product Designer, New Grad - US Government",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/5f7a90e7-f927-47bf-90ed-52d17c58ae02",
+    "department": "Design"
   }
 ]
