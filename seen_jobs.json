@@ -5528,5 +5528,29 @@
     "location": "California - San Francisco",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
     "department": ""
+  },
+  {
+    "_key": "LangChain||Deployed Engineer (Early Career-NYC)||https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134",
+    "firm": "LangChain",
+    "title": "Deployed Engineer (Early Career-NYC)",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134",
+    "department": "Deployed Engineering"
+  },
+  {
+    "_key": "LangChain||Deployed Engineer (Early Career- SF)||https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+    "firm": "LangChain",
+    "title": "Deployed Engineer (Early Career- SF)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+    "department": "Deployed Engineering"
+  },
+  {
+    "_key": "Figure AI||Power Systems Integration Intern [Fall 2026]||https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+    "firm": "Figure AI",
+    "title": "Power Systems Integration Intern [Fall 2026]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+    "department": ""
   }
 ]
