@@ -5600,5 +5600,21 @@
     "location": "Austin",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8106084",
     "department": ""
+  },
+  {
+    "_key": "Roblox||[2027] Software Engineer, Early Career||https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+    "firm": "Roblox",
+    "title": "[2027] Software Engineer, Early Career",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+    "department": ""
+  },
+  {
+    "_key": "Roblox||[Summer 2027] Software Engineer Intern||https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+    "firm": "Roblox",
+    "title": "[Summer 2027] Software Engineer Intern",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+    "department": ""
   }
 ]
