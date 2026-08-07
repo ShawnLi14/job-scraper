@@ -5682,5 +5682,45 @@
     "location": "Southfield, MI",
     "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5206782007",
     "department": ""
+  },
+  {
+    "_key": "Belvedere Trading||Quantitative Trader - Entry Level 2027||https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee",
+    "firm": "Belvedere Trading",
+    "title": "Quantitative Trader - Entry Level 2027",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee",
+    "department": "Campus - Quantitative Trading"
+  },
+  {
+    "_key": "Belvedere Trading||Quantitative Trading Intern - Summer 2027||https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+    "firm": "Belvedere Trading",
+    "title": "Quantitative Trading Intern - Summer 2027",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab",
+    "department": "Campus - Quantitative Trading"
+  },
+  {
+    "_key": "Belvedere Trading||Quantitative Trading Intern - Winter Quarter 2027||https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0",
+    "firm": "Belvedere Trading",
+    "title": "Quantitative Trading Intern - Winter Quarter 2027",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0",
+    "department": "Campus - Quantitative Trading"
+  },
+  {
+    "_key": "Belvedere Trading||Software Engineer - Entry Level 2027||https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
+    "firm": "Belvedere Trading",
+    "title": "Software Engineer - Entry Level 2027",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
+    "department": "Campus"
+  },
+  {
+    "_key": "Belvedere Trading||Software Engineer Intern - Summer 2027||https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+    "firm": "Belvedere Trading",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+    "department": "Campus"
   }
 ]
