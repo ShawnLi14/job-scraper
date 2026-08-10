@@ -70,13 +70,31 @@ NEW_GRAD_KEYWORDS = [
 UNDERGRAD_KEYWORDS = INTERN_KEYWORDS + NEW_GRAD_KEYWORDS
 UNDERGRAD_PATTERN = re.compile("|".join(UNDERGRAD_KEYWORDS), re.IGNORECASE)
 
+# High-signal IC titles that startups use instead of "new grad" — often no
+# graduation requirement, but still open to strong early-career candidates.
+MTS_KEYWORDS = [
+    r"member of technical staff",
+    r"\bmts\b",
+    r"\bfounding\s+member of technical",
+    r"\bfounding\s+(?:software\s+)?engineer\b",
+    r"\bfounding\s+forward[\s-]?deployed",
+    # Allow a short qualifier between "deployed" and "engineer"
+    # (e.g. "Forward Deployed Agent Engineer").
+    r"\bforward[\s-]?deployed(?:\s+\w+){0,2}\s+engineer\b",
+]
+MTS_PATTERN = re.compile("|".join(MTS_KEYWORDS), re.IGNORECASE)
+
 EXCLUDE_TITLE_PATTERNS = re.compile(
     r"\brecruit\w*\b"          # recruiter, recruiting, recruitment coordinator, etc.
     r"|\bph\.?\s*d\.?\b"       # PhD / Ph.D. / Ph D — doctoral-only roles
     r"|\bdoctoral\b"
     r"|\bpost[-\s]?doc(?:toral)?\b"
     r"|\bsenior\b"
-    r"|\bstaff\b",
+    # Exclude "Staff Engineer" / "Staff SWE" seniority, but NOT
+    # "Member of Technical Staff" (matched via MTS_PATTERN instead).
+    r"|\bstaff\s+(?:software|engineer|swe|ml|machine|data|platform|"
+    r"sre|security|infra|infrastructure|research|backend|frontend|"
+    r"full[\s-]?stack)",
     re.IGNORECASE,
 )
 
@@ -84,7 +102,7 @@ EXCLUDE_TITLE_PATTERNS = re.compile(
 STALE_PATTERN = re.compile(r"\bsummer\b.*\b2026\b|\b2026\b.*\bsummer\b", re.IGNORECASE)
 
 US_LOCATION_HINTS = [
-    "united states", "new york", "chicago", "san francisco", "boston",
+    "united states", "new york", "nyc", "chicago", "san francisco", "boston",
     "seattle", "los angeles", "miami", "houston", "austin", "denver",
     "philadelphia", "atlanta", "dallas", "greenwich", "stamford",
     "washington", "florida", "california", "illinois", "texas",
@@ -263,6 +281,45 @@ FIRMS: list[Firm] = [
     Firm("Polymarket", "ashby", {"board": "polymarket"}),
     Firm("Zapier", "ashby", {"board": "zapier"}),
     Firm("Runway", "ashby", {"board": "runway"}),
+
+    # ---- NYC / high-signal MTS & new-grad gaps (verified boards) ----
+    Firm("Basis AI", "ashby", {"board": "basis-ai"}),
+    Firm("ATG", "ashby", {"board": "atg"}),
+    Firm("Quadrillion Labs", "ashby", {"board": "quadrillion-labs"}),
+    Firm("General Intuition", "ashby", {"board": "generalintuition-medal"}),
+    Firm("Liquid", "ashby", {"board": "liquid"}),
+    Firm("Solstice", "ashby", {"board": "solstice"}),
+    Firm("Endex", "ashby", {"board": "endex"}),
+    Firm("Concourse", "ashby", {"board": "concourse"}),
+    Firm("Eagle", "ashby", {"board": "eagle"}),
+    Firm("EliseAI", "ashby", {"board": "eliseai"}),
+    Firm("Hebbia", "ashby", {"board": "hebbia-ai"}),
+    Firm("Glean", "greenhouse", {"board": "gleanwork"}),
+    Firm("Cresta", "greenhouse", {"board": "cresta"}),
+    Firm("The Trade Desk", "greenhouse", {"board": "thetradedesk"}),
+    Firm("Ripple", "greenhouse", {"board": "ripple"}),
+
+    # ---- topstartups.io NYC — MTS / early-career (tier 1) ----
+    Firm("Cockroach Labs", "greenhouse", {"board": "cockroachlabs"}),
+    Firm("Amigo", "ashby", {"board": "amigo"}),
+    Firm("Tennr", "ashby", {"board": "tennr"}),
+    Firm("Slingshot AI", "ashby", {"board": "slingshotai"}),
+    Firm("UiPath", "ashby", {"board": "uipath"}),
+    Firm("Celonis", "greenhouse", {"board": "celonis"}),
+    Firm("Clay", "ashby", {"board": "claylabs"}),
+    Firm("Eight Sleep", "ashby", {"board": "eightsleep"}),
+
+    # ---- topstartups.io NYC — dense NYC eng / early (tier 2) ----
+    Firm("Traba", "ashby", {"board": "traba"}),
+    Firm("Maven Clinic", "greenhouse", {"board": "mavenclinic"}),
+    Firm("GlossGenius", "greenhouse", {"board": "glossgenius"}),
+    Firm("Attentive", "greenhouse", {"board": "attentive"}),
+    Firm("Adaptive Security", "ashby", {"board": "adaptive"}),
+    Firm("Camber", "ashby", {"board": "camber"}),
+    Firm("Avoca", "ashby", {"board": "avoca"}),
+    Firm("Oscar Health", "greenhouse", {"board": "oscar"}),
+    Firm("Betterment", "greenhouse", {"board": "betterment"}),
+    Firm("Grafana Labs", "greenhouse", {"board": "grafanalabs"}),
 
     # ---- AI labs (frontier research) ----
     Firm("Thinking Machines Lab", "greenhouse", {"board": "thinkingmachines"}),
@@ -1337,8 +1394,11 @@ def _is_us_location(job: Job) -> bool:
 
 
 def is_undergrad_opportunity(job: Job) -> bool:
-    text = f"{job.title} {job.department}".lower()
-    if not UNDERGRAD_PATTERN.search(text):
+    """Match US internships, campus/new-grad roles, and MTS/founding eng titles."""
+    text = f"{job.title} {job.department}"
+    is_campus = bool(UNDERGRAD_PATTERN.search(text))
+    is_mts = bool(MTS_PATTERN.search(job.title))
+    if not (is_campus or is_mts):
         return False
     if EXCLUDE_TITLE_PATTERNS.search(job.title):
         return False
@@ -1457,7 +1517,7 @@ def run(workers: int = 8, diagnose: bool = False, *, persist_history: bool = Tru
         Panel(
             "[bold]Quant & Tech Early-Career Opportunity Scraper[/bold]\n"
             f"Checking {len(FIRMS)} firms for US internships, insight programs,\n"
-            "and new-graduate / full-time campus roles …",
+            "new-graduate / campus roles, and MTS / founding eng titles …",
             style="cyan",
         )
     )
