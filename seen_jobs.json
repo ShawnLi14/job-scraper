@@ -8138,5 +8138,21 @@
     "location": "New York City",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8065401",
     "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Multimodal)||https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Multimodal)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer III, Generative AI, Google Cloud||https://www.google.com/about/careers/applications/jobs/results/127965694384841414",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer III, Generative AI, Google Cloud",
+    "location": "New York, NY, USA; Austin, TX, USA; Chicago, IL, USA; Dallas, TX, USA; Detroit, MI, USA; Houston, TX, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/127965694384841414",
+    "department": ""
   }
 ]
