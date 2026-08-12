@@ -8186,5 +8186,21 @@
     "location": "New York City, NY; San Francisco, CA; Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5302966008",
     "department": ""
+  },
+  {
+    "_key": "Anduril||Product Operations Technical Specialist, Air Defense (Recent Grad)||https://boards.greenhouse.io/andurilindustries/jobs/5133599007?gh_jid=5133599007",
+    "firm": "Anduril",
+    "title": "Product Operations Technical Specialist, Air Defense (Recent Grad)",
+    "location": "Irvine, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5133599007?gh_jid=5133599007",
+    "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Data Flywheel)||https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Data Flywheel)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc",
+    "department": "AI Research & Systems"
   }
 ]
