@@ -8178,5 +8178,13 @@
     "location": "New York, US, New York",
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7667306003?gh_jid=7667306003",
     "department": ""
+  },
+  {
+    "_key": "Anthropic||Forward Deployed Engineer||https://job-boards.greenhouse.io/anthropic/jobs/5302966008",
+    "firm": "Anthropic",
+    "title": "Forward Deployed Engineer",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5302966008",
+    "department": ""
   }
 ]
