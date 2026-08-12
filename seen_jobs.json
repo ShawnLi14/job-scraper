@@ -8154,5 +8154,21 @@
     "location": "New York, NY, USA; Austin, TX, USA; Chicago, IL, USA; Dallas, TX, USA; Detroit, MI, USA; Houston, TX, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/127965694384841414",
     "department": ""
+  },
+  {
+    "_key": "Skydio||Hardware Test & Reliability Intern||https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
+    "firm": "Skydio",
+    "title": "Hardware Test & Reliability Intern",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
+    "department": "Software"
+  },
+  {
+    "_key": "Skydio||Hardware Product Management Intern||https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "firm": "Skydio",
+    "title": "Hardware Product Management Intern",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "department": "Product"
   }
 ]
