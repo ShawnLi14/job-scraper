@@ -8234,5 +8234,37 @@
     "location": "New York",
     "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008",
     "department": ""
+  },
+  {
+    "_key": "Zoox||Student Contract Worker - Machine Learning Engineer - Data Mining & VLM (Full-time)||https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e",
+    "firm": "Zoox",
+    "title": "Student Contract Worker - Machine Learning Engineer - Data Mining & VLM (Full-time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e",
+    "department": "Data Science"
+  },
+  {
+    "_key": "Zoox||Student Contract Worker System Test Engineer (Full-time)||https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868",
+    "firm": "Zoox",
+    "title": "Student Contract Worker System Test Engineer (Full-time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868",
+    "department": "Software"
+  },
+  {
+    "_key": "Zoox||Student Contract Worker Technical Program Manager (Full-time)||https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223",
+    "firm": "Zoox",
+    "title": "Student Contract Worker Technical Program Manager (Full-time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223",
+    "department": "Software"
+  },
+  {
+    "_key": "Zoox||Student Contract Worker: Analyst (Full-time)||https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5",
+    "firm": "Zoox",
+    "title": "Student Contract Worker: Analyst (Full-time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5",
+    "department": "Software"
   }
 ]
