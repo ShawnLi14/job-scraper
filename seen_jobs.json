@@ -8266,5 +8266,29 @@
     "location": "Foster City, CA",
     "url": "https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5",
     "department": "Software"
+  },
+  {
+    "_key": "ElevenLabs||Forward Deployed Engineer - Software Engineer - North America||https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "firm": "ElevenLabs",
+    "title": "Forward Deployed Engineer - Software Engineer - North America",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "department": "Enterprise - Deployment"
+  },
+  {
+    "_key": "Meta||Program Manager, America's Workforce Academy||https://www.metacareers.com/jobs/1837981410507073",
+    "firm": "Meta",
+    "title": "Program Manager, America's Workforce Academy",
+    "location": "Washington, DC",
+    "url": "https://www.metacareers.com/jobs/1837981410507073",
+    "department": "Communications & Public Policy"
+  },
+  {
+    "_key": "Meta||Program Coordinator, America's Workforce Academy||https://www.metacareers.com/jobs/930978369353514",
+    "firm": "Meta",
+    "title": "Program Coordinator, America's Workforce Academy",
+    "location": "Washington, DC",
+    "url": "https://www.metacareers.com/jobs/930978369353514",
+    "department": "Communications & Public Policy"
   }
 ]
