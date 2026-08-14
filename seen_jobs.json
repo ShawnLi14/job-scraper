@@ -8482,5 +8482,21 @@
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
     "department": "Early Career"
+  },
+  {
+    "_key": "Wolverine Trading||Entry Level C++ Software Engineer (Spring 2027 Graduates)||https://careers.wolve.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6",
+    "firm": "Wolverine Trading",
+    "title": "Entry Level C++ Software Engineer (Spring 2027 Graduates)",
+    "location": "Chicago, IL",
+    "url": "https://careers.wolve.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6",
+    "department": ""
+  },
+  {
+    "_key": "Mercor||Member of Technical Staff, Enterprise Platform||https://jobs.ashbyhq.com/mercor/d23ac44f-ae98-47cc-975d-9d09e1cf54d2",
+    "firm": "Mercor",
+    "title": "Member of Technical Staff, Enterprise Platform",
+    "location": "San Francisco or NYC",
+    "url": "https://jobs.ashbyhq.com/mercor/d23ac44f-ae98-47cc-975d-9d09e1cf54d2",
+    "department": "Core Engineering"
   }
 ]
