@@ -8562,5 +8562,29 @@
     "location": "Washington - Bellevue",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Washington---Bellevue/Security-Platform-Engineer---MTS_JR353828-1",
     "department": ""
+  },
+  {
+    "_key": "Zoox||Contract Student  Worker Technical Program Manager (Full-time)||https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223",
+    "firm": "Zoox",
+    "title": "Contract Student  Worker Technical Program Manager (Full-time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223",
+    "department": "Software"
+  },
+  {
+    "_key": "Zoox||Contract Student  Worker: Analyst (Full-time)||https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5",
+    "firm": "Zoox",
+    "title": "Contract Student  Worker: Analyst (Full-time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5",
+    "department": "Software"
+  },
+  {
+    "_key": "Zoox||Contract Student Worker System Test Engineer (Full-time)||https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868",
+    "firm": "Zoox",
+    "title": "Contract Student Worker System Test Engineer (Full-time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868",
+    "department": "Software"
   }
 ]
