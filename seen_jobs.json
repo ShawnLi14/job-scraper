@@ -8522,5 +8522,21 @@
     "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
     "department": "Early Career"
+  },
+  {
+    "_key": "Datadog||Product Management Intern||https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+    "firm": "Datadog",
+    "title": "Product Management Intern",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+    "department": ""
+  },
+  {
+    "_key": "Datadog||Software Engineering Intern||https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+    "firm": "Datadog",
+    "title": "Software Engineering Intern",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+    "department": ""
   }
 ]
