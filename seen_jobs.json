@@ -8586,5 +8586,29 @@
     "location": "Foster City, CA",
     "url": "https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868",
     "department": "Software"
+  },
+  {
+    "_key": "Point72 / Cubist||Quantitative Developer Intern||https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+    "firm": "Point72 / Cubist",
+    "title": "Quantitative Developer Intern",
+    "location": "New York",
+    "url": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+    "department": ""
+  },
+  {
+    "_key": "DV Trading||Trading Intern - Summer 2027 (DV Commodities)||https://job-boards.greenhouse.io/dvtrading/jobs/4719134005",
+    "firm": "DV Trading",
+    "title": "Trading Intern - Summer 2027 (DV Commodities)",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719134005",
+    "department": ""
+  },
+  {
+    "_key": "Tailscale||Forward Deployed Engineer||https://job-boards.greenhouse.io/tailscale/jobs/4724897005",
+    "firm": "Tailscale",
+    "title": "Forward Deployed Engineer",
+    "location": "Remote (United States)",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4724897005",
+    "department": ""
   }
 ]
