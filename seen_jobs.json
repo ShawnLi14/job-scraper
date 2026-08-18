@@ -8690,5 +8690,21 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/polymarket/9d54dede-9ca1-4c3e-a404-270b8e3d523c",
     "department": "Business Development"
+  },
+  {
+    "_key": "Five Rings||LINK 2027: Software Development Intensive Program||https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008",
+    "firm": "Five Rings",
+    "title": "LINK 2027: Software Development Intensive Program",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2026 Early Career Firmware Engineer ||https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007",
+    "firm": "Anduril",
+    "title": "2026 Early Career Firmware Engineer ",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007",
+    "department": ""
   }
 ]
