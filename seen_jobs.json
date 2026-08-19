@@ -8908,5 +8908,21 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Point72 / Cubist||2027 Cubist Quant Academy – Developers||https://boards.greenhouse.io/point72/jobs/7598678002?gh_jid=7598678002",
+    "firm": "Point72 / Cubist",
+    "title": "2027 Cubist Quant Academy – Developers",
+    "location": "New York",
+    "url": "https://boards.greenhouse.io/point72/jobs/7598678002?gh_jid=7598678002",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Software (Application Software)||https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Software (Application Software)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002",
+    "department": ""
   }
 ]
