@@ -8722,5 +8722,45 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720",
     "department": "Training"
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Electrical (Starship)||https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Electrical (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729124002?gh_jid=8729124002",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Manufacturing (Starship)||https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Manufacturing (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Mechanical (Starship)||https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Mechanical (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Propulsion (Starship)||https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Propulsion (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Software (Starship)||https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Software (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002",
+    "department": ""
   }
 ]
