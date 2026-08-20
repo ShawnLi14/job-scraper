@@ -9028,5 +9028,45 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/magic.dev/f9b3e872-cffa-400a-b9e0-621149c5f566",
     "department": "Engineering"
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, State and Local Government, Google Public Sector||https://www.google.com/about/careers/applications/jobs/results/135960461500654278",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, State and Local Government, Google Public Sector",
+    "location": "New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/135960461500654278",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, Higher Education, Google Public Sector||https://www.google.com/about/careers/applications/jobs/results/80702168184562374",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, Higher Education, Google Public Sector",
+    "location": "Sunnyvale, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/80702168184562374",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer IV, GenAI, Public Sector||https://www.google.com/about/careers/applications/jobs/results/131929720592704198",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer IV, GenAI, Public Sector",
+    "location": "Reston, VA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/131929720592704198",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer IV, GenAI, Google Public Sector||https://www.google.com/about/careers/applications/jobs/results/123508561035567814",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer IV, GenAI, Google Public Sector",
+    "location": "Reston, VA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/123508561035567814",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer IV, Google Public Sector||https://www.google.com/about/careers/applications/jobs/results/90171368481399494",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer IV, Google Public Sector",
+    "location": "Reston, VA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/90171368481399494",
+    "department": ""
   }
 ]
