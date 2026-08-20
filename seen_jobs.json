@@ -9004,5 +9004,21 @@
     "location": "San Francisco Office (Second St)",
     "url": "https://jobs.ashbyhq.com/lambda/28fe6ae2-c6f7-4097-bded-b0fa291d783a",
     "department": "Legal"
+  },
+  {
+    "_key": "Datadog||Staff Forward Deployed Engineer, Feature Flags||https://careers.datadoghq.com/detail/8144946/?gh_jid=8144946",
+    "firm": "Datadog",
+    "title": "Staff Forward Deployed Engineer, Feature Flags",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8144946/?gh_jid=8144946",
+    "department": ""
+  },
+  {
+    "_key": "Kalshi||Growth Politics Intern||https://jobs.ashbyhq.com/kalshi/5f00f02c-002e-4e93-891f-650a0c296e15",
+    "firm": "Kalshi",
+    "title": "Growth Politics Intern",
+    "location": "New York Office",
+    "url": "https://jobs.ashbyhq.com/kalshi/5f00f02c-002e-4e93-891f-650a0c296e15",
+    "department": "Growth"
   }
 ]
