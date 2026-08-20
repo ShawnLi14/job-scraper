@@ -9020,5 +9020,13 @@
     "location": "New York Office",
     "url": "https://jobs.ashbyhq.com/kalshi/5f00f02c-002e-4e93-891f-650a0c296e15",
     "department": "Growth"
+  },
+  {
+    "_key": "Magic||Member of Technical Staff, Security Engineer||https://jobs.ashbyhq.com/magic.dev/f9b3e872-cffa-400a-b9e0-621149c5f566",
+    "firm": "Magic",
+    "title": "Member of Technical Staff, Security Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/magic.dev/f9b3e872-cffa-400a-b9e0-621149c5f566",
+    "department": "Engineering"
   }
 ]
