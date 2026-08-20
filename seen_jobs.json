@@ -8940,5 +8940,29 @@
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
     "department": "Early Career"
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Civil/Structural (Starship)||https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Civil/Structural (Starship)",
+    "location": "Starbase, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002",
+    "department": ""
+  },
+  {
+    "_key": "Epic Games||Tech Art Intern||https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004",
+    "firm": "Epic Games",
+    "title": "Tech Art Intern",
+    "location": "Cary,North Carolina,United States",
+    "url": "https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004",
+    "department": ""
+  },
+  {
+    "_key": "Epic Games||Tools Programmer Intern||https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+    "firm": "Epic Games",
+    "title": "Tools Programmer Intern",
+    "location": "Cary,North Carolina,United States",
+    "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+    "department": ""
   }
 ]
