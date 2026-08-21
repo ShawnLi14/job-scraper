@@ -9092,5 +9092,23 @@
     "location": "San Jose, CA, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/110538186614022854",
     "department": ""
+  },
+  {
+    "_key": "Mercor||Member of Technical Staff, Mercor Enterprise Platform||https://jobs.ashbyhq.com/mercor/c6f9c6bd-68b8-49c5-aecb-b586616d7102",
+    "firm": "Mercor",
+    "title": "Member of Technical Staff, Mercor Enterprise Platform",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/mercor/c6f9c6bd-68b8-49c5-aecb-b586616d7102",
+    "department": "Core Engineering"
+  },
+  {
+    "_key": "SIG (Susquehanna)||Trading System Engineer - New Grad||https://careers.sig.com/jobs/11349?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Trading System Engineer - New Grad",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11349?lang=en-us",
+    "department": [
+      " New Graduates"
+    ]
   }
 ]
