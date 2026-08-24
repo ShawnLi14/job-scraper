@@ -9222,5 +9222,13 @@
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/solstice/57eeecdd-fb7c-481e-9594-f769c934eabc",
     "department": "Engineering"
+  },
+  {
+    "_key": "OpenAI||Forward Deployed Engineer (FDE), Healthcare - Seattle||https://jobs.ashbyhq.com/openai/a4332746-163e-4506-b62a-90758fb7a950",
+    "firm": "OpenAI",
+    "title": "Forward Deployed Engineer (FDE), Healthcare - Seattle",
+    "location": "Seattle",
+    "url": "https://jobs.ashbyhq.com/openai/a4332746-163e-4506-b62a-90758fb7a950",
+    "department": "Forward Deployed Engineering"
   }
 ]
