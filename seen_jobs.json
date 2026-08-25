@@ -9440,5 +9440,37 @@
     "location": "New York, NY",
     "url": "https://jobs.ashbyhq.com/reflectionai/266c76bf-7353-40e1-a2e6-8dd3187ec52c",
     "department": "Engineering"
+  },
+  {
+    "_key": "DV Trading||Futures & Options Trading Analyst Intern - Summer 2027||https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "firm": "DV Trading",
+    "title": "Futures & Options Trading Analyst Intern - Summer 2027",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "department": ""
+  },
+  {
+    "_key": "Figma||Forward Deployed Engineer||https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
+    "firm": "Figma",
+    "title": "Forward Deployed Engineer",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
+    "department": ""
+  },
+  {
+    "_key": "Eight Sleep||Hardware Support & Test Intern||https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5",
+    "firm": "Eight Sleep",
+    "title": "Hardware Support & Test Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5",
+    "department": "Hardware Engineering"
+  },
+  {
+    "_key": "AQR Capital||2027 Portfolio Implementation Analyst||https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-implementation-analyst/8143913",
+    "firm": "AQR Capital",
+    "title": "2027 Portfolio Implementation Analyst",
+    "location": "",
+    "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-implementation-analyst/8143913",
+    "department": ""
   }
 ]
