@@ -9278,5 +9278,29 @@
     "location": "Sunnyvale, CA",
     "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e",
     "department": "New Grads"
+  },
+  {
+    "_key": "Cerebras||CoDesign & NextGen - New College Grad ||https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507",
+    "firm": "Cerebras",
+    "title": "CoDesign & NextGen - New College Grad ",
+    "location": "Sunnyvale, CA",
+    "url": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507",
+    "department": "CoDesign"
+  },
+  {
+    "_key": "Cerebras||Sr. Member of Technical Staff||https://jobs.ashbyhq.com/cerebras/20dab4de-51f4-4704-8b72-5896b83ac37b",
+    "firm": "Cerebras",
+    "title": "Sr. Member of Technical Staff",
+    "location": "Sunnyvale, CA",
+    "url": "https://jobs.ashbyhq.com/cerebras/20dab4de-51f4-4704-8b72-5896b83ac37b",
+    "department": "Software Engineering "
+  },
+  {
+    "_key": "Cerebras||Member of Technical Staff (Software Engineer) ||https://jobs.ashbyhq.com/cerebras/24e42002-7f6d-4769-9ce0-0d844757cc0e",
+    "firm": "Cerebras",
+    "title": "Member of Technical Staff (Software Engineer) ",
+    "location": "Sunnyvale, CA",
+    "url": "https://jobs.ashbyhq.com/cerebras/24e42002-7f6d-4769-9ce0-0d844757cc0e",
+    "department": "Inference Service"
   }
 ]
