@@ -9344,5 +9344,21 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Databricks||Sr. Forward Deployed Engineer - National Security Professional Services ||https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002",
+    "firm": "Databricks",
+    "title": "Sr. Forward Deployed Engineer - National Security Professional Services ",
+    "location": "Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||Sr. Forward Deployed Engineer - National Security Professional Services ||https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
+    "firm": "Databricks",
+    "title": "Sr. Forward Deployed Engineer - National Security Professional Services ",
+    "location": "United States; USCA",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
+    "department": ""
   }
 ]
