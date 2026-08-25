@@ -9326,5 +9326,23 @@
     "location": "Berkeley, CA",
     "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
     "department": "Software"
+  },
+  {
+    "_key": "Celonis||Engineering Intern||https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
+    "firm": "Celonis",
+    "title": "Engineering Intern",
+    "location": "Remote, US, Massachusetts",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
+    "department": ""
+  },
+  {
+    "_key": "SIG (Susquehanna)||AI Co-op with Drexel University||https://careers.sig.com/jobs/11368?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "AI Co-op with Drexel University",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11368?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
