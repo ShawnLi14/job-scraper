@@ -9270,5 +9270,13 @@
     "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8",
     "department": "AI"
+  },
+  {
+    "_key": "Cerebras||Kernel Engineer - New Grad||https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e",
+    "firm": "Cerebras",
+    "title": "Kernel Engineer - New Grad",
+    "location": "Sunnyvale, CA",
+    "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e",
+    "department": "New Grads"
   }
 ]
