@@ -9528,5 +9528,29 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
     "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Software Engineer, Agents)||https://jobs.ashbyhq.com/perplexity/50a2def5-adeb-4f13-99c1-88c32482b772",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/50a2def5-adeb-4f13-99c1-88c32482b772",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "GlossGenius||Engineering Intern (Summer 2027)||https://job-boards.greenhouse.io/glossgenius/jobs/7978739003",
+    "firm": "GlossGenius",
+    "title": "Engineering Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978739003",
+    "department": ""
+  },
+  {
+    "_key": "GlossGenius||Engineering Intern (Summer 2027)||https://job-boards.greenhouse.io/glossgenius/jobs/7978666003",
+    "firm": "GlossGenius",
+    "title": "Engineering Intern (Summer 2027)",
+    "location": "New York City",
+    "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978666003",
+    "department": ""
   }
 ]
