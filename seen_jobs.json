@@ -9560,5 +9560,21 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2",
     "department": "Sales"
+  },
+  {
+    "_key": "Palantir||Information Security Engineer, Internship||https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+    "firm": "Palantir",
+    "title": "Information Security Engineer, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+    "department": "Information Security"
+  },
+  {
+    "_key": "Reflection AI||Member of Technical Staff - Engineering Lead, Data Platform||https://jobs.ashbyhq.com/reflectionai/b8aa9e15-39c1-416d-bdca-9f06244ac5af",
+    "firm": "Reflection AI",
+    "title": "Member of Technical Staff - Engineering Lead, Data Platform",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/reflectionai/b8aa9e15-39c1-416d-bdca-9f06244ac5af",
+    "department": "Foundations"
   }
 ]
