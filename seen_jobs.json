@@ -9632,5 +9632,69 @@
     "location": "",
     "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-finance-summer-analyst/8161563",
     "department": ""
+  },
+  {
+    "_key": "Databricks||Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector||https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "firm": "Databricks",
+    "title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "location": "Virginia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector||https://databricks.com/company/careers/open-positions/job?gh_jid=8760168002",
+    "firm": "Databricks",
+    "title": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "location": "Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760168002",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Manufacturing (Starshield)||https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Manufacturing (Starshield)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002",
+    "department": ""
+  },
+  {
+    "_key": "Eight Sleep||Mechanical Engineer (New Grad / Spring 2027)||https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96",
+    "firm": "Eight Sleep",
+    "title": "Mechanical Engineer (New Grad / Spring 2027)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96",
+    "department": "Hardware Engineering"
+  },
+  {
+    "_key": "Eight Sleep||Electrical Engineer (New Grad / Spring 2027)||https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294",
+    "firm": "Eight Sleep",
+    "title": "Electrical Engineer (New Grad / Spring 2027)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294",
+    "department": "Hardware Engineering"
+  },
+  {
+    "_key": "Avoca||Forward Deployed Product Engineer ||https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601",
+    "firm": "Avoca",
+    "title": "Forward Deployed Product Engineer ",
+    "location": "New York HQ ",
+    "url": "https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Lucid Motors||Customer Care Specialist (Full Time)||https://job-boards.greenhouse.io/lucidmotors/jobs/5217731007",
+    "firm": "Lucid Motors",
+    "title": "Customer Care Specialist (Full Time)",
+    "location": "Southfield, MI",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5217731007",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Research Scientist, Machine Learning||https://www.metacareers.com/jobs/1464755102365911",
+    "firm": "Meta",
+    "title": "Research Scientist, Machine Learning",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1464755102365911",
+    "department": "AI Research, Artificial Intelligence, Research, Software Engineering, University Grad - PhD & Postdoc"
   }
 ]
