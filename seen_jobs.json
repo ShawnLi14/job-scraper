@@ -9576,5 +9576,61 @@
     "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/reflectionai/b8aa9e15-39c1-416d-bdca-9f06244ac5af",
     "department": "Foundations"
+  },
+  {
+    "_key": "IMC Trading||Performance Engineer Intern - Summer 2027||https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+    "firm": "IMC Trading",
+    "title": "Performance Engineer Intern - Summer 2027",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||Sr. Forward Deployed Engineer - National Security||https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
+    "firm": "Databricks",
+    "title": "Sr. Forward Deployed Engineer - National Security",
+    "location": "United States; USCA",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||Sr. Forward Deployed Engineer - National Security||https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002",
+    "firm": "Databricks",
+    "title": "Sr. Forward Deployed Engineer - National Security",
+    "location": "Boston, Massachusetts; Delaware; Maryland; Remote - California; Remote - New York; Remote - Washington D.C.; Virginia; West Virginia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002",
+    "department": ""
+  },
+  {
+    "_key": "OpenAI||Forward Deployed Engineer (FDE), Legal-SF||https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
+    "firm": "OpenAI",
+    "title": "Forward Deployed Engineer (FDE), Legal-SF",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
+    "department": "Forward Deployed Engineering"
+  },
+  {
+    "_key": "Robinhood||Customer Experience Associate (New Grad)||https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432",
+    "firm": "Robinhood",
+    "title": "Customer Experience Associate (New Grad)",
+    "location": "Denver, CO; Westlake, TX",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Compiler Engineer, Backend- New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
+    "firm": "Nvidia",
+    "title": "Compiler Engineer, Backend- New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
+    "department": ""
+  },
+  {
+    "_key": "AQR Capital||2027 Portfolio Finance Summer Analyst||https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-finance-summer-analyst/8161563",
+    "firm": "AQR Capital",
+    "title": "2027 Portfolio Finance Summer Analyst",
+    "location": "",
+    "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-finance-summer-analyst/8161563",
+    "department": ""
   }
 ]
