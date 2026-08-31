@@ -9704,5 +9704,21 @@
     "location": "San Francisco - SF9",
     "url": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
     "department": ""
+  },
+  {
+    "_key": "Cockroach Labs||Member of Technical Staff||https://www.cockroachlabs.com/careers/job/?gh_jid=8055385",
+    "firm": "Cockroach Labs",
+    "title": "Member of Technical Staff",
+    "location": "New York, NY; San Mateo, CA; Toronto, Canada",
+    "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8055385",
+    "department": ""
+  },
+  {
+    "_key": "Google||Principal Engineer, Content and Generative AI Exploration, Search Platforms||https://www.google.com/about/careers/applications/jobs/results/84007510054183622",
+    "firm": "Google",
+    "title": "Principal Engineer, Content and Generative AI Exploration, Search Platforms",
+    "location": "Mountain View, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/84007510054183622",
+    "department": ""
   }
 ]
