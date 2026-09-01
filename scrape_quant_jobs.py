@@ -1471,6 +1471,7 @@ def _scrape_browser_firms(browser_firms: list[Firm]) -> dict[str, FirmResult]:
         browser = _launch_playwright_browser(pw)
         try:
             for firm in browser_firms:
+                console.print(f"[dim]Browser scrape: {firm.name}[/dim]")
                 try:
                     jobs = scrape_browser(firm, browser=browser)
                     relevant = [j for j in jobs if is_undergrad_opportunity(j)]
@@ -1479,8 +1480,13 @@ def _scrape_browser_firms(browser_firms: list[Firm]) -> dict[str, FirmResult]:
                         total_scraped=len(jobs),
                         matched=relevant,
                     )
+                    console.print(
+                        f"[dim]Browser scrape complete: {firm.name} "
+                        f"({len(relevant)} matched / {len(jobs)} total)[/dim]"
+                    )
                 except Exception as e:
                     results[firm.name] = FirmResult(firm.name, error=str(e))
+                    console.print(f"[yellow]Browser scrape error: {firm.name}: {e}[/yellow]")
         finally:
             browser.close()
     return results
@@ -1550,7 +1556,16 @@ def run(workers: int = 8, diagnose: bool = False, *, persist_history: bool = Tru
             spinner="dots",
         ):
             for firm in uber_firms:
+                console.print(f"[dim]Uber scrape: {firm.name}[/dim]")
                 firm_results[firm.name] = scrape_firm(firm)
+                if firm_results[firm.name].error:
+                    console.print(f"[yellow]Uber scrape error: {firm.name}: {firm_results[firm.name].error}[/yellow]")
+                else:
+                    console.print(
+                        f"[dim]Uber scrape complete: {firm.name} "
+                        f"({len(firm_results[firm.name].matched)} matched / "
+                        f"{firm_results[firm.name].total_scraped} total)[/dim]"
+                    )
 
     if meta_firms:
         with console.status(
@@ -1558,7 +1573,16 @@ def run(workers: int = 8, diagnose: bool = False, *, persist_history: bool = Tru
             spinner="dots",
         ):
             for firm in meta_firms:
+                console.print(f"[dim]Meta scrape: {firm.name}[/dim]")
                 firm_results[firm.name] = scrape_firm(firm)
+                if firm_results[firm.name].error:
+                    console.print(f"[yellow]Meta scrape error: {firm.name}: {firm_results[firm.name].error}[/yellow]")
+                else:
+                    console.print(
+                        f"[dim]Meta scrape complete: {firm.name} "
+                        f"({len(firm_results[firm.name].matched)} matched / "
+                        f"{firm_results[firm.name].total_scraped} total)[/dim]"
+                    )
 
     # ---- Diagnose mode: show per-firm scraper health ----
     if diagnose:
