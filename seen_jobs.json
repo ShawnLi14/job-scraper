@@ -9784,5 +9784,77 @@
     "location": "Mountain View, CA, USA; Austin, TX, USA; Atlanta, GA, USA; Boulder, CO, USA; Cambridge, MA, USA; Bellevue, WA, USA; Chicago, IL, USA; Houston, TX, USA; Irvine, CA, USA; Kirkland, WA, USA; Los Angeles, CA, USA; Madison, WI, USA; New York, NY, USA; Palo Alto, CA, USA; Portland, OR, USA; Pittsburgh, PA, USA; Raleigh, NC, USA; Reston, VA, USA; Redmond, WA, USA; Redwood City, CA, USA; San Diego, CA, USA; San Bruno, CA, USA; Seattle, WA, USA; San Francisco, CA, USA; San Jose, CA, USA; South San Francisco, CA, USA; Sunnyvale, CA, USA; Goleta, CA, USA; Santa Cruz, CA, USA; Durham, NC, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
     "department": ""
+  },
+  {
+    "_key": "Hudson River Trading||Design Verification (DV) Engineer - 2027 Grads||https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806",
+    "firm": "Hudson River Trading",
+    "title": "Design Verification (DV) Engineer - 2027 Grads",
+    "location": "New York, NY, United States",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806",
+    "department": ""
+  },
+  {
+    "_key": "Hudson River Trading||Hardware Design Engineer - 2027 Grads||https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167807",
+    "firm": "Hudson River Trading",
+    "title": "Hardware Design Engineer - 2027 Grads",
+    "location": "New York, NY, United States",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167807",
+    "department": ""
+  },
+  {
+    "_key": "Hudson River Trading||Hardware Engineer Internship - Summer 2027||https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
+    "firm": "Hudson River Trading",
+    "title": "Hardware Engineer Internship - Summer 2027",
+    "location": "New York, NY, United States",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
+    "department": ""
+  },
+  {
+    "_key": "Stripe||Software Engineer, Intern (Summer or Winter)||https://stripe.com/jobs/search?gh_jid=8128745",
+    "firm": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "location": "San Francisco, Seattle, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "department": ""
+  },
+  {
+    "_key": "Stripe||Software Engineer, New Grad||https://stripe.com/jobs/search?gh_jid=8128744",
+    "firm": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "San Francisco, Seattle, New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "department": ""
+  },
+  {
+    "_key": "Sierra||Software Engineer, Agent (New Grad 2027)||https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+    "firm": "Sierra",
+    "title": "Software Engineer, Agent (New Grad 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+    "department": "Agent Engineering New Grad"
+  },
+  {
+    "_key": "Sierra||Intern, Agent Development (Summer 2027)||https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+    "firm": "Sierra",
+    "title": "Intern, Agent Development (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+    "department": "Agent Engineering New Grad"
+  },
+  {
+    "_key": "Sierra||APX (New Grad 2027)||https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+    "firm": "Sierra",
+    "title": "APX (New Grad 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+    "department": "APX"
+  },
+  {
+    "_key": "Nvidia||ASIC Floorplan Design Engineer - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
+    "firm": "Nvidia",
+    "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
+    "department": ""
   }
 ]
