@@ -9872,5 +9872,87 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/mercor/4302efe7-9396-4bdd-9a3b-ecd045ba3d3c",
     "department": "Core Engineering"
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Chicago, Illinois",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Denver, Colorado",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Boston, Massachusetts",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "New York City, New York",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Bellevue, Washington; Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer)||https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002",
+    "department": ""
+  },
+  {
+    "_key": "SIG (Susquehanna)||Technology Co-op with Drexel University||https://careers.sig.com/jobs/11422?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Technology Co-op with Drexel University",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11422?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
