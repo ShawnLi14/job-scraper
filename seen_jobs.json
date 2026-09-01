@@ -9954,5 +9954,53 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, MBA, Operations Planning||https://careers.withwaymo.com/jobs?gh_jid=8165014",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, MBA, Operations Planning",
+    "location": "San Francisco",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8165014",
+    "department": ""
+  },
+  {
+    "_key": "Google||Information Technology Apprenticeship, February 2027 Start||https://www.google.com/about/careers/applications/jobs/results/127161382939304646",
+    "firm": "Google",
+    "title": "Information Technology Apprenticeship, February 2027 Start",
+    "location": "Austin, TX, USA; New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/127161382939304646",
+    "department": ""
+  },
+  {
+    "_key": "Google||Digital Marketing Apprenticeship, February 2027 Start||https://www.google.com/about/careers/applications/jobs/results/144076269821010630",
+    "firm": "Google",
+    "title": "Digital Marketing Apprenticeship, February 2027 Start",
+    "location": "New York, NY, USA; Chicago, IL, USA; Los Angeles, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/144076269821010630",
+    "department": ""
+  },
+  {
+    "_key": "Google||Project Management Apprenticeship, February 2027 Start||https://www.google.com/about/careers/applications/jobs/results/100966617919169222",
+    "firm": "Google",
+    "title": "Project Management Apprenticeship, February 2027 Start",
+    "location": "New York, NY, USA; Atlanta, GA, USA; Austin, TX, USA; Chicago, IL, USA; Los Angeles, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/100966617919169222",
+    "department": ""
+  },
+  {
+    "_key": "Google||User Experience Design Apprenticeship, February 2027 Start||https://www.google.com/about/careers/applications/jobs/results/79970343875158726",
+    "firm": "Google",
+    "title": "User Experience Design Apprenticeship, February 2027 Start",
+    "location": "New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/79970343875158726",
+    "department": ""
+  },
+  {
+    "_key": "Google||Data Analytics Apprenticeship, February 2027 Start||https://www.google.com/about/careers/applications/jobs/results/132315893450318534",
+    "firm": "Google",
+    "title": "Data Analytics Apprenticeship, February 2027 Start",
+    "location": "New York, NY, USA; Atlanta, GA, USA; Chicago, IL, USA; Los Angeles, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534",
+    "department": ""
   }
 ]
