@@ -10018,5 +10018,61 @@
     "location": "",
     "url": "https://www.citadel.com/careers/details/finance-accounting-intern-us/",
     "department": ""
+  },
+  {
+    "_key": "Stability AI||Forward Deployed Engineer ||http://stability.ai/careers?gh_jid=4966000101",
+    "firm": "Stability AI",
+    "title": "Forward Deployed Engineer ",
+    "location": "United States ",
+    "url": "http://stability.ai/careers?gh_jid=4966000101",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Hardware Test & Reliability Intern - Fall 2026/Winter 2027||https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
+    "firm": "Skydio",
+    "title": "Hardware Test & Reliability Intern - Fall 2026/Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
+    "department": "Software"
+  },
+  {
+    "_key": "Skydio||Electrical Engineer Intern - Fall 2026||https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+    "firm": "Skydio",
+    "title": "Electrical Engineer Intern - Fall 2026",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+    "department": "Hardware"
+  },
+  {
+    "_key": "Skydio||Operations Program Management Intern - Fall 2026/Winter 2027||https://jobs.ashbyhq.com/skydio/3444dc8a-1b2a-4bb1-9bfb-15252d2a25e5",
+    "firm": "Skydio",
+    "title": "Operations Program Management Intern - Fall 2026/Winter 2027",
+    "location": "Hayward, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/3444dc8a-1b2a-4bb1-9bfb-15252d2a25e5",
+    "department": "Manufacturing Engineering"
+  },
+  {
+    "_key": "IEX||Software Development Engineer in Test Intern||https://iex.io/careers/apply?gh_jid=8172248",
+    "firm": "IEX",
+    "title": "Software Development Engineer in Test Intern",
+    "location": "New York",
+    "url": "https://iex.io/careers/apply?gh_jid=8172248",
+    "department": ""
+  },
+  {
+    "_key": "Intel||Module Engineering Graduate Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/Graduate-Intern_JR0286707",
+    "firm": "Intel",
+    "title": "Module Engineering Graduate Intern",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/Graduate-Intern_JR0286707",
+    "department": ""
+  },
+  {
+    "_key": "Citadel||Operations Analyst – Intern (US) Greenwich, New York Apply Now||https://www.citadel.com/careers/details/operations-analyst-intern-us/",
+    "firm": "Citadel",
+    "title": "Operations Analyst – Intern (US) Greenwich, New York Apply Now",
+    "location": "",
+    "url": "https://www.citadel.com/careers/details/operations-analyst-intern-us/",
+    "department": ""
   }
 ]
