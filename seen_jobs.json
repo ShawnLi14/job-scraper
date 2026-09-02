@@ -10074,5 +10074,29 @@
     "location": "",
     "url": "https://www.citadel.com/careers/details/operations-analyst-intern-us/",
     "department": ""
+  },
+  {
+    "_key": "Eight Sleep||Prototype & Test Engineering Intern, New Product Development||https://jobs.ashbyhq.com/eightsleep/393ffe76-749e-4ec1-9975-a96b7fefe31f",
+    "firm": "Eight Sleep",
+    "title": "Prototype & Test Engineering Intern, New Product Development",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/eightsleep/393ffe76-749e-4ec1-9975-a96b7fefe31f",
+    "department": "Hardware Engineering"
+  },
+  {
+    "_key": "Verkada||Hardware Engineer (Winter Co-op)||https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+    "firm": "Verkada",
+    "title": "Hardware Engineer (Winter Co-op)",
+    "location": "San Mateo, CA United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+    "department": ""
+  },
+  {
+    "_key": "Verkada||Product Design Mechanical Engineer (Winter Co-op)||https://job-boards.greenhouse.io/verkada/jobs/4288829007",
+    "firm": "Verkada",
+    "title": "Product Design Mechanical Engineer (Winter Co-op)",
+    "location": "San Mateo, CA United States",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4288829007",
+    "department": ""
   }
 ]
