@@ -10122,5 +10122,45 @@
     "location": "Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/1044571751758817",
     "department": "University Grad - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Old Mission||Fundamental Research Analyst - 2027 Graduate Program - (August Start)||https://www.oldmissioncapital.com/careers/?gh_jid=7982061003",
+    "firm": "Old Mission",
+    "title": "Fundamental Research Analyst - 2027 Graduate Program - (August Start)",
+    "location": "Chicago, IL, United States",
+    "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7982061003",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector||https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "firm": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+    "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (TPM, Inference)||https://jobs.ashbyhq.com/perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (TPM, Inference)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Meta||Computer Vision Engineer, Reality Labs||https://www.metacareers.com/jobs/1725888355192236",
+    "firm": "Meta",
+    "title": "Computer Vision Engineer, Reality Labs",
+    "location": "Redmond, WA",
+    "url": "https://www.metacareers.com/jobs/1725888355192236",
+    "department": "AI Research, AR/VR, Artificial Intelligence, Research, Software Engineering, Facebook Reality Labs, University Grad - PhD & Postdoc"
+  },
+  {
+    "_key": "Meta||Research Scientist, Multi-Modal Human Understanding||https://www.metacareers.com/jobs/1704822071642848",
+    "firm": "Meta",
+    "title": "Research Scientist, Multi-Modal Human Understanding",
+    "location": "Pittsburgh, PA; Burlingame, CA",
+    "url": "https://www.metacareers.com/jobs/1704822071642848",
+    "department": "AI Research, Artificial Intelligence, AR/VR, Research, University Grad - PhD & Postdoc, Facebook Reality Labs"
   }
 ]
