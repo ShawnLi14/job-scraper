@@ -10242,5 +10242,31 @@
     "location": "Colorado Springs, Colorado, United States",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229317007?gh_jid=5229317007",
     "department": ""
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, BS, SysEng Software Engineer||https://careers.withwaymo.com/jobs?gh_jid=8174099",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+    "location": "Mountain View, California, USA ",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Hardware Product Management Intern - Fall 2026||https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "firm": "Skydio",
+    "title": "Hardware Product Management Intern - Fall 2026",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "department": "Product"
+  },
+  {
+    "_key": "SIG (Susquehanna)||FPGA Engineering Internship: Summer 2027||https://careers.sig.com/jobs/11446?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "FPGA Engineering Internship: Summer 2027",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11446?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
