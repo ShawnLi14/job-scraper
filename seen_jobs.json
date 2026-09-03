@@ -10268,5 +10268,21 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, MS, Software Engineering, Behavior Test ||https://careers.withwaymo.com/jobs?gh_jid=8174504",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
+    "location": "San Francisco, California, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Hardware Product Management Intern - Fall 2026/Winter 2027||https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "firm": "Skydio",
+    "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
+    "department": "Product"
   }
 ]
