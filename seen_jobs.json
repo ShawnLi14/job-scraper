@@ -10466,5 +10466,21 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Skydio||Flight Test Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+    "firm": "Skydio",
+    "title": "Flight Test Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b",
+    "department": "R&D"
+  },
+  {
+    "_key": "Skydio||Product Design Engineer Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f",
+    "firm": "Skydio",
+    "title": "Product Design Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f",
+    "department": "R&D"
   }
 ]
