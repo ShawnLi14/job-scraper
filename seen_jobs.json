@@ -10730,5 +10730,29 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
     "department": "Engineering"
+  },
+  {
+    "_key": "Databricks||Sr. Forward Deployed Engineer (FDE) - Public Sector/National Security ||https://databricks.com/company/careers/open-positions/job?gh_jid=8657478002",
+    "firm": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector/National Security ",
+    "location": "Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657478002",
+    "department": ""
+  },
+  {
+    "_key": "Vercel||Software Engineering Intern - Summer '27||https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+    "firm": "Vercel",
+    "title": "Software Engineering Intern - Summer '27",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+    "department": ""
+  },
+  {
+    "_key": "Vercel||Software Engineering Intern - Winter '27||https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+    "firm": "Vercel",
+    "title": "Software Engineering Intern - Winter '27",
+    "location": "Hybrid - San Francisco",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+    "department": ""
   }
 ]
