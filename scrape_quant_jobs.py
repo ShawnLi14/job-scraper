@@ -256,7 +256,7 @@ FIRMS: list[Firm] = [
     Firm("xAI", "greenhouse", {"board": "xai"}),
     Firm("CoreWeave", "greenhouse", {"board": "coreweave"}),
     Firm("Together AI", "greenhouse", {"board": "togetherai"}),
-    Firm("Fal", "greenhouse", {"board": "fal"}),
+    Firm("Fal", "ashby", {"board": "fal-ai"}),
     Firm("Lovable", "greenhouse", {"board": "lovable"}),
     Firm("Nuro", "greenhouse", {"board": "nuro"}),
     Firm("Cursor", "ashby", {"board": "cursor"}),
@@ -312,7 +312,8 @@ FIRMS: list[Firm] = [
     # ---- topstartups.io NYC — dense NYC eng / early (tier 2) ----
     Firm("Traba", "ashby", {"board": "traba"}),
     Firm("Maven Clinic", "greenhouse", {"board": "mavenclinic"}),
-    Firm("GlossGenius", "greenhouse", {"board": "glossgenius"}),
+    # Rebranded to Genius AI; Ashby board token is geniusai.
+    Firm("Genius AI", "ashby", {"board": "geniusai"}),
     Firm("Attentive", "greenhouse", {"board": "attentive"}),
     Firm("Adaptive Security", "ashby", {"board": "adaptive"}),
     Firm("Camber", "ashby", {"board": "camber"}),
@@ -322,30 +323,33 @@ FIRMS: list[Firm] = [
     Firm("Grafana Labs", "greenhouse", {"board": "grafanalabs"}),
 
     # ---- AI labs (frontier research) ----
-    Firm("Thinking Machines Lab", "greenhouse", {"board": "thinkingmachines"}),
+    Firm("Thinking Machines Lab", "ashby", {"board": "thinkingmachines"}),
     Firm("Reflection AI", "ashby", {"board": "reflectionai"}),
     Firm("Magic", "ashby", {"board": "magic.dev"}),
     Firm("Imbue", "greenhouse", {"board": "imbue"}),
     Firm("World Labs", "greenhouse", {"board": "worldlabs"}),
     Firm("Lila Sciences", "greenhouse", {"board": "lilasciences"}),
     Firm("Isomorphic Labs", "greenhouse", {"board": "isomorphiclabs"}),
-    Firm("DeepMind", "greenhouse", {"board": "deepmind"}),
+    # DeepMind roles live on Google Careers with company=DeepMind.
+    Firm("DeepMind", "google", {"company": "DeepMind", "max_pages": 20}),
     Firm("Stability AI", "greenhouse", {"board": "stabilityai"}),
 
     # ---- AI infra / applied research unicorns ----
     Firm("Cerebras", "ashby", {"board": "cerebras"}),
     Firm("Tenstorrent", "greenhouse", {"board": "tenstorrent"}),
     Firm("Etched", "ashby", {"board": "etched"}),
-    Firm("MatX", "greenhouse", {"board": "matx"}),
+    Firm("MatX", "ashby", {"board": "matx"}),
     Firm("Baseten", "ashby", {"board": "baseten"}),
-    Firm("Fireworks AI", "ashby", {"board": "fireworksai"}),
+    Firm("Fireworks AI", "ashby", {"board": "fireworks"}),
     Firm("OpenRouter", "ashby", {"board": "openrouter"}),
     Firm("Poolside", "ashby", {"board": "poolside"}),
     Firm("Writer", "ashby", {"board": "writer"}),
     Firm("Typeface", "greenhouse", {"board": "typeface"}),
     Firm("Ideogram", "ashby", {"board": "ideogram"}),
     Firm("Pika", "ashby", {"board": "pika"}),
-    Firm("Continue", "ashby", {"board": "continue"}),
+    # Continue's public Ashby board (continue / continuedev) no longer resolves.
+    # Re-add when a stable public board URL is available.
+
 
     # ---- Robotics / embodied AI ----
     Firm("Figure AI", "greenhouse", {"board": "figureai"}),
@@ -357,7 +361,7 @@ FIRMS: list[Firm] = [
     Firm("Affirm", "greenhouse", {"board": "affirm"}),
     Firm("Chime", "greenhouse", {"board": "chime"}),
     Firm("SoFi", "greenhouse", {"board": "sofi"}),
-    Firm("Marqeta", "greenhouse", {"board": "marqeta"}),
+    Firm("Marqeta", "ashby", {"board": "marqeta-inc"}),
     Firm("Airtable", "greenhouse", {"board": "airtable"}),
     Firm("Webflow", "greenhouse", {"board": "webflow"}),
     Firm("Gusto", "greenhouse", {"board": "gusto"}),
@@ -392,7 +396,7 @@ FIRMS: list[Firm] = [
     Firm("Box", "greenhouse", {"board": "boxinc"}),
     Firm("Intercom", "greenhouse", {"board": "intercom"}),
     Firm("Braze", "greenhouse", {"board": "braze"}),
-    Firm("Amplitude", "ashby", {"board": "amplitude"}),
+    Firm("Amplitude", "greenhouse", {"board": "amplitude"}),
     Firm("Miro", "ashby", {"board": "miro"}),
     Firm("Toast", "greenhouse", {"board": "toast"}),
     Firm("Faire", "greenhouse", {"board": "faire"}),
@@ -419,7 +423,8 @@ FIRMS: list[Firm] = [
     Firm("Column", "ashby", {"board": "column"}),
     Firm("Modern Treasury", "ashby", {"board": "moderntreasury"}),
     Firm("Zoox", "lever", {"company": "zoox"}),
-    Firm("Aurora", "greenhouse", {"board": "aurorainnovation"}),
+    # Careers site proxies Ashby via a public jobs-index API.
+    Firm("Aurora", "aurora", {}),
     Firm("Lucid Motors", "greenhouse", {"board": "lucidmotors"}),
     Firm("Riot Games", "greenhouse", {"board": "riotgames"}),
     Firm("Epic Games", "greenhouse", {"board": "epicgames"}),
@@ -771,6 +776,38 @@ def scrape_ashby(firm: Firm) -> list[Job]:
         location = j.get("location", "")
         department = j.get("team", "") or j.get("department", "")
         job_url = j.get("jobUrl", "")
+        jobs.append(Job(
+            firm=firm.name,
+            title=title,
+            location=location,
+            url=job_url,
+            department=department,
+        ))
+    return jobs
+
+
+def scrape_aurora(firm: Firm) -> list[Job]:
+    """Scrape Aurora's careers site via its public jobs-index JSON API.
+
+    Aurora embeds Ashby postings behind aurora.tech rather than exposing a
+    public Ashby board token, so we use their index endpoint directly.
+    """
+    url = firm.config.get("url", "https://aurora.tech/api/jobs-index")
+    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    resp.raise_for_status()
+    jobs: list[Job] = []
+    for j in resp.json().get("jobs", []) or []:
+        title = (j.get("title") or "").strip()
+        if not title:
+            continue
+        locs = j.get("locations") or []
+        if isinstance(locs, list):
+            location = "; ".join(str(x) for x in locs if x)
+        else:
+            location = str(locs)
+        jid = j.get("id") or j.get("jobId") or ""
+        job_url = f"https://aurora.tech/careers/{jid}" if jid else (j.get("applyLink") or "")
+        department = j.get("category") or ""
         jobs.append(Job(
             firm=firm.name,
             title=title,
@@ -1152,13 +1189,19 @@ def _google_format_locations(loc_field) -> str:
     return "; ".join(locs)
 
 
-def _fetch_google_jobs_page(page_num: int, location: str = "") -> list[list]:
+def _fetch_google_jobs_page(
+    page_num: int,
+    location: str = "",
+    company: str = "",
+) -> list[list]:
     """Return raw job card arrays from a Google careers results page."""
     from urllib.parse import quote
 
     params = f"distance=50&page={page_num}&q=&sort_by=date"
     if location:
         params += f"&location={quote(location)}"
+    if company:
+        params += f"&company={quote(company)}"
     url = (
         "https://www.google.com/about/careers/applications/jobs/results/"
         f"?{params}"
@@ -1178,11 +1221,16 @@ def scrape_google(firm: Firm) -> list[Job]:
     """Scrape Google careers via embedded AF_initDataCallback payloads."""
     max_pages = int(firm.config.get("max_pages", 50))
     location = firm.config.get("location", "")
+    company = firm.config.get("company", "")
     jobs: list[Job] = []
     seen_ids: set[str] = set()
 
     for page_num in range(1, max_pages + 1):
-        cards = _fetch_google_jobs_page(page_num, location=location)
+        cards = _fetch_google_jobs_page(
+            page_num,
+            location=location,
+            company=company,
+        )
         if not cards:
             break
         new_on_page = 0
@@ -1347,6 +1395,7 @@ SCRAPER_MAP = {
     "browser": scrape_browser,
     "eightfold": scrape_eightfold,
     "ashby": scrape_ashby,
+    "aurora": scrape_aurora,
     "sig": scrape_sig,
     "uber": scrape_uber,
     "google": scrape_google,
