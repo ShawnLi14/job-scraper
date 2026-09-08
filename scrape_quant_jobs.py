@@ -29,7 +29,8 @@ HEADERS = {
     )
 }
 
-REQUEST_TIMEOUT = 15
+REQUEST_TIMEOUT = 30
+REQUEST_RETRIES = 3
 
 # Keywords that tag a role as an internship / early-career / insight program.
 INTERN_KEYWORDS = [
@@ -245,7 +246,7 @@ FIRMS: list[Firm] = [
     Firm("Vercel", "greenhouse", {"board": "vercel"}),
     Firm("Cohere", "ashby", {"board": "cohere"}),
     Firm("Perplexity", "ashby", {"board": "perplexity"}),
-    Firm("Mistral", "lever", {"company": "mistral"}),
+    Firm("Mistral", "ashby", {"board": "mistral.ai"}),
     Firm("Confluent", "ashby", {"board": "confluent"}),
     Firm("Linear", "ashby", {"board": "linear"}),
     Firm("Samsara", "greenhouse", {"board": "samsara"}),
@@ -430,6 +431,43 @@ FIRMS: list[Firm] = [
     Firm("Epic Games", "greenhouse", {"board": "epicgames"}),
     Firm("Benchling", "ashby", {"board": "benchling"}),
 
+    # ---- Defense / autonomy / frontier hardware (verified boards) ----
+    Firm("Applied Intuition", "ashby", {"board": "applied"}),
+    Firm("Shield AI", "ashby", {"board": "shield-ai"}),
+    Firm("Saronic", "ashby", {"board": "saronic"}),
+    Firm("Helsing", "greenhouse", {"board": "helsing"}),
+    Firm("PsiQuantum", "greenhouse", {"board": "psiquantum"}),
+    Firm("IonQ", "greenhouse", {"board": "ionq"}),
+
+    # ---- AI infra / data / developer tools (verified boards) ----
+    Firm("Exa", "ashby", {"board": "exa"}),
+    Firm("Parallel Web Systems", "ashby", {"board": "parallel"}),
+    Firm("Braintrust", "ashby", {"board": "braintrust"}),
+    Firm("Temporal", "ashby", {"board": "temporal"}),
+    Firm("Neon", "ashby", {"board": "neon"}),
+    Firm("MotherDuck", "ashby", {"board": "motherduck"}),
+    Firm("Hex", "ashby", {"board": "hex"}),
+    Firm("Railway", "ashby", {"board": "railway"}),
+    Firm("Render", "ashby", {"board": "render"}),
+    Firm("Airbyte", "ashby", {"board": "airbyte"}),
+    Firm("Prefect", "ashby", {"board": "prefect"}),
+    Firm("Langfuse", "ashby", {"board": "langfuse"}),
+    Firm("Snorkel AI", "greenhouse", {"board": "snorkelai"}),
+    Firm("Labelbox", "greenhouse", {"board": "labelbox"}),
+
+    # ---- Crypto / trading / fintech extensions (verified boards) ----
+    Firm("Jump Crypto", "greenhouse", {"board": "jumpcrypto"}),
+    Firm("Simplex Trading", "greenhouse", {"board": "simplextrading"}),
+    Firm("Phantom", "ashby", {"board": "phantom"}),
+    Firm("Circle", "ashby", {"board": "circle"}),
+    Firm("Uniswap Labs", "ashby", {"board": "uniswap"}),
+    Firm("Unit", "ashby", {"board": "unit"}),
+
+    # ---- VC / platform talent (verified boards) ----
+    Firm("Andreessen Horowitz", "greenhouse", {"board": "a16z"}),
+    Firm("Sequoia Capital", "ashby", {"board": "sequoia"}),
+    Firm("Lightspeed", "ashby", {"board": "lightspeed"}),
+
     # ---- Workday API firms ----
     Firm("G-Research", "workday", {
         "tenant": "gresearch",
@@ -579,6 +617,32 @@ FIRMS = _deduped
 # Scrapers
 # ---------------------------------------------------------------------------
 
+def _get_json(url: str, *, params: dict | None = None, timeout: int | None = None) -> dict | list:
+    """GET JSON with light retries for transient timeouts / 5xx responses."""
+    last_exc: Exception | None = None
+    timeout = REQUEST_TIMEOUT if timeout is None else timeout
+    for attempt in range(REQUEST_RETRIES):
+        try:
+            resp = requests.get(
+                url,
+                params=params,
+                headers=HEADERS,
+                timeout=timeout,
+            )
+            if resp.status_code in {429, 500, 502, 503, 504} and attempt + 1 < REQUEST_RETRIES:
+                continue
+            resp.raise_for_status()
+            return resp.json()
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            last_exc = e
+            if attempt + 1 >= REQUEST_RETRIES:
+                raise
+        except requests.exceptions.HTTPError:
+            raise
+    assert last_exc is not None
+    raise last_exc
+
+
 def _parse_greenhouse_jobs(firm_name: str, data: dict) -> list[Job]:
     jobs = []
     for j in data.get("jobs", []):
@@ -599,9 +663,7 @@ def _parse_greenhouse_jobs(firm_name: str, data: dict) -> list[Job]:
 def scrape_greenhouse(firm: Firm) -> list[Job]:
     board = firm.config["board"]
     url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
-    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-    resp.raise_for_status()
-    return _parse_greenhouse_jobs(firm.name, resp.json())
+    return _parse_greenhouse_jobs(firm.name, _get_json(url))
 
 
 def scrape_greenhouse_multi(firm: Firm) -> list[Job]:
@@ -610,9 +672,7 @@ def scrape_greenhouse_multi(firm: Firm) -> list[Job]:
     for board in firm.config["boards"]:
         url = f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs"
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-            resp.raise_for_status()
-            jobs.extend(_parse_greenhouse_jobs(firm.name, resp.json()))
+            jobs.extend(_parse_greenhouse_jobs(firm.name, _get_json(url)))
         except Exception:
             pass
     return jobs
@@ -621,9 +681,7 @@ def scrape_greenhouse_multi(firm: Firm) -> list[Job]:
 def scrape_lever(firm: Firm) -> list[Job]:
     company = firm.config["company"]
     url = f"https://api.lever.co/v0/postings/{company}"
-    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-    resp.raise_for_status()
-    data = resp.json()
+    data = _get_json(url)
     jobs = []
     for j in data:
         location = j.get("categories", {}).get("location", "")
@@ -766,10 +824,9 @@ def scrape_ashby(firm: Firm) -> list[Job]:
     """Scrape an Ashby-hosted job board via its public posting API."""
     board = firm.config["board"]
     url = f"https://api.ashbyhq.com/posting-api/job-board/{board}"
-    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-    resp.raise_for_status()
+    data = _get_json(url)
     jobs = []
-    for j in resp.json().get("jobs", []):
+    for j in data.get("jobs", []):
         title = j.get("title", "")
         if not title:
             continue
@@ -793,10 +850,9 @@ def scrape_aurora(firm: Firm) -> list[Job]:
     public Ashby board token, so we use their index endpoint directly.
     """
     url = firm.config.get("url", "https://aurora.tech/api/jobs-index")
-    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-    resp.raise_for_status()
+    data = _get_json(url)
     jobs: list[Job] = []
-    for j in resp.json().get("jobs", []) or []:
+    for j in data.get("jobs", []) or []:
         title = (j.get("title") or "").strip()
         if not title:
             continue
