@@ -10514,5 +10514,221 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
     "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Datadog||Software Engineering Intern (Summer)||https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+    "firm": "Datadog",
+    "title": "Software Engineering Intern (Summer)",
+    "location": "Boston, Massachusetts, USA; New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+    "department": ""
+  },
+  {
+    "_key": "Mistral||Applied AI, Technical Lead - Forward Deployed AI Engineer||https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8",
+    "firm": "Mistral",
+    "title": "Applied AI, Technical Lead - Forward Deployed AI Engineer",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/mistral.ai/43b8b35d-a87d-4ebc-83db-1dfeba2b37c8",
+    "department": "Use-Case"
+  },
+  {
+    "_key": "Together AI||Forward Deployed Engineer (Inference & Post-Training)||https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
+    "firm": "Together AI",
+    "title": "Forward Deployed Engineer (Inference & Post-Training)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
+    "department": ""
+  },
+  {
+    "_key": "Genius AI||Engineering Intern (Summer 2027)||https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4",
+    "firm": "Genius AI",
+    "title": "Engineering Intern (Summer 2027)",
+    "location": "NYC",
+    "url": "https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Fireworks AI||Member of Technical Staff||https://jobs.ashbyhq.com/fireworks/6746dfde-8f8d-4a13-9961-7ae1e222a4c0",
+    "firm": "Fireworks AI",
+    "title": "Member of Technical Staff",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/fireworks/6746dfde-8f8d-4a13-9961-7ae1e222a4c0",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Fireworks AI||Member of Technical Staff, Enterprise Foundations||https://jobs.ashbyhq.com/fireworks/89d811de-2505-4173-bf37-b173ce53ecf1",
+    "firm": "Fireworks AI",
+    "title": "Member of Technical Staff, Enterprise Foundations",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/fireworks/89d811de-2505-4173-bf37-b173ce53ecf1",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Shield AI||Electrical Engineering Spring Co-op (January 2027) (R4475)||https://jobs.ashbyhq.com/shield-ai/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+    "firm": "Shield AI",
+    "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
+    "location": "Dallas, Texas",
+    "url": "https://jobs.ashbyhq.com/shield-ai/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+    "department": "X-BAT Engineering - Avionics"
+  },
+  {
+    "_key": "Shield AI||Forward Deployed Engineer, Operations & Sustainment (R5497)||https://jobs.ashbyhq.com/shield-ai/4a451ba8-c536-4a98-939b-4fdeeb263e4d",
+    "firm": "Shield AI",
+    "title": "Forward Deployed Engineer, Operations & Sustainment (R5497)",
+    "location": "San Diego, California",
+    "url": "https://jobs.ashbyhq.com/shield-ai/4a451ba8-c536-4a98-939b-4fdeeb263e4d",
+    "department": "Applications Engineering"
+  },
+  {
+    "_key": "Shield AI||Summer 2027 - Advanced Manufacturing Engineering Intern||https://jobs.ashbyhq.com/shield-ai/043c739e-ff80-4faa-b2be-5d1e96768dfa",
+    "firm": "Shield AI",
+    "title": "Summer 2027 - Advanced Manufacturing Engineering Intern",
+    "location": "Dallas, Texas",
+    "url": "https://jobs.ashbyhq.com/shield-ai/043c739e-ff80-4faa-b2be-5d1e96768dfa",
+    "department": "Production"
+  },
+  {
+    "_key": "Shield AI||Summer 2027 - Electrical Engineering Intern||https://jobs.ashbyhq.com/shield-ai/c546e532-4378-41d3-8ef3-4861cc3427e6",
+    "firm": "Shield AI",
+    "title": "Summer 2027 - Electrical Engineering Intern",
+    "location": "Dallas, Texas",
+    "url": "https://jobs.ashbyhq.com/shield-ai/c546e532-4378-41d3-8ef3-4861cc3427e6",
+    "department": "Electrical"
+  },
+  {
+    "_key": "Shield AI||Summer 2027 - Electrical Engineering Co-op (June 2027)||https://jobs.ashbyhq.com/shield-ai/e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0",
+    "firm": "Shield AI",
+    "title": "Summer 2027 - Electrical Engineering Co-op (June 2027)",
+    "location": "Dallas, Texas",
+    "url": "https://jobs.ashbyhq.com/shield-ai/e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0",
+    "department": "Electrical"
+  },
+  {
+    "_key": "PsiQuantum||Intern, Optical Packaging and Characterization Engineer||https://www.psiquantum.com/apply?gh_jid=7761881003",
+    "firm": "PsiQuantum",
+    "title": "Intern, Optical Packaging and Characterization Engineer",
+    "location": "Milpitas, California, United States",
+    "url": "https://www.psiquantum.com/apply?gh_jid=7761881003",
+    "department": ""
+  },
+  {
+    "_key": "PsiQuantum||Intern, Quantum Algorithms and Compilation||https://www.psiquantum.com/apply?gh_jid=7695559003",
+    "firm": "PsiQuantum",
+    "title": "Intern, Quantum Algorithms and Compilation",
+    "location": "Palo Alto, California, United States; Remote",
+    "url": "https://www.psiquantum.com/apply?gh_jid=7695559003",
+    "department": ""
+  },
+  {
+    "_key": "PsiQuantum||Intern, Quantum Architecture ||https://www.psiquantum.com/apply?gh_jid=6536805003",
+    "firm": "PsiQuantum",
+    "title": "Intern, Quantum Architecture ",
+    "location": "Brisbane, Queensland, Australia; Palo Alto, California, United States; Remote",
+    "url": "https://www.psiquantum.com/apply?gh_jid=6536805003",
+    "department": ""
+  },
+  {
+    "_key": "PsiQuantum||Intern, System Architecture||https://www.psiquantum.com/apply?gh_jid=7695577003",
+    "firm": "PsiQuantum",
+    "title": "Intern, System Architecture",
+    "location": "Daresbury, England, United Kingdom; Palo Alto, California, United States; Remote",
+    "url": "https://www.psiquantum.com/apply?gh_jid=7695577003",
+    "department": ""
+  },
+  {
+    "_key": "Exa||Forward Deployed Engineer||https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80",
+    "firm": "Exa",
+    "title": "Forward Deployed Engineer",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80",
+    "department": "GTM"
+  },
+  {
+    "_key": "Exa||Software Engineer, Intern||https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
+    "firm": "Exa",
+    "title": "Software Engineer, Intern",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Exa||Forward Deployed Engineer||https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea",
+    "firm": "Exa",
+    "title": "Forward Deployed Engineer",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea",
+    "department": "GTM"
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Back-end & API||https://jobs.ashbyhq.com/parallel/144b4be3-f46e-4e3a-af46-8ec6afc3a60f",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Back-end & API",
+    "location": "San Francisco or Palo Alto",
+    "url": "https://jobs.ashbyhq.com/parallel/144b4be3-f46e-4e3a-af46-8ec6afc3a60f",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Front-end||https://jobs.ashbyhq.com/parallel/428ebd80-ad4d-41db-bfa0-82bb3284db75",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Front-end",
+    "location": "San Francisco or Palo Alto",
+    "url": "https://jobs.ashbyhq.com/parallel/428ebd80-ad4d-41db-bfa0-82bb3284db75",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Retrieval & Indexing||https://jobs.ashbyhq.com/parallel/fc674743-e5ca-494f-a06e-92bc5977423f",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Retrieval & Indexing",
+    "location": "San Francisco or Palo Alto",
+    "url": "https://jobs.ashbyhq.com/parallel/fc674743-e5ca-494f-a06e-92bc5977423f",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Search Ranking||https://jobs.ashbyhq.com/parallel/bc715d40-ec81-4d8d-8a5a-92db5227679c",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Search Ranking",
+    "location": "San Francisco or Palo Alto",
+    "url": "https://jobs.ashbyhq.com/parallel/bc715d40-ec81-4d8d-8a5a-92db5227679c",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Model Training||https://jobs.ashbyhq.com/parallel/2738b2a4-978a-49cb-bd6f-68098f3794d6",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Model Training",
+    "location": "San Francisco or Palo Alto",
+    "url": "https://jobs.ashbyhq.com/parallel/2738b2a4-978a-49cb-bd6f-68098f3794d6",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Data Engineering||https://jobs.ashbyhq.com/parallel/23a9fd93-9c62-4793-99ca-f7b3efa11f02",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Data Engineering",
+    "location": "San Francisco or Palo Alto",
+    "url": "https://jobs.ashbyhq.com/parallel/23a9fd93-9c62-4793-99ca-f7b3efa11f02",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Labelbox||Cyber Security Intern||https://job-boards.greenhouse.io/labelbox/jobs/5177341007",
+    "firm": "Labelbox",
+    "title": "Cyber Security Intern",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/labelbox/jobs/5177341007",
+    "department": ""
+  },
+  {
+    "_key": "Labelbox||Forward Deployed Engineer, RL Environments||https://job-boards.greenhouse.io/labelbox/jobs/5101187007",
+    "firm": "Labelbox",
+    "title": "Forward Deployed Engineer, RL Environments",
+    "location": "San Francisco Bay Area",
+    "url": "https://job-boards.greenhouse.io/labelbox/jobs/5101187007",
+    "department": ""
+  },
+  {
+    "_key": "Uniswap Labs||Software Engineer - Early Career||https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
+    "firm": "Uniswap Labs",
+    "title": "Software Engineer - Early Career",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
+    "department": "Engineering"
   }
 ]
