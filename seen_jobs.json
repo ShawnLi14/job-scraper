@@ -11066,5 +11066,37 @@
     "location": "San Francisco, CA ; New York, NY",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8187876",
     "department": ""
+  },
+  {
+    "_key": "Replit||Software Engineer - New Grad (Summer 2027)||https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "firm": "Replit",
+    "title": "Software Engineer - New Grad (Summer 2027)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "department": "Early Career"
+  },
+  {
+    "_key": "OpenRouter||Forward Deployed Engineer||https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3",
+    "firm": "OpenRouter",
+    "title": "Forward Deployed Engineer",
+    "location": "Bay Area, California",
+    "url": "https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3",
+    "department": "Customer Success"
+  },
+  {
+    "_key": "Netic||Forward Deployed Engineer||https://jobs.ashbyhq.com/netic/286a085a-2942-455a-a384-8c44ff5b7e85",
+    "firm": "Netic",
+    "title": "Forward Deployed Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/netic/286a085a-2942-455a-a384-8c44ff5b7e85",
+    "department": "Engineering, Product, and Design"
+  },
+  {
+    "_key": "Meta||EMC Design Engineer (University Grad)||https://www.metacareers.com/jobs/2263213181184248",
+    "firm": "Meta",
+    "title": "EMC Design Engineer (University Grad)",
+    "location": "Redmond, WA",
+    "url": "https://www.metacareers.com/jobs/2263213181184248",
+    "department": "AR/VR"
   }
 ]
