@@ -11042,5 +11042,29 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30",
     "department": "University"
+  },
+  {
+    "_key": "Ramp||University Grad | Customer Experience Associate||https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936",
+    "firm": "Ramp",
+    "title": "University Grad | Customer Experience Associate",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936",
+    "department": "Customer Experience"
+  },
+  {
+    "_key": "Coinbase||Crypto Inventory Operations Intern||https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
+    "firm": "Coinbase",
+    "title": "Crypto Inventory Operations Intern",
+    "location": "Hybrid - New York, NY",
+    "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
+    "department": ""
+  },
+  {
+    "_key": "DoorDash||Product Designer, Intern (Summer 2027)||https://job-boards.greenhouse.io/doordashusa/jobs/8187876",
+    "firm": "DoorDash",
+    "title": "Product Designer, Intern (Summer 2027)",
+    "location": "San Francisco, CA ; New York, NY",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8187876",
+    "department": ""
   }
 ]
