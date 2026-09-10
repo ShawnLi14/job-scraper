@@ -11346,5 +11346,21 @@
     "location": "Indiana - Indianapolis",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Indiana---Indianapolis/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359637-1",
     "department": ""
+  },
+  {
+    "_key": "Intel||Parametric Test Module Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719",
+    "firm": "Intel",
+    "title": "Parametric Test Module Intern",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719",
+    "department": ""
+  },
+  {
+    "_key": "Millennium||Forward Deployed Software Engineer - Equities Technology||https://mlp.eightfold.ai/careers/job/755953889410",
+    "firm": "Millennium",
+    "title": "Forward Deployed Software Engineer - Equities Technology",
+    "location": "Miami, Florida, United States of America; New York, New York, United States of America",
+    "url": "https://mlp.eightfold.ai/careers/job/755953889410",
+    "department": "Information Technology"
   }
 ]
