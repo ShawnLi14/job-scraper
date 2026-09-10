@@ -11258,5 +11258,37 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
     "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Schonfeld||2027 Platform Engineering Intern||https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+    "firm": "Schonfeld",
+    "title": "2027 Platform Engineering Intern",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+    "department": ""
+  },
+  {
+    "_key": "DV Trading||Client Platforms Engineer Intern - Summer 2027||https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "firm": "DV Trading",
+    "title": "Client Platforms Engineer Intern - Summer 2027",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "department": ""
+  },
+  {
+    "_key": "DV Trading||Client Platforms Engineer Intern - Summer 2027||https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "firm": "DV Trading",
+    "title": "Client Platforms Engineer Intern - Summer 2027",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Mechanical Design (Starshield)||https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Mechanical Design (Starshield)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002",
+    "department": ""
   }
 ]
