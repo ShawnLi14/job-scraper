@@ -11250,5 +11250,13 @@
     "location": "San Diego, California",
     "url": "https://jobs.ashbyhq.com/shield-ai/db04c516-d21a-449c-8bfd-1cf830eafb5a",
     "department": "Software"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (General Software Engineer, Infrastructure)||https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (General Software Engineer, Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
+    "department": "Platform & Infrastructure"
   }
 ]
