@@ -11402,5 +11402,77 @@
     "location": "San Francisco, CA; New York, NY",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
     "department": ""
+  },
+  {
+    "_key": "DV Trading||2027 Quantitative Trader Graduate (DV Equities)||https://job-boards.greenhouse.io/dvtrading/jobs/4719106005",
+    "firm": "DV Trading",
+    "title": "2027 Quantitative Trader Graduate (DV Equities)",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719106005",
+    "department": ""
+  },
+  {
+    "_key": "DV Trading||Quantitative Research Intern - Summer 2027 (DV Equities)||https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+    "firm": "DV Trading",
+    "title": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+    "department": ""
+  },
+  {
+    "_key": "DV Trading||Quantitative Trading Intern - Summer 2027 (DV Equities)||https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+    "firm": "DV Trading",
+    "title": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+    "department": ""
+  },
+  {
+    "_key": "DV Trading||Software Developer Intern - Summer 2027 (DV Equities)||https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+    "firm": "DV Trading",
+    "title": "Software Developer Intern - Summer 2027 (DV Equities)",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+    "department": ""
+  },
+  {
+    "_key": "Lyft||Data Science Intern, Algorithms (Summer 2027)||https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+    "firm": "Lyft",
+    "title": "Data Science Intern, Algorithms (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+    "department": ""
+  },
+  {
+    "_key": "Lyft||Data Science Intern, Algorithms (Summer 2027)||https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+    "firm": "Lyft",
+    "title": "Data Science Intern, Algorithms (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+    "department": ""
+  },
+  {
+    "_key": "Lyft||Software Engineer Intern, Backend (Summer 2027)||https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+    "firm": "Lyft",
+    "title": "Software Engineer Intern, Backend (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+    "department": ""
+  },
+  {
+    "_key": "Lyft||Software Engineer Intern, Fullstack (Summer 2027)||https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
+    "firm": "Lyft",
+    "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
+    "department": ""
+  },
+  {
+    "_key": "Salesforce||Software Engineering, MTS, Security and Network Defense||https://salesforce.wd12.myworkdayjobs.com/en-US/job/Washington---Bellevue/Software-Engineering--MTS--Security-and-Network-Defense_JR359787",
+    "firm": "Salesforce",
+    "title": "Software Engineering, MTS, Security and Network Defense",
+    "location": "Washington - Bellevue",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Washington---Bellevue/Software-Engineering--MTS--Security-and-Network-Defense_JR359787",
+    "department": ""
   }
 ]
