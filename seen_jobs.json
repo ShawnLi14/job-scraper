@@ -11490,5 +11490,29 @@
     "location": "New York, NY",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
     "department": ""
+  },
+  {
+    "_key": "OpenAI||Forward Deployed Engineer (FDE) - Seattle||https://jobs.ashbyhq.com/openai/7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
+    "firm": "OpenAI",
+    "title": "Forward Deployed Engineer (FDE) - Seattle",
+    "location": "Seattle",
+    "url": "https://jobs.ashbyhq.com/openai/7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
+    "department": "Forward Deployed Engineering"
+  },
+  {
+    "_key": "OpenAI||Forward Deployed Engineer (FDE) - SF||https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688",
+    "firm": "OpenAI",
+    "title": "Forward Deployed Engineer (FDE) - SF",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688",
+    "department": "Forward Deployed Engineering"
+  },
+  {
+    "_key": "Nvidia||Solutions Architecture Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Solutions-Architecture-Intern---Summer-2027_JR2025245",
+    "firm": "Nvidia",
+    "title": "Solutions Architecture Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Solutions-Architecture-Intern---Summer-2027_JR2025245",
+    "department": ""
   }
 ]
