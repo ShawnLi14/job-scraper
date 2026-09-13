@@ -11554,5 +11554,13 @@
     "location": "Dallas, TX, US",
     "url": "https://jobs.ashbyhq.com/shield-ai/e910c115-32e2-4070-8f74-8a159c4dbbac",
     "department": "[ASHBY] - For Testing Use Only"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Software Engineer, Agents)||https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
+    "department": "AI Research & Systems"
   }
 ]
