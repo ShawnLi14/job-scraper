@@ -12508,5 +12508,21 @@
     "location": "Illinois - Chicago",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Illinois---Chicago/Summer-2027-Intern---Sales-Development--Nonprofit_JR359942-1",
     "department": ""
+  },
+  {
+    "_key": "Schonfeld||Forward Deployed Engineer||https://job-boards.greenhouse.io/schonfeld/jobs/8209327",
+    "firm": "Schonfeld",
+    "title": "Forward Deployed Engineer",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8209327",
+    "department": ""
+  },
+  {
+    "_key": "Decagon||Engineering Intern (Summer 2027)||https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b",
+    "firm": "Decagon",
+    "title": "Engineering Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b",
+    "department": "University - Engineering"
   }
 ]
