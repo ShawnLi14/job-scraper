@@ -12476,5 +12476,37 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Decagon|| Member of Technical Staff - New Grad (2027 Start)||https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f",
+    "firm": "Decagon",
+    "title": " Member of Technical Staff - New Grad (2027 Start)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f",
+    "department": "University - Engineering"
+  },
+  {
+    "_key": "Eight Sleep||Mechanical Engineer (New Grad 2027)||https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96",
+    "firm": "Eight Sleep",
+    "title": "Mechanical Engineer (New Grad 2027)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96",
+    "department": "Hardware Engineering"
+  },
+  {
+    "_key": "Eight Sleep||Electrical Engineer (New Grad 2027)||https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294",
+    "firm": "Eight Sleep",
+    "title": "Electrical Engineer (New Grad 2027)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294",
+    "department": "Hardware Engineering"
+  },
+  {
+    "_key": "Salesforce||Summer 2027 Intern - Sales Development, Nonprofit||https://salesforce.wd12.myworkdayjobs.com/en-US/job/Illinois---Chicago/Summer-2027-Intern---Sales-Development--Nonprofit_JR359942-1",
+    "firm": "Salesforce",
+    "title": "Summer 2027 Intern - Sales Development, Nonprofit",
+    "location": "Illinois - Chicago",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Illinois---Chicago/Summer-2027-Intern---Sales-Development--Nonprofit_JR359942-1",
+    "department": ""
   }
 ]
