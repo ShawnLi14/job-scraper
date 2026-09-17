@@ -12606,5 +12606,29 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Socure||Forward Deployed Engineer - RiskOS Agents||https://jobs.ashbyhq.com/socure/15872d0f-7897-4934-9567-8fb39a79378f",
+    "firm": "Socure",
+    "title": "Forward Deployed Engineer - RiskOS Agents",
+    "location": "Remote - USA",
+    "url": "https://jobs.ashbyhq.com/socure/15872d0f-7897-4934-9567-8fb39a79378f",
+    "department": "Tech"
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, BS/MS, Scenes||https://careers.withwaymo.com/jobs?gh_jid=8210170",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, BS/MS, Scenes",
+    "location": "Mountain View, California",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Electrical Engineer Intern - Winter 2027||https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+    "firm": "Skydio",
+    "title": "Electrical Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+    "department": "Hardware"
   }
 ]
