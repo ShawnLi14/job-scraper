@@ -12540,5 +12540,71 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a",
     "department": "Hardware"
+  },
+  {
+    "_key": "Geneva Trading||AI Engineer Internship - Summer 2027||https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
+    "firm": "Geneva Trading",
+    "title": "AI Engineer Internship - Summer 2027",
+    "location": "Chicago Office",
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
+    "department": ""
+  },
+  {
+    "_key": "Reflection AI||MTS Lead, Technology & Security Engineering||https://jobs.ashbyhq.com/reflectionai/a4557506-cc62-4efc-b051-c393067c2740",
+    "firm": "Reflection AI",
+    "title": "MTS Lead, Technology & Security Engineering",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/reflectionai/a4557506-cc62-4efc-b051-c393067c2740",
+    "department": "Operations"
+  },
+  {
+    "_key": "Reflection AI||MTS Lead, Identity and Access Management||https://jobs.ashbyhq.com/reflectionai/3865d9c3-8cf8-464c-9451-81628427b867",
+    "firm": "Reflection AI",
+    "title": "MTS Lead, Identity and Access Management",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/reflectionai/3865d9c3-8cf8-464c-9451-81628427b867",
+    "department": "InfoSec / Compliance"
+  },
+  {
+    "_key": "Reflection AI||MTS Lead, Product Security||https://jobs.ashbyhq.com/reflectionai/3df75b72-7958-4cb4-a7ae-ac65787974fa",
+    "firm": "Reflection AI",
+    "title": "MTS Lead, Product Security",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/reflectionai/3df75b72-7958-4cb4-a7ae-ac65787974fa",
+    "department": "InfoSec / Compliance"
+  },
+  {
+    "_key": "Reflection AI||MTS, IT Engineer||https://jobs.ashbyhq.com/reflectionai/af9706e4-0bcb-45cf-ac72-b6150875c12b",
+    "firm": "Reflection AI",
+    "title": "MTS, IT Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/reflectionai/af9706e4-0bcb-45cf-ac72-b6150875c12b",
+    "department": "Security"
+  },
+  {
+    "_key": "Nvidia||Software QA Engineer- New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2025900",
+    "firm": "Nvidia",
+    "title": "Software QA Engineer- New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2025900",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Network Production Engineer (University Grad)||https://www.metacareers.com/jobs/28245852058411164",
+    "firm": "Meta",
+    "title": "Network Production Engineer (University Grad)",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/28245852058411164",
+    "department": "Infrastructure"
+  },
+  {
+    "_key": "SIG (Susquehanna)||Operations Analyst Program: August 2027 Start||https://careers.sig.com/jobs/11273?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Operations Analyst Program: August 2027 Start",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11273?lang=en-us",
+    "department": [
+      " New Graduates"
+    ]
   }
 ]
