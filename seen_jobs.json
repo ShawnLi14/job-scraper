@@ -12524,5 +12524,21 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b",
     "department": "University - Engineering"
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech||https://careers.withwaymo.com/jobs?gh_jid=8203200",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+    "location": "San Francisco, California",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+    "department": ""
+  },
+  {
+    "_key": "Physical Intelligence||Mechatronics Intern||https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a",
+    "firm": "Physical Intelligence",
+    "title": "Mechatronics Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/physicalintelligence/0bcf909e-b38b-4276-91a1-e55c4c56a33a",
+    "department": "Hardware"
   }
 ]
