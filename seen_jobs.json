@@ -12910,5 +12910,21 @@
     "location": "Cary,North Carolina,United States",
     "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
     "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff, AI Products (Early Career - Industry)||https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff, AI Products (Early Career - Industry)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
+    "department": "AI Products"
+  },
+  {
+    "_key": "OpenEvidence||Member of Technical Staff, Beneficial Deployments||https://jobs.ashbyhq.com/openevidence/ef077fba-d269-40e8-9610-35f8246262cc",
+    "firm": "OpenEvidence",
+    "title": "Member of Technical Staff, Beneficial Deployments",
+    "location": "Miami",
+    "url": "https://jobs.ashbyhq.com/openevidence/ef077fba-d269-40e8-9610-35f8246262cc",
+    "department": "Beneficial Deployments"
   }
 ]
