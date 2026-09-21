@@ -12926,5 +12926,21 @@
     "location": "Miami",
     "url": "https://jobs.ashbyhq.com/openevidence/ef077fba-d269-40e8-9610-35f8246262cc",
     "department": "Beneficial Deployments"
+  },
+  {
+    "_key": "Mercury||Software Engineering Intern - Spring 2027||https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+    "firm": "Mercury",
+    "title": "Software Engineering Intern - Spring 2027",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+    "department": ""
+  },
+  {
+    "_key": "Google||Partner Forward Deployed Engineer V, GenAI, Google Cloud||https://www.google.com/about/careers/applications/jobs/results/91923803721867974",
+    "firm": "Google",
+    "title": "Partner Forward Deployed Engineer V, GenAI, Google Cloud",
+    "location": "New York, NY, USA; Sunnyvale, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91923803721867974",
+    "department": ""
   }
 ]
