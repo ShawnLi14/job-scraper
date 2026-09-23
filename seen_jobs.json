@@ -13238,5 +13238,45 @@
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
     "department": ""
+  },
+  {
+    "_key": "Figma||Data Engineer Intern (2027)||https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+    "firm": "Figma",
+    "title": "Data Engineer Intern (2027)",
+    "location": "San Francisco, CA • New York, NY",
+    "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+    "department": ""
+  },
+  {
+    "_key": "Nuro||Software Engineer, Performance Tooling and Infrastructure New Grad||https://nuro.ai/careersitem?gh_jid=8227399",
+    "firm": "Nuro",
+    "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8227399",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Security Architect - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1",
+    "firm": "Nvidia",
+    "title": "Security Architect - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1",
+    "department": ""
+  },
+  {
+    "_key": "Salesforce||Member of Technical Staff (MTS), Software Engineer, Identity & Access Management||https://salesforce.wd12.myworkdayjobs.com/en-US/job/Washington---Bellevue/Member-of-Technical-Staff--MTS---Software-Engineer--Identity---Access-Management_JR360867",
+    "firm": "Salesforce",
+    "title": "Member of Technical Staff (MTS), Software Engineer, Identity & Access Management",
+    "location": "Washington - Bellevue",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Washington---Bellevue/Member-of-Technical-Staff--MTS---Software-Engineer--Identity---Access-Management_JR360867",
+    "department": ""
+  },
+  {
+    "_key": "Citadel||Trader: Fixed Income & Macro Rotational Trader – Intern (US) Greenwich, Miami, New York Apply Now||https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/",
+    "firm": "Citadel",
+    "title": "Trader: Fixed Income & Macro Rotational Trader – Intern (US) Greenwich, Miami, New York Apply Now",
+    "location": "",
+    "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/",
+    "department": ""
   }
 ]
