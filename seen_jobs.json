@@ -13358,5 +13358,63 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523",
     "department": "University Recruiting"
+  },
+  {
+    "_key": "Mercor||Member of Technical Staff, Applied AI Backend||https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae",
+    "firm": "Mercor",
+    "title": "Member of Technical Staff, Applied AI Backend",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Mercor||Member of Technical Staff, Tech Lead Applied AI Backend ||https://jobs.ashbyhq.com/mercor/76f19dab-be4a-4e1b-9971-3b3372666a05",
+    "firm": "Mercor",
+    "title": "Member of Technical Staff, Tech Lead Applied AI Backend ",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/mercor/76f19dab-be4a-4e1b-9971-3b3372666a05",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Spotify||CoLM 2026 — Full Time||https://jobs.lever.co/spotify/b27f51aa-9702-486b-ba24-157263d623e9",
+    "firm": "Spotify",
+    "title": "CoLM 2026 — Full Time",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/b27f51aa-9702-486b-ba24-157263d623e9",
+    "department": "Personalization"
+  },
+  {
+    "_key": "Spotify||CoLM 2026 — Intern||https://jobs.lever.co/spotify/ba2760c3-6461-45bf-b67b-0508d10c8659",
+    "firm": "Spotify",
+    "title": "CoLM 2026 — Intern",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/ba2760c3-6461-45bf-b67b-0508d10c8659",
+    "department": "Personalization"
+  },
+  {
+    "_key": "Spotify||RecSys 2026 — Full Time||https://jobs.lever.co/spotify/715ac952-36a0-4ed5-8fca-0c12eab94d6a",
+    "firm": "Spotify",
+    "title": "RecSys 2026 — Full Time",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/715ac952-36a0-4ed5-8fca-0c12eab94d6a",
+    "department": "Personalization"
+  },
+  {
+    "_key": "Spotify||RecSys 2026 — Intern||https://jobs.lever.co/spotify/e7f6e680-bf86-4da6-8711-afe44b84fa41",
+    "firm": "Spotify",
+    "title": "RecSys 2026 — Intern",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/e7f6e680-bf86-4da6-8711-afe44b84fa41",
+    "department": "Personalization"
+  },
+  {
+    "_key": "SIG (Susquehanna)||Machine Learning Engineering Internship||https://careers.sig.com/jobs/11555?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Machine Learning Engineering Internship",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11555?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
