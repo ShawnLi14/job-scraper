@@ -13416,5 +13416,45 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Man Group||Technology Rotational Program - Associate Engineer||https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
+    "firm": "Man Group",
+    "title": "Technology Rotational Program - Associate Engineer",
+    "location": "Massachusetts",
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
+    "department": ""
+  },
+  {
+    "_key": "Belvedere Trading||Early Career Talent Partner - Technology & Platform||https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde",
+    "firm": "Belvedere Trading",
+    "title": "Early Career Talent Partner - Technology & Platform",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde",
+    "department": "Talent"
+  },
+  {
+    "_key": "Belvedere Trading||Early Career Talent Partner - Trading||https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27",
+    "firm": "Belvedere Trading",
+    "title": "Early Career Talent Partner - Trading",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27",
+    "department": "Talent"
+  },
+  {
+    "_key": "Notion||Software Engineer Intern, Mobile (Winter 2027)||https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
+    "firm": "Notion",
+    "title": "Software Engineer Intern, Mobile (Winter 2027)",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7",
+    "department": "Early Career"
+  },
+  {
+    "_key": "Samsara||Firmware Engineer Co-Op||https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+    "firm": "Samsara",
+    "title": "Firmware Engineer Co-Op",
+    "location": "San Francisco - SF9",
+    "url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+    "department": ""
   }
 ]
