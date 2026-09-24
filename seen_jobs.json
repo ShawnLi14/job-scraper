@@ -13310,5 +13310,37 @@
     "location": "Bellevue, WA; Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/1609178343953401",
     "department": "Infrastructure"
+  },
+  {
+    "_key": "Ramp||Software Engineer Internship, Frontend||https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "firm": "Ramp",
+    "title": "Software Engineer Internship, Frontend",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "department": "Emerging Talent - SWE"
+  },
+  {
+    "_key": "Ramp||Software Engineering Intern, Backend||https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "firm": "Ramp",
+    "title": "Software Engineering Intern, Backend",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "department": "Backend"
+  },
+  {
+    "_key": "Ramp||Software Engineering Intern, Android||https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+    "firm": "Ramp",
+    "title": "Software Engineering Intern, Android",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+    "department": "Backend"
+  },
+  {
+    "_key": "Ramp||Software Engineering Intern, iOS||https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+    "firm": "Ramp",
+    "title": "Software Engineering Intern, iOS",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+    "department": "Backend"
   }
 ]
