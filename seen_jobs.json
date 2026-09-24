@@ -13342,5 +13342,21 @@
     "location": "New York, NY (HQ)",
     "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
     "department": "Backend"
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer - US Government||https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "location": "Kitsap, WA",
+    "url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "department": "Delta"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (New Grad)||https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (New Grad)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523",
+    "department": "University Recruiting"
   }
 ]
