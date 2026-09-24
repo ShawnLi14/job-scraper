@@ -13278,5 +13278,37 @@
     "location": "",
     "url": "https://www.citadel.com/careers/details/trader-fixed-income-macro-rotational-trader-intern-us/",
     "department": ""
+  },
+  {
+    "_key": "Box||Cloud & AI Finance Intern||https://job-boards.greenhouse.io/boxinc/jobs/8226667",
+    "firm": "Box",
+    "title": "Cloud & AI Finance Intern",
+    "location": "Redwood City, CA, United States",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8226667",
+    "department": ""
+  },
+  {
+    "_key": "Intel||Technology Research 2D Transistor Engineer Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001",
+    "firm": "Intel",
+    "title": "Technology Research 2D Transistor Engineer Intern",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Network Production Engineer Intern||https://www.metacareers.com/jobs/1412139847020398",
+    "firm": "Meta",
+    "title": "Network Production Engineer Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1412139847020398",
+    "department": "Infrastructure"
+  },
+  {
+    "_key": "Meta||Production Engineering Intern||https://www.metacareers.com/jobs/1609178343953401",
+    "firm": "Meta",
+    "title": "Production Engineering Intern",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1609178343953401",
+    "department": "Infrastructure"
   }
 ]
