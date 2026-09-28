@@ -13528,5 +13528,53 @@
     "location": "Long Beach, California, United States",
     "url": "https://boards.greenhouse.io/relativity/jobs/8846687002?gh_jid=8846687002",
     "department": ""
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, BS, Depot Automation||https://careers.withwaymo.com/jobs?gh_jid=8234553",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, BS, Depot Automation",
+    "location": "San Francisco, California",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
+    "department": ""
+  },
+  {
+    "_key": "Lyft||Applied Scientist Intern (Summer 2027)||https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+    "firm": "Lyft",
+    "title": "Applied Scientist Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||ASIC Design Engineer - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277",
+    "firm": "Nvidia",
+    "title": "ASIC Design Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277",
+    "department": ""
+  },
+  {
+    "_key": "Salesforce||Software Engineering MTS||https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/Software-Engineering-MTS_JR354592",
+    "firm": "Salesforce",
+    "title": "Software Engineering MTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/Software-Engineering-MTS_JR354592",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Data Engineer Intern, Product Analytics (Summer 2027)||https://www.metacareers.com/jobs/1373603594867455",
+    "firm": "Meta",
+    "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
+    "location": "Menlo Park, CA; Seattle, WA; New York, NY",
+    "url": "https://www.metacareers.com/jobs/1373603594867455",
+    "department": "Data & Analytics, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Citadel||Human Resources – Intern (US) New York Apply Now||https://www.citadel.com/careers/details/human-resources-intern-us/",
+    "firm": "Citadel",
+    "title": "Human Resources – Intern (US) New York Apply Now",
+    "location": "",
+    "url": "https://www.citadel.com/careers/details/human-resources-intern-us/",
+    "department": ""
   }
 ]
