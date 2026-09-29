@@ -13602,5 +13602,39 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
     "department": "University Recruiting"
+  },
+  {
+    "_key": "General Intuition||Member of Technical Staff||https://jobs.ashbyhq.com/generalintuition-medal/762cfb8e-03cd-4eca-8e26-a074323b1923",
+    "firm": "General Intuition",
+    "title": "Member of Technical Staff",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/generalintuition-medal/762cfb8e-03cd-4eca-8e26-a074323b1923",
+    "department": "General Intuition & Medal"
+  },
+  {
+    "_key": "General Intuition||Technical Interns and New Grads||https://jobs.ashbyhq.com/generalintuition-medal/69448319-5261-4828-a5c2-af35dc8c42b0",
+    "firm": "General Intuition",
+    "title": "Technical Interns and New Grads",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/generalintuition-medal/69448319-5261-4828-a5c2-af35dc8c42b0",
+    "department": "General Intuition & Medal"
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, Generative AI, Geo||https://www.google.com/about/careers/applications/jobs/results/134016342943507142",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, Generative AI, Geo",
+    "location": "Mountain View, CA, USA; New York, NY, USA; Seattle, WA, USA; San Francisco, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134016342943507142",
+    "department": ""
+  },
+  {
+    "_key": "SIG (Susquehanna)||Tax Analyst - Operations Analyst Program: August 2027 Start||https://careers.sig.com/jobs/11304?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Tax Analyst - Operations Analyst Program: August 2027 Start",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11304?lang=en-us",
+    "department": [
+      " New Graduates"
+    ]
   }
 ]
