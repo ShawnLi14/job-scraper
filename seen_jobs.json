@@ -13636,5 +13636,45 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Robinhood||Crypto Accounting Intern (Summer 2027)||https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153",
+    "firm": "Robinhood",
+    "title": "Crypto Accounting Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153",
+    "department": ""
+  },
+  {
+    "_key": "Nuro||Social Media Intern||https://nuro.ai/careersitem?gh_jid=8222063",
+    "firm": "Nuro",
+    "title": "Social Media Intern",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8222063",
+    "department": ""
+  },
+  {
+    "_key": "Tennr||Sr. Forward Deployed Engineer (Post-Sales)||https://jobs.ashbyhq.com/tennr/a439c5b8-1686-4b90-b2bc-cffd761e002d",
+    "firm": "Tennr",
+    "title": "Sr. Forward Deployed Engineer (Post-Sales)",
+    "location": "New York City Office",
+    "url": "https://jobs.ashbyhq.com/tennr/a439c5b8-1686-4b90-b2bc-cffd761e002d",
+    "department": "Embedded Solutions"
+  },
+  {
+    "_key": "Celonis||Associate Deployment Engineer - Galaxy Graduate Program||https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
+    "firm": "Celonis",
+    "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+    "location": "Raleigh, US, North Carolina",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
+    "department": ""
+  },
+  {
+    "_key": "Epic Games||Product Management Intern||https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
+    "firm": "Epic Games",
+    "title": "Product Management Intern",
+    "location": "Cary,North Carolina,United States",
+    "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
+    "department": ""
   }
 ]
