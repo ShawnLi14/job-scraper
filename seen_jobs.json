@@ -13716,5 +13716,69 @@
     "location": "Sunnyvale, CA; Seattle, WA",
     "url": "https://www.metacareers.com/jobs/1683903403071591",
     "department": "AR/VR, Facebook Reality Labs"
+  },
+  {
+    "_key": "IMC Trading||Software Engineer, Early Career||https://job-boards.eu.greenhouse.io/imc/jobs/4796143101",
+    "firm": "IMC Trading",
+    "title": "Software Engineer, Early Career",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101",
+    "department": ""
+  },
+  {
+    "_key": "Stripe||High School Internship, Software Engineering (Summer 2027)||https://stripe.com/jobs/search?gh_jid=8241260",
+    "firm": "Stripe",
+    "title": "High School Internship, Software Engineering (Summer 2027)",
+    "location": "Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+    "department": ""
+  },
+  {
+    "_key": "Ramp||Applied Scientist Intern||https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+    "firm": "Ramp",
+    "title": "Applied Scientist Intern",
+    "location": "New York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+    "department": "Emerging Talent - Data"
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, BS, Software Engineering, Labeling||https://careers.withwaymo.com/jobs?gh_jid=8238525",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+    "location": "Mountain View, CA, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+    "department": ""
+  },
+  {
+    "_key": "xAI||Member of Technical Staff - Evaluation Infrastructure||https://job-boards.greenhouse.io/xai/jobs/5252714007",
+    "firm": "xAI",
+    "title": "Member of Technical Staff - Evaluation Infrastructure",
+    "location": " Palo Alto, CA",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
+    "department": ""
+  },
+  {
+    "_key": "Clay||Software Engineering Intern ||https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa",
+    "firm": "Clay",
+    "title": "Software Engineering Intern ",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Epic Games||Technical Product Management Intern||https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004",
+    "firm": "Epic Games",
+    "title": "Technical Product Management Intern",
+    "location": "Cary,North Carolina,United States",
+    "url": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004",
+    "department": ""
+  },
+  {
+    "_key": "Meta||DFX Engineering Intern||https://www.metacareers.com/jobs/1095054769939445",
+    "firm": "Meta",
+    "title": "DFX Engineering Intern",
+    "location": "Sunnyvale, CA; Seattle, WA",
+    "url": "https://www.metacareers.com/jobs/1095054769939445",
+    "department": "AR/VR, Facebook Reality Labs, Internship - Engineering, Tech & Design"
   }
 ]
