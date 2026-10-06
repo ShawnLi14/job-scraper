@@ -14348,5 +14348,93 @@
     "location": "Menlo Park, CA",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
     "department": ""
+  },
+  {
+    "_key": "DV Trading||Database Engineer Intern - Summer 2027||https://job-boards.greenhouse.io/dvtrading/jobs/4741016005",
+    "firm": "DV Trading",
+    "title": "Database Engineer Intern - Summer 2027",
+    "location": "Chicago",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005",
+    "department": ""
+  },
+  {
+    "_key": "Engineers Gate||Quantitative Research Intern||https://job-boards.greenhouse.io/engineersgate/jobs/8249666",
+    "firm": "Engineers Gate",
+    "title": "Quantitative Research Intern",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8249666",
+    "department": ""
+  },
+  {
+    "_key": "Nuro||New Grad Software Engineer, Product Engineering||https://nuro.ai/careersitem?gh_jid=8248317",
+    "firm": "Nuro",
+    "title": "New Grad Software Engineer, Product Engineering",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Electrical Engineering Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+    "firm": "Figure AI",
+    "title": "Electrical Engineering Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Special Projects Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4694889006",
+    "firm": "Figure AI",
+    "title": "Special Projects Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4694889006",
+    "department": ""
+  },
+  {
+    "_key": "Affirm||Software Engineer, Early Career||https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "firm": "Affirm",
+    "title": "Software Engineer, Early Career",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "department": ""
+  },
+  {
+    "_key": "Column||Forward Deployed Engineer||https://jobs.ashbyhq.com/column/fad3b99d-89a6-4bbd-87bc-1f092ca1145f",
+    "firm": "Column",
+    "title": "Forward Deployed Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/column/fad3b99d-89a6-4bbd-87bc-1f092ca1145f",
+    "department": "Product & Engineering"
+  },
+  {
+    "_key": "Nvidia||PCIe Design Verification Intern - Spring 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704",
+    "firm": "Nvidia",
+    "title": "PCIe Design Verification Intern - Spring 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||PCIe Design Verification Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
+    "firm": "Nvidia",
+    "title": "PCIe Design Verification Intern - Summer 2027",
+    "location": "US, TX, Austin",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Data Scientist Intern, Product Analytics (Summer 2027)||https://www.metacareers.com/jobs/1633096478817942",
+    "firm": "Meta",
+    "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://www.metacareers.com/jobs/1633096478817942",
+    "department": "Data & Analytics, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Software Engineering Intern||https://www.metacareers.com/jobs/1952991802037374",
+    "firm": "Meta",
+    "title": "Software Engineering Intern",
+    "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
+    "url": "https://www.metacareers.com/jobs/1952991802037374",
+    "department": "Internship - Engineering, Tech & Design"
   }
 ]
