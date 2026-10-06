@@ -14436,5 +14436,101 @@
     "location": "Bellevue, WA; Menlo Park, CA; Seattle, WA; New York, NY",
     "url": "https://www.metacareers.com/jobs/1952991802037374",
     "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, BS, Software Engineer, Model Eval||https://careers.withwaymo.com/jobs?gh_jid=8257660",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+    "location": "Mountain View, CA, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+    "department": ""
+  },
+  {
+    "_key": "Waymo||2027 Summer Intern, BS, Waymo ML Ops & Automation||https://careers.withwaymo.com/jobs?gh_jid=8257237",
+    "firm": "Waymo",
+    "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+    "location": "Mountain View, CA, USA",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Commercial Operations Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4719591006",
+    "firm": "Figure AI",
+    "title": "Commercial Operations Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4719591006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Firmware Engineering Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+    "firm": "Figure AI",
+    "title": "Firmware Engineering Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Mechanical Engineer Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4303098006",
+    "firm": "Figure AI",
+    "title": "Mechanical Engineer Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4303098006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Middleware Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4605724006",
+    "firm": "Figure AI",
+    "title": "Middleware Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4605724006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Security Engineer Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4719593006",
+    "firm": "Figure AI",
+    "title": "Security Engineer Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4719593006",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Validation Engineering Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+    "firm": "Figure AI",
+    "title": "Validation Engineering Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+    "department": ""
+  },
+  {
+    "_key": "Affirm||Software Engineer, Early Career (NYC)||https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "firm": "Affirm",
+    "title": "Software Engineer, Early Career (NYC)",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "department": ""
+  },
+  {
+    "_key": "Affirm||Software Engineer, Early Career (SF)||https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+    "firm": "Affirm",
+    "title": "Software Engineer, Early Career (SF)",
+    "location": "San Francisco, California, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||High Speed SerDes Validation Engineer - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800",
+    "firm": "Nvidia",
+    "title": "High Speed SerDes Validation Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, Geo Auto||https://www.google.com/about/careers/applications/jobs/results/111089831139779270",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, Geo Auto",
+    "location": "Mountain View, CA, USA; Seattle, WA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/111089831139779270",
+    "department": ""
   }
 ]
