@@ -14236,5 +14236,109 @@
     "location": "",
     "url": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2028/",
     "department": ""
+  },
+  {
+    "_key": "Hudson River Trading||Data Scientist Intern - 2027||https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
+    "firm": "Hudson River Trading",
+    "title": "Data Scientist Intern - 2027",
+    "location": "London, United Kingdom; New York, NY, United States",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Quality & Test Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
+    "firm": "Anduril",
+    "title": "2027 Quality & Test Engineer Intern",
+    "location": "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Reliability Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
+    "firm": "Anduril",
+    "title": "2027 Reliability Engineer Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Systems Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+    "firm": "Anduril",
+    "title": "2027 Systems Engineer Intern",
+    "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||Winter 2027 Quality & Test Engineer Co-op||https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007",
+    "firm": "Anduril",
+    "title": "Winter 2027 Quality & Test Engineer Co-op",
+    "location": "Ashville, Ohio, United States; Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||Winter 2027 Reliability Engineer Co-op||https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007",
+    "firm": "Anduril",
+    "title": "Winter 2027 Reliability Engineer Co-op",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007",
+    "department": ""
+  },
+  {
+    "_key": "Nuro||New Grad Software Engineer, Routing||https://nuro.ai/careersitem?gh_jid=8248317",
+    "firm": "Nuro",
+    "title": "New Grad Software Engineer, Routing",
+    "location": "Mountain View, California (HQ)",
+    "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+    "department": ""
+  },
+  {
+    "_key": "Mercor||Research Intern||https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518",
+    "firm": "Mercor",
+    "title": "Research Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518",
+    "department": "Research | Internships"
+  },
+  {
+    "_key": "Modal||Member of Technical Staff - Inference Runtime||https://jobs.ashbyhq.com/modal/6195f552-ca6f-4540-b7f6-e7e6054e47ad",
+    "firm": "Modal",
+    "title": "Member of Technical Staff - Inference Runtime",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/modal/6195f552-ca6f-4540-b7f6-e7e6054e47ad",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Duolingo||Illustrator, Intern||https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002",
+    "firm": "Duolingo",
+    "title": "Illustrator, Intern",
+    "location": "Detroit, MI",
+    "url": "https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002",
+    "department": ""
+  },
+  {
+    "_key": "Intel||AI Solution Architect - Graduate Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
+    "firm": "Intel",
+    "title": "AI Solution Architect - Graduate Intern",
+    "location": "US, California, Santa Clara",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
+    "department": ""
+  },
+  {
+    "_key": "Intel||AI Solution Architect Graduate Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+    "firm": "Intel",
+    "title": "AI Solution Architect Graduate Intern",
+    "location": "US, California, Santa Clara",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+    "department": ""
+  },
+  {
+    "_key": "Intel||AI Solution Architect - Undergraduate Intern||https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531",
+    "firm": "Intel",
+    "title": "AI Solution Architect - Undergraduate Intern",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531",
+    "department": ""
   }
 ]
