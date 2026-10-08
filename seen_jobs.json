@@ -14676,5 +14676,77 @@
     "location": "New York",
     "url": "https://job-boards.greenhouse.io/marshallwace/jobs/8879188002",
     "department": ""
+  },
+  {
+    "_key": "OpenAI||Forward Deployed Software Engineer, Gov||https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
+    "firm": "OpenAI",
+    "title": "Forward Deployed Software Engineer, Gov",
+    "location": "Washington, DC",
+    "url": "https://jobs.ashbyhq.com/openai/db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
+    "department": "OpenAI for Gov"
+  },
+  {
+    "_key": "Sierra||Strategist, Agent Development (MBA Grad 2027)||https://jobs.ashbyhq.com/sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96",
+    "firm": "Sierra",
+    "title": "Strategist, Agent Development (MBA Grad 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96",
+    "department": "Agent Strategist"
+  },
+  {
+    "_key": "Replit||Software Engineering Intern – Winter 2027 (U.S. Based)||https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "firm": "Replit",
+    "title": "Software Engineering Intern – Winter 2027 (U.S. Based)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Fireworks AI||Member of Technical Staff, Software Engineer||https://jobs.ashbyhq.com/fireworks/492db6a8-c757-4c4e-a2b3-f2ed183f8e6f",
+    "firm": "Fireworks AI",
+    "title": "Member of Technical Staff, Software Engineer",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/fireworks/492db6a8-c757-4c4e-a2b3-f2ed183f8e6f",
+    "department": "Platform"
+  },
+  {
+    "_key": "Pinterest||Solutions Engineer Intern 2027 (USA)||https://www.pinterestcareers.com/jobs/?gh_jid=8214788",
+    "firm": "Pinterest",
+    "title": "Solutions Engineer Intern 2027 (USA)",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214788",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Manufacturing Test Engineering Intern, Field Requirements & Feedback||https://www.metacareers.com/jobs/940553205402689",
+    "firm": "Meta",
+    "title": "Manufacturing Test Engineering Intern, Field Requirements & Feedback",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/940553205402689",
+    "department": "AR/VR, Facebook Reality Labs, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Thermal Engineering Intern ||https://www.metacareers.com/jobs/1123905276826454",
+    "firm": "Meta",
+    "title": "Thermal Engineering Intern ",
+    "location": "Austin, TX",
+    "url": "https://www.metacareers.com/jobs/1123905276826454",
+    "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Manufacturing Test Engineering Intern, AI||https://www.metacareers.com/jobs/1866862250969693",
+    "firm": "Meta",
+    "title": "Manufacturing Test Engineering Intern, AI",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1866862250969693",
+    "department": "AR/VR, Facebook Reality Labs, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Production Systems Engineering Intern||https://www.metacareers.com/jobs/1144327871507763",
+    "firm": "Meta",
+    "title": "Production Systems Engineering Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1144327871507763",
+    "department": "Internship - Engineering, Tech & Design"
   }
 ]
