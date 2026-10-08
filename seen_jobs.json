@@ -14604,5 +14604,37 @@
     "location": "",
     "url": "https://www.citadel.com/careers/details/human-resources-mba-intern-us/",
     "department": ""
+  },
+  {
+    "_key": "Epic Games||SDET Intern||https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004",
+    "firm": "Epic Games",
+    "title": "SDET Intern",
+    "location": "Cary,North Carolina,United States",
+    "url": "https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004",
+    "department": ""
+  },
+  {
+    "_key": "Meta||DFX Engineering Intern||https://www.metacareers.com/jobs/966089683203668",
+    "firm": "Meta",
+    "title": "DFX Engineering Intern",
+    "location": "Sunnyvale, CA; Seattle, WA",
+    "url": "https://www.metacareers.com/jobs/966089683203668",
+    "department": "AR/VR, Facebook Reality Labs, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Optical Engineering Intern - Camera, Depth & Cover Window Optics||https://www.metacareers.com/jobs/1092606640401919",
+    "firm": "Meta",
+    "title": "Optical Engineering Intern - Camera, Depth & Cover Window Optics",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1092606640401919",
+    "department": "AR/VR, Facebook Reality Labs, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Manufacturing Test Engineering Intern||https://www.metacareers.com/jobs/1866862250969693",
+    "firm": "Meta",
+    "title": "Manufacturing Test Engineering Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1866862250969693",
+    "department": "AR/VR, Facebook Reality Labs, Internship - Engineering, Tech & Design"
   }
 ]
