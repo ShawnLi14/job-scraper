@@ -14748,5 +14748,69 @@
     "location": "Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/1144327871507763",
     "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Replit||Software Engineering Intern – Winter 2027 ||https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "firm": "Replit",
+    "title": "Software Engineering Intern – Winter 2027 ",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "department": "Engineering"
+  },
+  {
+    "_key": "DeepMind||Forward Deployed Engineer, Kaggle, DeepMind||https://www.google.com/about/careers/applications/jobs/results/88371816375952070",
+    "firm": "DeepMind",
+    "title": "Forward Deployed Engineer, Kaggle, DeepMind",
+    "location": "Mountain View, CA, USA; New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/88371816375952070",
+    "department": ""
+  },
+  {
+    "_key": "DeepMind||Technical Program Manager, Scientific Intelligence for Gemini, DeepMind (Full Time Contract)||https://www.google.com/about/careers/applications/jobs/results/102027750792929990",
+    "firm": "DeepMind",
+    "title": "Technical Program Manager, Scientific Intelligence for Gemini, DeepMind (Full Time Contract)",
+    "location": "Mountain View, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/102027750792929990",
+    "department": ""
+  },
+  {
+    "_key": "Riot Games||MBA Rotational Program - Summer 2027||https://www.riotgames.com/en/work-with-us/job/8238328?gh_jid=8238328",
+    "firm": "Riot Games",
+    "title": "MBA Rotational Program - Summer 2027",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8238328?gh_jid=8238328",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Research Intern, Spatial Intelligence - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
+    "firm": "Nvidia",
+    "title": "Research Intern, Spatial Intelligence - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, Kaggle, DeepMind||https://www.google.com/about/careers/applications/jobs/results/88371816375952070",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, Kaggle, DeepMind",
+    "location": "Mountain View, CA, USA; New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/88371816375952070",
+    "department": ""
+  },
+  {
+    "_key": "Google||Technical Program Manager, Scientific Intelligence for Gemini, DeepMind (Full Time Contract)||https://www.google.com/about/careers/applications/jobs/results/102027750792929990",
+    "firm": "Google",
+    "title": "Technical Program Manager, Scientific Intelligence for Gemini, DeepMind (Full Time Contract)",
+    "location": "Mountain View, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/102027750792929990",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Research Scientist, Wearables AI||https://www.metacareers.com/jobs/1664500798343394",
+    "firm": "Meta",
+    "title": "Research Scientist, Wearables AI",
+    "location": "New York, NY",
+    "url": "https://www.metacareers.com/jobs/1664500798343394",
+    "department": "AI Research, Artificial Intelligence, Facebook Reality Labs, Research, University Grad - PhD & Postdoc"
   }
 ]
