@@ -14876,5 +14876,53 @@
     "location": "Sunnyvale, CA; Austin, TX",
     "url": "https://www.metacareers.com/jobs/1096213456288397",
     "department": "Infrastructure, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Coinbase||Forward Deployed Engineer Intern (HR Technology)||https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "firm": "Coinbase",
+    "title": "Forward Deployed Engineer Intern (HR Technology)",
+    "location": "Hybrid - New York, NY",
+    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Automation - '26/'27 (Starlink)||https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Automation - '26/'27 (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Manufacturing - '26/'27 (Starlink)||https://boards.greenhouse.io/spacex/jobs/8877857002?gh_jid=8877857002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Manufacturing - '26/'27 (Starlink)",
+    "location": "Bastrop, TX",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8877857002?gh_jid=8877857002",
+    "department": ""
+  },
+  {
+    "_key": "Faire||Applied AI/ML Scientist, Intern||https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+    "firm": "Faire",
+    "title": "Applied AI/ML Scientist, Intern",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Mechanical Engineering Intern||https://www.metacareers.com/jobs/1530919698792460",
+    "firm": "Meta",
+    "title": "Mechanical Engineering Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1530919698792460",
+    "department": "University Grad - Engineering, Tech & Design, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Production Systems Engineering Intern||https://www.metacareers.com/jobs/1772445513807075",
+    "firm": "Meta",
+    "title": "Production Systems Engineering Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1772445513807075",
+    "department": "Internship - Engineering, Tech & Design"
   }
 ]
