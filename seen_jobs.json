@@ -14812,5 +14812,69 @@
     "location": "New York, NY",
     "url": "https://www.metacareers.com/jobs/1664500798343394",
     "department": "AI Research, Artificial Intelligence, Facebook Reality Labs, Research, University Grad - PhD & Postdoc"
+  },
+  {
+    "_key": "Schonfeld||2027 Quantitative Developer Intern||https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+    "firm": "Schonfeld",
+    "title": "2027 Quantitative Developer Intern",
+    "location": "Austin, Texas, United States",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+    "department": ""
+  },
+  {
+    "_key": "Schonfeld||2027 Quantitative Research Intern||https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+    "firm": "Schonfeld",
+    "title": "2027 Quantitative Research Intern",
+    "location": "Austin, Texas, United States",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Early Career Quality Engineer||https://boards.greenhouse.io/andurilindustries/jobs/5262324007?gh_jid=5262324007",
+    "firm": "Anduril",
+    "title": "2027 Early Career Quality Engineer",
+    "location": "Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262324007?gh_jid=5262324007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Early Career Systems Engineer||https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
+    "firm": "Anduril",
+    "title": "2027 Early Career Systems Engineer",
+    "location": "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
+    "department": ""
+  },
+  {
+    "_key": "SoFi||Staff Credit Policy Analyst – Condo, Co-op & Project Review||https://sofi.com/careers/job/7698678003?gh_jid=7698678003",
+    "firm": "SoFi",
+    "title": "Staff Credit Policy Analyst – Condo, Co-op & Project Review",
+    "location": "United States",
+    "url": "https://sofi.com/careers/job/7698678003?gh_jid=7698678003",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901",
+    "firm": "Nvidia",
+    "title": "Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Structural Design Engineer - FEA (Intern)||https://www.metacareers.com/jobs/1080292111664557",
+    "firm": "Meta",
+    "title": "Structural Design Engineer - FEA (Intern)",
+    "location": "Sunnyvale, CA; Redmond, WA; Seattle, WA",
+    "url": "https://www.metacareers.com/jobs/1080292111664557",
+    "department": "Facebook Reality Labs, Internship - PhD"
+  },
+  {
+    "_key": "Meta||ASIC Engineer Intern, Architecture||https://www.metacareers.com/jobs/1096213456288397",
+    "firm": "Meta",
+    "title": "ASIC Engineer Intern, Architecture",
+    "location": "Sunnyvale, CA; Austin, TX",
+    "url": "https://www.metacareers.com/jobs/1096213456288397",
+    "department": "Infrastructure, Internship - Engineering, Tech & Design"
   }
 ]
