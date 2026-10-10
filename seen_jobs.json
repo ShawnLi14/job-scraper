@@ -14924,5 +14924,53 @@
     "location": "Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/1772445513807075",
     "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Databricks||Evergreen  - Product Design Intern (2027 Start)||https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+    "firm": "Databricks",
+    "title": "Evergreen  - Product Design Intern (2027 Start)",
+    "location": "San Francisco, California; Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||Evergreen - Product Design New Grad (2027 Start)||https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+    "firm": "Databricks",
+    "title": "Evergreen - Product Design New Grad (2027 Start)",
+    "location": "San Francisco, California; Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+    "department": ""
+  },
+  {
+    "_key": "Affirm||IT Engineer Intern (Early Careers Summer 2027)||https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "firm": "Affirm",
+    "title": "IT Engineer Intern (Early Careers Summer 2027)",
+    "location": "San Francisco, California, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||C++ Software Engineer, Infrastructure Tools - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+    "firm": "Nvidia",
+    "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||ASIC Clocks Verification Engineer - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579",
+    "firm": "Nvidia",
+    "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+    "firm": "Nvidia",
+    "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+    "department": ""
   }
 ]
