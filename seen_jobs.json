@@ -15116,5 +15116,45 @@
     "location": "Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/4592395780972916",
     "department": "University Grad - PhD & Postdoc"
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer - US Government||https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "location": "Norfolk, VA",
+    "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+    "department": "Delta"
+  },
+  {
+    "_key": "1Password||Data Intern  - Product Analytics - Winter 2027||https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48",
+    "firm": "1Password",
+    "title": "Data Intern  - Product Analytics - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48",
+    "department": "Internships"
+  },
+  {
+    "_key": "Hex||AI Engineer Intern||https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+    "firm": "Hex",
+    "title": "AI Engineer Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+    "department": "University"
+  },
+  {
+    "_key": "Nvidia||Differentiable Simulation Research Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+    "firm": "Nvidia",
+    "title": "Differentiable Simulation Research Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Signal Integrity Intern||https://www.metacareers.com/jobs/1134883748976209",
+    "firm": "Meta",
+    "title": "Signal Integrity Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1134883748976209",
+    "department": "Internship - Engineering, Tech & Design"
   }
 ]
