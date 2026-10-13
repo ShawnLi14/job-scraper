@@ -15156,5 +15156,23 @@
     "location": "Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/1134883748976209",
     "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, Enterprise Context Layer, Agentic Data Cloud||https://www.google.com/about/careers/applications/jobs/results/84794894597399238",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, Enterprise Context Layer, Agentic Data Cloud",
+    "location": "Sunnyvale, CA, USA; Kirkland, WA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/84794894597399238",
+    "department": ""
+  },
+  {
+    "_key": "SIG (Susquehanna)||Accountant - Operations Analyst Program: August 2027 Start||https://careers.sig.com/jobs/11298?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Accountant - Operations Analyst Program: August 2027 Start",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11298?lang=en-us",
+    "department": [
+      " New Graduates"
+    ]
   }
 ]
