@@ -15174,5 +15174,141 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Point72 / Cubist||2027 Summer Internship - Investment Services||https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
+    "firm": "Point72 / Cubist",
+    "title": "2027 Summer Internship - Investment Services",
+    "location": "New York, New York, United States, Stamford, Connecticut, United States",
+    "url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
+    "department": ""
+  },
+  {
+    "_key": "Belvedere Trading||Quantitative Researcher - Entry Level 2027||https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68",
+    "firm": "Belvedere Trading",
+    "title": "Quantitative Researcher - Entry Level 2027",
+    "location": "Chicago, Illinois",
+    "url": "https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68",
+    "department": "Quant"
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer - US Government||https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer - US Government",
+    "location": "Laurel, MD",
+    "url": "https://jobs.lever.co/palantir/29630180-0f10-4826-801f-12e226d3c7f1",
+    "department": "Delta"
+  },
+  {
+    "_key": "Reflection AI||Member of Technical Staff - Pre-Training Evals Infra||https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a",
+    "firm": "Reflection AI",
+    "title": "Member of Technical Staff - Pre-Training Evals Infra",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/reflectionai/5c9835ae-4424-41ab-8585-16aefcce5a7a",
+    "department": "Evals"
+  },
+  {
+    "_key": "Gusto||Finance Intern (Summer 2027)||https://job-boards.greenhouse.io/gusto/jobs/8257115",
+    "firm": "Gusto",
+    "title": "Finance Intern (Summer 2027)",
+    "location": "New York, NY - Hybrid",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Embedded Software Engineer Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260",
+    "firm": "Skydio",
+    "title": "Embedded Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260",
+    "department": "Software"
+  },
+  {
+    "_key": "Zoox||Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time)||https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
+    "firm": "Zoox",
+    "title": "Contract Student Worker – AI Validation and Benchmarking Engineer (40hrs / week Full-Time)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
+    "department": "Software"
+  },
+  {
+    "_key": "Nvidia||Enterprise Platform Technical Marketing Engineer Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
+    "firm": "Nvidia",
+    "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Formal Verification Engineer - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627",
+    "firm": "Nvidia",
+    "title": "Formal Verification Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627",
+    "department": ""
+  },
+  {
+    "_key": "Google||Lead GenAI Forward Deployed Engineer, YouTube GTM Operations||https://www.google.com/about/careers/applications/jobs/results/116850468910441158",
+    "firm": "Google",
+    "title": "Lead GenAI Forward Deployed Engineer, YouTube GTM Operations",
+    "location": "San Bruno, CA, USA; New York, NY, USA; Mountain View, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/116850468910441158",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Mechanical Engineering Intern, Infrastructure||https://www.metacareers.com/jobs/2863542050708101",
+    "firm": "Meta",
+    "title": "Mechanical Engineering Intern, Infrastructure",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/2863542050708101",
+    "department": "University Grad - Engineering, Tech & Design, Infrastructure, AI Infrastructure, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Production Systems Engineering Intern||https://www.metacareers.com/jobs/1423159169992675",
+    "firm": "Meta",
+    "title": "Production Systems Engineering Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1423159169992675",
+    "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Mechanical Engineering Intern||https://www.metacareers.com/jobs/3255073444698138",
+    "firm": "Meta",
+    "title": "Mechanical Engineering Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/3255073444698138",
+    "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Signal Integrity Intern||https://www.metacareers.com/jobs/2262379047961521",
+    "firm": "Meta",
+    "title": "Signal Integrity Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/2262379047961521",
+    "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Thermal Engineering Intern||https://www.metacareers.com/jobs/1114875338141580",
+    "firm": "Meta",
+    "title": "Thermal Engineering Intern",
+    "location": "Austin, TX",
+    "url": "https://www.metacareers.com/jobs/1114875338141580",
+    "department": "Infrastructure, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Materials Regulatory Compliance (MRC) Intern||https://www.metacareers.com/jobs/1054006261009917",
+    "firm": "Meta",
+    "title": "Materials Regulatory Compliance (MRC) Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1054006261009917",
+    "department": "University Grad - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||ASIC Engineer, Performance Architecture and Modeling (University Grad)||https://www.metacareers.com/jobs/4596319193960098",
+    "firm": "Meta",
+    "title": "ASIC Engineer, Performance Architecture and Modeling (University Grad)",
+    "location": "Sunnyvale, CA; Austin, TX",
+    "url": "https://www.metacareers.com/jobs/4596319193960098",
+    "department": "Infrastructure, University Grad - Engineering, Tech & Design"
   }
 ]
