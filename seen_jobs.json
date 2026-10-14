@@ -15310,5 +15310,93 @@
     "location": "Sunnyvale, CA; Austin, TX",
     "url": "https://www.metacareers.com/jobs/4596319193960098",
     "department": "Infrastructure, University Grad - Engineering, Tech & Design"
+  },
+  {
+    "_key": "IMC Trading||Deep Learning Research Intern - Summer 2027 - New York||https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+    "firm": "IMC Trading",
+    "title": "Deep Learning Research Intern - Summer 2027 - New York",
+    "location": "New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Early Career Associate Product Designer||https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007",
+    "firm": "Anduril",
+    "title": "2027 Early Career Associate Product Designer",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Firmware Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
+    "firm": "Anduril",
+    "title": "2027 Firmware Engineer Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Product Designer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007",
+    "firm": "Anduril",
+    "title": "2027 Product Designer Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||ASIC Verification Engineer - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+    "firm": "Nvidia",
+    "title": "ASIC Verification Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Low Power ASIC Engineer - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+    "firm": "Nvidia",
+    "title": "Low Power ASIC Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||SRAM Circuit Design Engineer - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+    "firm": "Nvidia",
+    "title": "SRAM Circuit Design Engineer - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||SoC Software Engineer - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+    "firm": "Nvidia",
+    "title": "SoC Software Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Sparse Linear Algebra Libraries Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
+    "firm": "Nvidia",
+    "title": "Sparse Linear Algebra Libraries Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Product Design Engineering Intern||https://www.metacareers.com/jobs/1123001263407222",
+    "firm": "Meta",
+    "title": "Product Design Engineering Intern",
+    "location": "Sunnyvale, CA; Redmond, WA; Seattle, WA",
+    "url": "https://www.metacareers.com/jobs/1123001263407222",
+    "department": "Facebook Reality Labs"
+  },
+  {
+    "_key": "Meta||ASIC Engineer, Design (University Grad)||https://www.metacareers.com/jobs/1084023187741651",
+    "firm": "Meta",
+    "title": "ASIC Engineer, Design (University Grad)",
+    "location": "Austin, TX",
+    "url": "https://www.metacareers.com/jobs/1084023187741651",
+    "department": "Infrastructure, University Grad - Engineering, Tech & Design"
   }
 ]
