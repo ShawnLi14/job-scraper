@@ -15586,5 +15586,29 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Anduril||Winter 2027 Research Engineer Co-op||https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+    "firm": "Anduril",
+    "title": "Winter 2027 Research Engineer Co-op",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Embedded Software Engineering Intern, Platform||https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+    "firm": "Figure AI",
+    "title": "Embedded Software Engineering Intern, Platform",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Process Engineering Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b",
+    "firm": "Skydio",
+    "title": "Process Engineering Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b",
+    "department": "Manufacturing Engineering"
   }
 ]
