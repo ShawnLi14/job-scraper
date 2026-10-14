@@ -15496,5 +15496,95 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Anthropic||Staff Forward Deployed Engineer||https://job-boards.greenhouse.io/anthropic/jobs/5449229008",
+    "firm": "Anthropic",
+    "title": "Staff Forward Deployed Engineer",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449229008",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Early Career Division Operations||https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007",
+    "firm": "Anduril",
+    "title": "2027 Early Career Division Operations",
+    "location": "Reston, Virginia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Flight Test Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
+    "firm": "Anduril",
+    "title": "2027 Flight Test Engineer Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
+    "department": ""
+  },
+  {
+    "_key": "Cerebras||Supplier Quality Engineer - New Grad||https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a",
+    "firm": "Cerebras",
+    "title": "Supplier Quality Engineer - New Grad",
+    "location": "Sunnyvale, CA",
+    "url": "https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a",
+    "department": "New Grads"
+  },
+  {
+    "_key": "Skydio||Software Engineer Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+    "firm": "Skydio",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+    "department": "Software"
+  },
+  {
+    "_key": "Skydio||Manufacturing Software Engineer Intern - Winter 2027||https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb",
+    "firm": "Skydio",
+    "title": "Manufacturing Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb",
+    "department": "R&D"
+  },
+  {
+    "_key": "Meta||Display Engineering Intern||https://www.metacareers.com/jobs/2773227806411499",
+    "firm": "Meta",
+    "title": "Display Engineering Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/2773227806411499",
+    "department": "Internship - Engineering, Tech & Design, AR/VR"
+  },
+  {
+    "_key": "Meta||ASIC Engineering Intern, Design Verification (Silicon Engineering)||https://www.metacareers.com/jobs/1079763448023260",
+    "firm": "Meta",
+    "title": "ASIC Engineering Intern, Design Verification (Silicon Engineering)",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1079763448023260",
+    "department": "AR/VR, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)||https://www.metacareers.com/jobs/1758435721926913",
+    "firm": "Meta",
+    "title": "Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1758435721926913",
+    "department": "Internship - Engineering, Tech & Design, Facebook Reality Labs"
+  },
+  {
+    "_key": "Meta||ASIC Design Engineer Intern||https://www.metacareers.com/jobs/1406976394946562",
+    "firm": "Meta",
+    "title": "ASIC Design Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1406976394946562",
+    "department": "AR/VR, Infrastructure, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "SIG (Susquehanna)||Sell Side Research Rotational Program: August 2027 Start||https://careers.sig.com/jobs/11434?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Sell Side Research Rotational Program: August 2027 Start",
+    "location": "New York, New York",
+    "url": "https://careers.sig.com/jobs/11434?lang=en-us",
+    "department": [
+      " New Graduates"
+    ]
   }
 ]
