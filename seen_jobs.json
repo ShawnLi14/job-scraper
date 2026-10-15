@@ -15618,5 +15618,37 @@
     "location": "New York - New York",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
     "department": ""
+  },
+  {
+    "_key": "Airbnb||Strategic Finance & Analytics Intern||https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
+    "firm": "Airbnb",
+    "title": "Strategic Finance & Analytics Intern",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Product Design Engineer (Early Career)||https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1",
+    "firm": "Skydio",
+    "title": "Product Design Engineer (Early Career)",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1",
+    "department": "Hardware"
+  },
+  {
+    "_key": "Nvidia||Product Management MBA Intern, Laptop - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
+    "firm": "Nvidia",
+    "title": "Product Management MBA Intern, Laptop - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Quality & Reliability Engineering Intern||https://www.metacareers.com/jobs/1624891432439039",
+    "firm": "Meta",
+    "title": "Quality & Reliability Engineering Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1624891432439039",
+    "department": "AR/VR, Facebook Reality Labs, Internship - Engineering, Tech & Design"
   }
 ]
