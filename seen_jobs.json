@@ -15780,5 +15780,33 @@
     "department": [
       " Interns + Co-ops"
     ]
+  },
+  {
+    "_key": "Salesforce||Software Engineering - MTS, Trust Intelligence Platform||https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027",
+    "firm": "Salesforce",
+    "title": "Software Engineering - MTS, Trust Intelligence Platform",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027",
+    "department": ""
+  },
+  {
+    "_key": "SIG (Susquehanna)||Business Analytics AI Co-op with Drexel University||https://careers.sig.com/jobs/11675?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Business Analytics AI Co-op with Drexel University",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11675?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
+  },
+  {
+    "_key": "SIG (Susquehanna)||SGE Venture Capital / Growth Equity Co-op with Drexel University||https://careers.sig.com/jobs/11674?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "SGE Venture Capital / Growth Equity Co-op with Drexel University",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11674?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
