@@ -15856,5 +15856,29 @@
     "location": "Reston, VA, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/75258583289078470",
     "department": ""
+  },
+  {
+    "_key": "DoorDash||Electrical Engineer, Intern - Labs (Summer 2027)||https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+    "firm": "DoorDash",
+    "title": "Electrical Engineer, Intern - Labs (Summer 2027)",
+    "location": "Oakland, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Embedded Software Engineering Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+    "firm": "Figure AI",
+    "title": "Embedded Software Engineering Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Production Systems Engineering Intern ||https://www.metacareers.com/jobs/4536253699919879",
+    "firm": "Meta",
+    "title": "Production Systems Engineering Intern ",
+    "location": "Sunnyvale, CA; Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/4536253699919879",
+    "department": "Infrastructure, Internship - Engineering, Tech & Design"
   }
 ]
