@@ -15880,5 +15880,29 @@
     "location": "Sunnyvale, CA; Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/4536253699919879",
     "department": "Infrastructure, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)||https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Nvidia||Product Marketing Management MBA Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672",
+    "firm": "Nvidia",
+    "title": "Product Marketing Management MBA Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Signal Integrity Intern||https://www.metacareers.com/jobs/1950497786328676",
+    "firm": "Meta",
+    "title": "Signal Integrity Intern",
+    "location": "Menlo Park, CA",
+    "url": "https://www.metacareers.com/jobs/1950497786328676",
+    "department": "Internship - Engineering, Tech & Design"
   }
 ]
