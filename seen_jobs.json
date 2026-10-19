@@ -15928,5 +15928,13 @@
     "location": "Wynnewood, PA",
     "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002",
     "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)||https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
+    "department": "Platform & Infrastructure"
   }
 ]
