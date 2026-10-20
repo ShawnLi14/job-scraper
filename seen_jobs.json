@@ -16152,5 +16152,45 @@
     "location": "Sunnyvale, CA; Seattle, WA",
     "url": "https://www.metacareers.com/jobs/1798345134744465",
     "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Nvidia||Order Management Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Order-Management-Intern---Summer-2027_JR2027868",
+    "firm": "Nvidia",
+    "title": "Order Management Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Order-Management-Intern---Summer-2027_JR2027868",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Enterprise Security Engineer, Intern (Summer 2027)||https://www.metacareers.com/jobs/1079627324896327",
+    "firm": "Meta",
+    "title": "Enterprise Security Engineer, Intern (Summer 2027)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://www.metacareers.com/jobs/1079627324896327",
+    "department": "Security, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Detection & Response Security Engineer, Intern (Summer 2027)||https://www.metacareers.com/jobs/1677981003713152",
+    "firm": "Meta",
+    "title": "Detection & Response Security Engineer, Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://www.metacareers.com/jobs/1677981003713152",
+    "department": "Internship - Engineering, Tech & Design, Security"
+  },
+  {
+    "_key": "Meta||Security Engineer Posture Management, Intern (Summer 2027)||https://www.metacareers.com/jobs/1359570553913180",
+    "firm": "Meta",
+    "title": "Security Engineer Posture Management, Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://www.metacareers.com/jobs/1359570553913180",
+    "department": "University Grad - Engineering, Tech & Design, Security"
+  },
+  {
+    "_key": "Meta||Product Security Engineer, Intern (Summer 2027)||https://www.metacareers.com/jobs/2535222523640873",
+    "firm": "Meta",
+    "title": "Product Security Engineer, Intern (Summer 2027)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://www.metacareers.com/jobs/2535222523640873",
+    "department": "Security, Internship - Engineering, Tech & Design"
   }
 ]
