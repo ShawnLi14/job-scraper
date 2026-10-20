@@ -16192,5 +16192,61 @@
     "location": "Menlo Park, CA; New York, NY",
     "url": "https://www.metacareers.com/jobs/2535222523640873",
     "department": "Security, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Cognition||Forward Deployed Engineer - US||https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a",
+    "firm": "Cognition",
+    "title": "Forward Deployed Engineer - US",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a",
+    "department": "Deployed Engineer"
+  },
+  {
+    "_key": "Cognition||Forward Deployed Engineer - Federal||https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c",
+    "firm": "Cognition",
+    "title": "Forward Deployed Engineer - Federal",
+    "location": "Washington DC",
+    "url": "https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c",
+    "department": "Deployed Engineer"
+  },
+  {
+    "_key": "Tenstorrent||Sr. Staff Forward Deployed Engineer||https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007",
+    "firm": "Tenstorrent",
+    "title": "Sr. Staff Forward Deployed Engineer",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5204648007",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Wireless Hardware Engineer Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea",
+    "firm": "Skydio",
+    "title": "Wireless Hardware Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea",
+    "department": "R&D"
+  },
+  {
+    "_key": "Skydio||Embedded Software Engineer Intern - Winer 2027||https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+    "firm": "Skydio",
+    "title": "Embedded Software Engineer Intern - Winer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+    "department": "Software"
+  },
+  {
+    "_key": "Skydio||Mobile Software Engineer Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52",
+    "firm": "Skydio",
+    "title": "Mobile Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52",
+    "department": "Software"
+  },
+  {
+    "_key": "Salesforce||Summer 2027 Intern - AI Research||https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+    "firm": "Salesforce",
+    "title": "Summer 2027 Intern - AI Research",
+    "location": "California - Palo Alto",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+    "department": ""
   }
 ]
