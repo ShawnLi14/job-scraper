@@ -16048,5 +16048,69 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.metacareers.com/jobs/1866779221408793",
     "department": "Facebook Reality Labs, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Anduril||2027 Early Career Technical Program Manager||https://boards.greenhouse.io/andurilindustries/jobs/5268883007?gh_jid=5268883007",
+    "firm": "Anduril",
+    "title": "2027 Early Career Technical Program Manager",
+    "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268883007?gh_jid=5268883007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Technical Program Manager Intern||https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007",
+    "firm": "Anduril",
+    "title": "2027 Technical Program Manager Intern",
+    "location": "Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007",
+    "department": ""
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Query Engines||https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Query Engines",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, New Grad - Query Engines||https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+    "firm": "Palantir",
+    "title": "Software Engineer, New Grad - Query Engines",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+    "department": "Dev"
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Electrical (Starshield)||https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Electrical (Starshield)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002",
+    "department": ""
+  },
+  {
+    "_key": "Magic||Member of Technical Staff, Pretraining Systems||https://jobs.ashbyhq.com/magic.dev/f1d3988f-f93c-42b7-ad1a-f9fb3d07ff26",
+    "firm": "Magic",
+    "title": "Member of Technical Staff, Pretraining Systems",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/magic.dev/f1d3988f-f93c-42b7-ad1a-f9fb3d07ff26",
+    "department": "ML"
+  },
+  {
+    "_key": "Braze||Intern, Software Engineering||https://job-boards.greenhouse.io/braze/jobs/8301086",
+    "firm": "Braze",
+    "title": "Intern, Software Engineering",
+    "location": "New York City",
+    "url": "https://job-boards.greenhouse.io/braze/jobs/8301086",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742",
+    "firm": "Nvidia",
+    "title": "Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742",
+    "department": ""
   }
 ]
