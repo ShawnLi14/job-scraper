@@ -16248,5 +16248,29 @@
     "location": "California - Palo Alto",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
     "department": ""
+  },
+  {
+    "_key": "Datadog||Sales Development Representative - Summer 2027 Graduates (Boston)||https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316",
+    "firm": "Datadog",
+    "title": "Sales Development Representative - Summer 2027 Graduates (Boston)",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Finance Data Analyst Intern||https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
+    "firm": "Anduril",
+    "title": "2027 Finance Data Analyst Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
+    "department": ""
+  },
+  {
+    "_key": "ClickHouse||Research Intern, ClickHouse Labs||https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b",
+    "firm": "ClickHouse",
+    "title": "Research Intern, ClickHouse Labs",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b",
+    "department": "ClickHouse Labs"
   }
 ]
