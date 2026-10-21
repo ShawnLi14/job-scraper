@@ -16328,5 +16328,53 @@
     "location": "Menlo Park, CA; Seattle, WA",
     "url": "https://www.metacareers.com/jobs/942632712213062",
     "department": "Artificial Intelligence, Software Engineering"
+  },
+  {
+    "_key": "Anduril||2027 Business Operations Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007",
+    "firm": "Anduril",
+    "title": "2027 Business Operations Engineer Intern",
+    "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Product Sourcing Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
+    "firm": "Anduril",
+    "title": "2027 Product Sourcing Engineer Intern",
+    "location": "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
+    "department": ""
+  },
+  {
+    "_key": "Saronic||Forward Deployed Software Engineer||https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118",
+    "firm": "Saronic",
+    "title": "Forward Deployed Software Engineer",
+    "location": "Austin, TX",
+    "url": "https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118",
+    "department": "Forward Deployable Eng"
+  },
+  {
+    "_key": "Saronic||Forward Deployed Software Engineer||https://jobs.ashbyhq.com/saronic/4bd52e96-1903-4d2a-8e04-0e4d8851059e",
+    "firm": "Saronic",
+    "title": "Forward Deployed Software Engineer",
+    "location": "San Diego, CA",
+    "url": "https://jobs.ashbyhq.com/saronic/4bd52e96-1903-4d2a-8e04-0e4d8851059e",
+    "department": "Forward Deployable Eng"
+  },
+  {
+    "_key": "Nvidia||High-Performance LLM Training Engineer - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+    "firm": "Nvidia",
+    "title": "High-Performance LLM Training Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR||https://www.metacareers.com/jobs/1075160338670575",
+    "firm": "Meta",
+    "title": "Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR",
+    "location": "Redmond, WA; Burlingame, CA",
+    "url": "https://www.metacareers.com/jobs/1075160338670575",
+    "department": "AI Research"
   }
 ]
