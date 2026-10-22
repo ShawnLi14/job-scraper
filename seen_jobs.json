@@ -16456,5 +16456,125 @@
     "location": "Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/1600772061108369",
     "department": "Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "OpenAI||Academy Partnerships, Global Affairs||https://jobs.ashbyhq.com/openai/04bdc05a-de4b-4fc3-9520-714018f25c76",
+    "firm": "OpenAI",
+    "title": "Academy Partnerships, Global Affairs",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/04bdc05a-de4b-4fc3-9520-714018f25c76",
+    "department": "Global Affairs"
+  },
+  {
+    "_key": "Vercel||Member of Technical Staff, Finance Data||https://job-boards.greenhouse.io/vercel/jobs/6231535004",
+    "firm": "Vercel",
+    "title": "Member of Technical Staff, Finance Data",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6231535004",
+    "department": ""
+  },
+  {
+    "_key": "DoorDash||Drone Operations, Intern - Labs (Summer 2027)||https://job-boards.greenhouse.io/doordashusa/jobs/8312381",
+    "firm": "DoorDash",
+    "title": "Drone Operations, Intern - Labs (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312381",
+    "department": ""
+  },
+  {
+    "_key": "DoorDash||Mechanical Engineering, Intern - Labs (Summer 2027)||https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+    "firm": "DoorDash",
+    "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+    "location": "Oakland, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+    "department": ""
+  },
+  {
+    "_key": "Together AI||Growth Marketing Intern (Summer 2027)||https://job-boards.greenhouse.io/togetherai/jobs/5270409007",
+    "firm": "Together AI",
+    "title": "Growth Marketing Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5270409007",
+    "department": ""
+  },
+  {
+    "_key": "Reflection AI||Member of Technical Staff - Pre-Training  Data||https://jobs.ashbyhq.com/reflectionai/2b0b0fbf-0e82-4212-be2e-36e4ca37756c",
+    "firm": "Reflection AI",
+    "title": "Member of Technical Staff - Pre-Training  Data",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/reflectionai/2b0b0fbf-0e82-4212-be2e-36e4ca37756c",
+    "department": "Pre-Training Data"
+  },
+  {
+    "_key": "Skydio||Embedded Software Engineer Intern - Winter 2027||https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+    "firm": "Skydio",
+    "title": "Embedded Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+    "department": "Software"
+  },
+  {
+    "_key": "1Password||Developer Intern, Data Security - Winter 2027||https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
+    "firm": "1Password",
+    "title": "Developer Intern, Data Security - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||Developer Intern, Machine Identity - Winter 2027||https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
+    "firm": "1Password",
+    "title": "Developer Intern, Machine Identity - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||Developer Intern, Vault Team - Winter 2027||https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
+    "firm": "1Password",
+    "title": "Developer Intern, Vault Team - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||Security Intern, Threat Operations - Winter 2027||https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+    "firm": "1Password",
+    "title": "Security Intern, Threat Operations - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||Developer Intern, Provisioning - Winter 2027||https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+    "firm": "1Password",
+    "title": "Developer Intern, Provisioning - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||Developer Intern, Front-End Platform - Winter 2027||https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+    "firm": "1Password",
+    "title": "Developer Intern, Front-End Platform - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+    "department": "Internships"
+  },
+  {
+    "_key": "Salesforce||Software Engineering MTS||https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/Software-Engineering-MTS_JR364718",
+    "firm": "Salesforce",
+    "title": "Software Engineering MTS",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/Software-Engineering-MTS_JR364718",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Research Scientist Intern, AI Alignment||https://www.metacareers.com/jobs/2356892281747003",
+    "firm": "Meta",
+    "title": "Research Scientist Intern, AI Alignment",
+    "location": "Menlo Park, CA; Seattle, WA; Boston, MA; New York, NY; San Francisco, CA",
+    "url": "https://www.metacareers.com/jobs/2356892281747003",
+    "department": "AI Research, University Grad - PhD & Postdoc"
   }
 ]
