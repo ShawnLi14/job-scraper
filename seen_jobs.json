@@ -16816,5 +16816,45 @@
     "location": "Reston, VA, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/84255299602391750",
     "department": ""
+  },
+  {
+    "_key": "Anduril||2027 New Grad Low Observables Engineer||https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007",
+    "firm": "Anduril",
+    "title": "2027 New Grad Low Observables Engineer",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007",
+    "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Policy and Strategic Initiatives)||https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Policy and Strategic Initiatives)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Together AI||Forward Deployed Engineer, Strategic Inference ||https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
+    "firm": "Together AI",
+    "title": "Forward Deployed Engineer, Strategic Inference ",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5131941007",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Embedded Software Engineer Intern - Winter 2027||https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366",
+    "firm": "Skydio",
+    "title": "Embedded Software Engineer Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366",
+    "department": "Software"
+  },
+  {
+    "_key": "Meta||Research Scientist Intern, Wearable Sensing & Human Motion Analysis||https://www.metacareers.com/jobs/1137225375529389",
+    "firm": "Meta",
+    "title": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
+    "location": "Redmond, WA",
+    "url": "https://www.metacareers.com/jobs/1137225375529389",
+    "department": "AI Research, Internship - PhD, Research"
   }
 ]
