@@ -16704,5 +16704,61 @@
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2027335",
     "department": ""
+  },
+  {
+    "_key": "Databricks||Associate Forward Deployed Engineer||https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+    "firm": "Databricks",
+    "title": "Associate Forward Deployed Engineer",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+    "department": ""
+  },
+  {
+    "_key": "MongoDB||2027 - Software Engineering Intern, AMER||https://www.mongodb.com/careers/job/?gh_jid=8209134",
+    "firm": "MongoDB",
+    "title": "2027 - Software Engineering Intern, AMER",
+    "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+    "department": ""
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer||https://jobs.lever.co/palantir/7ea66860-ae93-4139-9388-b7284cb33f37",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "location": "Chicago, IL",
+    "url": "https://jobs.lever.co/palantir/7ea66860-ae93-4139-9388-b7284cb33f37",
+    "department": "Delta"
+  },
+  {
+    "_key": "1Password||Developer Intern, Credential Brokering - Winter 2027||https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
+    "firm": "1Password",
+    "title": "Developer Intern, Credential Brokering - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||Developer Intern, Developer Interfaces - Winter 2027||https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
+    "firm": "1Password",
+    "title": "Developer Intern, Developer Interfaces - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||IT Intern, IT Support - Winter 2027||https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7",
+    "firm": "1Password",
+    "title": "IT Intern, IT Support - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7",
+    "department": "Internships"
+  },
+  {
+    "_key": "1Password||Product Management Intern, End User Experience - Winter 2027||https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
+    "firm": "1Password",
+    "title": "Product Management Intern, End User Experience - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
+    "department": "Internships"
   }
 ]
