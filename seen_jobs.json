@@ -16888,5 +16888,21 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621",
     "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Software Engineer, Agents)||https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Training Infrastructure)||https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Training Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
+    "department": "AI Research & Systems"
   }
 ]
