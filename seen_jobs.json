@@ -16856,5 +16856,29 @@
     "location": "Redmond, WA",
     "url": "https://www.metacareers.com/jobs/1137225375529389",
     "department": "AI Research, Internship - PhD, Research"
+  },
+  {
+    "_key": "Samsara||Account Development Representative Intern - Phoenix||https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784",
+    "firm": "Samsara",
+    "title": "Account Development Representative Intern - Phoenix",
+    "location": "Phoenix, Arizona, United States",
+    "url": "https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784",
+    "department": ""
+  },
+  {
+    "_key": "Together AI||Forward Deployed Engineer, Post-Training||https://job-boards.greenhouse.io/togetherai/jobs/5274195007",
+    "firm": "Together AI",
+    "title": "Forward Deployed Engineer, Post-Training",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5274195007",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Developer Productivity Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+    "firm": "Figure AI",
+    "title": "Developer Productivity Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+    "department": ""
   }
 ]
