@@ -16936,5 +16936,21 @@
     "location": "New York",
     "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101",
     "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Software Engineer, Agent Engine)||https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/d865c821-9a27-416c-9c6a-14132a86f760",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Meta||Research Engineer, AI (University Grad) | Ingénieur de recherche en IA (diplômé universitaire)||https://www.metacareers.com/jobs/1395718268613427",
+    "firm": "Meta",
+    "title": "Research Engineer, AI (University Grad) | Ingénieur de recherche en IA (diplômé universitaire)",
+    "location": "",
+    "url": "https://www.metacareers.com/jobs/1395718268613427",
+    "department": "Software Engineering, University Grad - Engineering, Tech & Design, Research"
   }
 ]
