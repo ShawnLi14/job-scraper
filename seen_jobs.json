@@ -17288,5 +17288,53 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4467398009",
     "department": ""
+  },
+  {
+    "_key": "OpenAI||Founding Software Engineer, Physical Engineering||https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
+    "firm": "OpenAI",
+    "title": "Founding Software Engineer, Physical Engineering",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
+    "department": "Applied AI Engineering"
+  },
+  {
+    "_key": "Coinbase||Acceleration Programs Intern||https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363",
+    "firm": "Coinbase",
+    "title": "Acceleration Programs Intern",
+    "location": "Hybrid - New York, NY",
+    "url": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363",
+    "department": ""
+  },
+  {
+    "_key": "Sentry||Forward Deployed Engineer ||https://jobs.ashbyhq.com/sentry/2cdc2ba7-8406-452a-b84f-d94d8e7a09bb",
+    "firm": "Sentry",
+    "title": "Forward Deployed Engineer ",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/sentry/2cdc2ba7-8406-452a-b84f-d94d8e7a09bb",
+    "department": "Sales "
+  },
+  {
+    "_key": "Nvidia||Deep Learning Performance Architect - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177",
+    "firm": "Nvidia",
+    "title": "Deep Learning Performance Architect - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Product Design Engineering Intern — AI Glasses||https://www.metacareers.com/jobs/1714201770266311",
+    "firm": "Meta",
+    "title": "Product Design Engineering Intern — AI Glasses",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1714201770266311",
+    "department": "Artificial Intelligence, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Meta||Wireless Engineering Intern||https://www.metacareers.com/jobs/1881250979530334",
+    "firm": "Meta",
+    "title": "Wireless Engineering Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1881250979530334",
+    "department": "University Grad - Engineering, Tech & Design"
   }
 ]
