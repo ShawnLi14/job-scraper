@@ -17336,5 +17336,61 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.metacareers.com/jobs/1881250979530334",
     "department": "University Grad - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Databricks||Software Engineer - New Grad (2027 Start)||https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+    "firm": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start)",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+    "department": ""
+  },
+  {
+    "_key": "Databricks||Software Engineer - New Grad, Distributed Data Systems (2027 Start)||https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
+    "firm": "Databricks",
+    "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
+    "location": "Bellevue, Washington; Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
+    "department": ""
+  },
+  {
+    "_key": "Mercor||Research Engineer Intern - Environments, Data and Post-Training||https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca",
+    "firm": "Mercor",
+    "title": "Research Engineer Intern - Environments, Data and Post-Training",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca",
+    "department": "Research"
+  },
+  {
+    "_key": "Mercor||Research Engineer, Intern – Benchmarking||https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
+    "firm": "Mercor",
+    "title": "Research Engineer, Intern – Benchmarking",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
+    "department": "Research"
+  },
+  {
+    "_key": "Tenstorrent||Forward Deployed Engineer||https://job-boards.greenhouse.io/tenstorrent/jobs/5275977007",
+    "firm": "Tenstorrent",
+    "title": "Forward Deployed Engineer",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5275977007",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Formal Verification Engineer - New College Grad 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554",
+    "firm": "Nvidia",
+    "title": "Formal Verification Engineer - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2027_JR2028554",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Research Scientist Intern - Neural Representations Compression||https://www.metacareers.com/jobs/2368433610564528",
+    "firm": "Meta",
+    "title": "Research Scientist Intern - Neural Representations Compression",
+    "location": "Redmond, WA",
+    "url": "https://www.metacareers.com/jobs/2368433610564528",
+    "department": "AR/VR, AI Research"
   }
 ]
