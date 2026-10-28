@@ -17416,5 +17416,61 @@
     "location": "Mountain View, CA",
     "url": "https://aurora.tech/careers/ce5ad079-0588-402a-aa0e-b5efe0ba28f1",
     "department": "Hardware & Embedded Engineering"
+  },
+  {
+    "_key": "Schonfeld||2027 DMFI Intern||https://job-boards.greenhouse.io/schonfeld/jobs/8324611",
+    "firm": "Schonfeld",
+    "title": "2027 DMFI Intern",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8324611",
+    "department": ""
+  },
+  {
+    "_key": "Palantir||Forward Deployed Software Engineer - Germany Forward Deployed||https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9",
+    "firm": "Palantir",
+    "title": "Forward Deployed Software Engineer - Germany Forward Deployed",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9",
+    "department": "Delta"
+  },
+  {
+    "_key": "Glean||Software Engineer, University Grad||https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
+    "firm": "Glean",
+    "title": "Software Engineer, University Grad",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Electron Microscopy||https://job-boards.greenhouse.io/lilasciences/jobs/4469144009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Electron Microscopy",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469144009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Finance||https://job-boards.greenhouse.io/lilasciences/jobs/4469146009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Finance",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469146009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Structuring Scientific Data for Discovery||https://job-boards.greenhouse.io/lilasciences/jobs/4469150009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Structuring Scientific Data for Discovery",
+    "location": "Cambridge, MA USA; San Francisco, CA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469150009",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Forward Deployed Engineer - Finance||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Forward-Deployed-Engineer---Finance_JR2026919",
+    "firm": "Nvidia",
+    "title": "Forward Deployed Engineer - Finance",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Forward-Deployed-Engineer---Finance_JR2026919",
+    "department": ""
   }
 ]
