@@ -17392,5 +17392,29 @@
     "location": "Redmond, WA",
     "url": "https://www.metacareers.com/jobs/2368433610564528",
     "department": "AR/VR, AI Research"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure)||https://jobs.ashbyhq.com/perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Aurora||Lidar R&D and Architecture Intern||https://aurora.tech/careers/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
+    "firm": "Aurora",
+    "title": "Lidar R&D and Architecture Intern",
+    "location": "Bozeman, MT",
+    "url": "https://aurora.tech/careers/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
+    "department": "Hardware & Embedded Engineering"
+  },
+  {
+    "_key": "Aurora||Lidar Systems Intern||https://aurora.tech/careers/ce5ad079-0588-402a-aa0e-b5efe0ba28f1",
+    "firm": "Aurora",
+    "title": "Lidar Systems Intern",
+    "location": "Mountain View, CA",
+    "url": "https://aurora.tech/careers/ce5ad079-0588-402a-aa0e-b5efe0ba28f1",
+    "department": "Hardware & Embedded Engineering"
   }
 ]
