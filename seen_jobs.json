@@ -17584,5 +17584,29 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.metacareers.com/jobs/3333103890230916",
     "department": "University Grad - Business, University Grad - Engineering, Tech & Design"
+  },
+  {
+    "_key": "Traba||Sales Development Representative - Summer 2027 Graduates ||https://jobs.ashbyhq.com/traba/2ea90149-f156-4253-8e54-fe62eee1a1eb",
+    "firm": "Traba",
+    "title": "Sales Development Representative - Summer 2027 Graduates ",
+    "location": "New York City, NY",
+    "url": "https://jobs.ashbyhq.com/traba/2ea90149-f156-4253-8e54-fe62eee1a1eb",
+    "department": "Sales"
+  },
+  {
+    "_key": "Genius AI||Software Engineer Intern Winter 2026-2027||https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27",
+    "firm": "Genius AI",
+    "title": "Software Engineer Intern Winter 2026-2027",
+    "location": "NYC",
+    "url": "https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Saronic||Forward Deployed Build Engineer||https://jobs.ashbyhq.com/saronic/96c1f534-bd49-481c-88c5-85d344b20c82",
+    "firm": "Saronic",
+    "title": "Forward Deployed Build Engineer",
+    "location": "Austin, TX",
+    "url": "https://jobs.ashbyhq.com/saronic/96c1f534-bd49-481c-88c5-85d344b20c82",
+    "department": "Forward Deployable Eng"
   }
 ]
