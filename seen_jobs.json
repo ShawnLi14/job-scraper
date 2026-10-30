@@ -17776,5 +17776,53 @@
     "location": "Pittsburgh, PA, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/79481333662786246",
     "department": ""
+  },
+  {
+    "_key": "Stripe||Master's Machine Learning Engineer, Intern||https://stripe.com/jobs/search?gh_jid=8333074",
+    "firm": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "location": "San Francisco, New York City, Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+    "department": ""
+  },
+  {
+    "_key": "General Intuition||Member of Technical Staff – Infrastructure||https://jobs.ashbyhq.com/generalintuition-medal/8220131f-a49a-4707-8223-dedc17c1d194",
+    "firm": "General Intuition",
+    "title": "Member of Technical Staff – Infrastructure",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/generalintuition-medal/8220131f-a49a-4707-8223-dedc17c1d194",
+    "department": "General Intuition & Medal"
+  },
+  {
+    "_key": "General Intuition||Member of Technical Staff – Simulation||https://jobs.ashbyhq.com/generalintuition-medal/cdaff12a-47cf-46e9-9fa3-2b1f483578c7",
+    "firm": "General Intuition",
+    "title": "Member of Technical Staff – Simulation",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/generalintuition-medal/cdaff12a-47cf-46e9-9fa3-2b1f483578c7",
+    "department": "General Intuition & Medal"
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer Strategy and Operations Lead, North America||https://www.google.com/about/careers/applications/jobs/results/138608533519114950",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer Strategy and Operations Lead, North America",
+    "location": "Austin, TX, USA; Atlanta, GA, USA; Boulder, CO, USA; Chicago, IL, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/138608533519114950",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, Generative AI, Geo||https://www.google.com/about/careers/applications/jobs/results/103631969127932614",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, Generative AI, Geo",
+    "location": "Mountain View, CA, USA; New York, NY, USA; Seattle, WA, USA; San Francisco, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/103631969127932614",
+    "department": ""
+  },
+  {
+    "_key": "Millennium||Quantitative Analyst – Quant Analyst Program||https://mlp.eightfold.ai/careers/job/755959471860",
+    "firm": "Millennium",
+    "title": "Quantitative Analyst – Quant Analyst Program",
+    "location": "New York, New York, United States of America",
+    "url": "https://mlp.eightfold.ai/careers/job/755959471860",
+    "department": "Information Technology"
   }
 ]
