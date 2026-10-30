@@ -17712,5 +17712,69 @@
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/generalintuition-medal/8220131f-a49a-4707-8223-dedc17c1d194",
     "department": "General Intuition & Medal"
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Bayesian Methods for Complex Decision Making||https://job-boards.greenhouse.io/lilasciences/jobs/4469148009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Bayesian Methods for Complex Decision Making",
+    "location": "Cambridge, MA USA; San Francisco, CA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4469148009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, Editorial Content||https://job-boards.greenhouse.io/lilasciences/jobs/4472542009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, Editorial Content",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4472542009",
+    "department": ""
+  },
+  {
+    "_key": "Lila Sciences||Co-Op, SCADA Engineer||https://job-boards.greenhouse.io/lilasciences/jobs/4467407009",
+    "firm": "Lila Sciences",
+    "title": "Co-Op, SCADA Engineer",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4467407009",
+    "department": ""
+  },
+  {
+    "_key": "Intercom||Forward Deployed Engineer||https://job-boards.greenhouse.io/intercom/jobs/8333690",
+    "firm": "Intercom",
+    "title": "Forward Deployed Engineer",
+    "location": "San Francisco, California",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/8333690",
+    "department": ""
+  },
+  {
+    "_key": "Intercom||Forward Deployed Engineer||https://job-boards.greenhouse.io/intercom/jobs/8333679",
+    "firm": "Intercom",
+    "title": "Forward Deployed Engineer",
+    "location": "Chicago, Illinois",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/8333679",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, State and Local Government, Google Public Sector||https://www.google.com/about/careers/applications/jobs/results/90749541141095110",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, State and Local Government, Google Public Sector",
+    "location": "New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/90749541141095110",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer IV, Generative AI, Google Cloud||https://www.google.com/about/careers/applications/jobs/results/91105782908494534",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer IV, Generative AI, Google Cloud",
+    "location": "Pittsburgh, PA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91105782908494534",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer III, Generative AI, Google Cloud||https://www.google.com/about/careers/applications/jobs/results/79481333662786246",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer III, Generative AI, Google Cloud",
+    "location": "Pittsburgh, PA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/79481333662786246",
+    "department": ""
   }
 ]
