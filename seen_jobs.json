@@ -17848,5 +17848,29 @@
     "location": "Texas - Dallas",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/Texas---Dallas/Software-Engineer--Full-Stack---AI-Native-Development--MTS-_JR365146",
     "department": ""
+  },
+  {
+    "_key": "Andreessen Horowitz||Research Intern, Frontier||https://a16z.com/about/jobs/?gh_jid=8046730003",
+    "firm": "Andreessen Horowitz",
+    "title": "Research Intern, Frontier",
+    "location": "New York, New York, United States",
+    "url": "https://a16z.com/about/jobs/?gh_jid=8046730003",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Research Scientist, AI for Graphics and Gaming - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
+    "firm": "Nvidia",
+    "title": "Research Scientist, AI for Graphics and Gaming - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||ASIC Design Verification Engineer - New College Grad 2026||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391",
+    "firm": "Nvidia",
+    "title": "ASIC Design Verification Engineer - New College Grad 2026",
+    "location": "US, TX, Austin",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-TX-Austin/ASIC-Design-Verification-Engineer---New-College-Grad-2026_JR2010391",
+    "department": ""
   }
 ]
