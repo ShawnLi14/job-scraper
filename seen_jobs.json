@@ -17968,5 +17968,61 @@
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028699",
     "department": ""
+  },
+  {
+    "_key": "Anthropic||Marketing Lead, Claude Frontier Academy||https://job-boards.greenhouse.io/anthropic/jobs/5467561008",
+    "firm": "Anthropic",
+    "title": "Marketing Lead, Claude Frontier Academy",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467561008",
+    "department": ""
+  },
+  {
+    "_key": "Figure AI||Integration & Test - Mechanical Engineering Intern [Winter 2027]||https://job-boards.greenhouse.io/figureai/jobs/4726631006",
+    "firm": "Figure AI",
+    "title": "Integration & Test - Mechanical Engineering Intern [Winter 2027]",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4726631006",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Product Design Engineer Intern ||https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f",
+    "firm": "Skydio",
+    "title": "Product Design Engineer Intern ",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f",
+    "department": "Hardware"
+  },
+  {
+    "_key": "Skydio||Electrical Engineer Intern - Summer 2027||https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4",
+    "firm": "Skydio",
+    "title": "Electrical Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4",
+    "department": "Hardware"
+  },
+  {
+    "_key": "Nvidia||Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995",
+    "firm": "Nvidia",
+    "title": "Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Math Libraries Intern, cuEST - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
+    "firm": "Nvidia",
+    "title": "Math Libraries Intern, cuEST - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449",
+    "department": ""
+  },
+  {
+    "_key": "Voleon||Research Intern||https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9",
+    "firm": "Voleon",
+    "title": "Research Intern",
+    "location": "Berkeley, CA",
+    "url": "https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9",
+    "department": "Research"
   }
 ]
