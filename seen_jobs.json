@@ -18152,5 +18152,87 @@
     "location": "San Francisco, CA, US; Remote, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334884",
     "department": ""
+  },
+  {
+    "_key": "IMC Trading||Research Analyst Intern - Summer 2027||https://job-boards.eu.greenhouse.io/imc/jobs/4823946101",
+    "firm": "IMC Trading",
+    "title": "Research Analyst Intern - Summer 2027",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823946101",
+    "department": ""
+  },
+  {
+    "_key": "Schonfeld||2027 Legal Engineer Intern||https://job-boards.greenhouse.io/schonfeld/jobs/8171776",
+    "firm": "Schonfeld",
+    "title": "2027 Legal Engineer Intern",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171776",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Library Science Intern||https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007",
+    "firm": "Anduril",
+    "title": "2027 Library Science Intern",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007",
+    "department": ""
+  },
+  {
+    "_key": "Vercel||Member of Technical Staff, Financial Data||https://job-boards.greenhouse.io/vercel/jobs/6231535004",
+    "firm": "Vercel",
+    "title": "Member of Technical Staff, Financial Data",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6231535004",
+    "department": ""
+  },
+  {
+    "_key": "Reflection AI||Forward Deployed Engineer||https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d",
+    "firm": "Reflection AI",
+    "title": "Forward Deployed Engineer",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d",
+    "department": "Applied AI"
+  },
+  {
+    "_key": "Reflection AI||Forward Deployed Engineer - Public Sector||https://jobs.ashbyhq.com/reflectionai/dea72756-5e23-4a04-813f-5af718605edb",
+    "firm": "Reflection AI",
+    "title": "Forward Deployed Engineer - Public Sector",
+    "location": "New York, NY",
+    "url": "https://jobs.ashbyhq.com/reflectionai/dea72756-5e23-4a04-813f-5af718605edb",
+    "department": "Applied AI"
+  },
+  {
+    "_key": "Anyscale||Forward Deployed Engineer - AI/ML Platforms||https://jobs.ashbyhq.com/anyscale/503a08c2-80b1-4968-8dcf-06380453bcdb",
+    "firm": "Anyscale",
+    "title": "Forward Deployed Engineer - AI/ML Platforms",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/anyscale/503a08c2-80b1-4968-8dcf-06380453bcdb",
+    "department": "530 Customer Success"
+  },
+  {
+    "_key": "Meta||Hardware Systems Architecture Intern, Performance & Workload Analysis||https://www.metacareers.com/jobs/1296272445973940",
+    "firm": "Meta",
+    "title": "Hardware Systems Architecture Intern, Performance & Workload Analysis",
+    "location": "Redmond, WA",
+    "url": "https://www.metacareers.com/jobs/1296272445973940",
+    "department": "Internship - Engineering, Tech & Design, Facebook Reality Labs"
+  },
+  {
+    "_key": "Meta||ASIC EDA Infrastructure Engineer Intern||https://www.metacareers.com/jobs/1883872846321140",
+    "firm": "Meta",
+    "title": "ASIC EDA Infrastructure Engineer Intern",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1883872846321140",
+    "department": "AI Infrastructure, Facebook Reality Labs, Internship - Engineering, Tech & Design"
+  },
+  {
+    "_key": "SIG (Susquehanna)||Compliance Analyst - Operations Analyst Program: August 2027 Start||https://careers.sig.com/jobs/11693?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Compliance Analyst - Operations Analyst Program: August 2027 Start",
+    "location": "Bala Cynwyd (Philadelphia Area), Pennsylvania",
+    "url": "https://careers.sig.com/jobs/11693?lang=en-us",
+    "department": [
+      " New Graduates"
+    ]
   }
 ]
