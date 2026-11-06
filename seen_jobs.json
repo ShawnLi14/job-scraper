@@ -18490,5 +18490,509 @@
     "location": "New York City, NY",
     "url": "https://jobs.ashbyhq.com/traba/374f18a8-6daf-439a-a28a-d4a09da730cd",
     "department": "Worker Operations"
+  },
+  {
+    "_key": "Marshall Wace||2027 MBA Intern-Global Healthcare Non-Therapeutics||https://job-boards.greenhouse.io/marshallwace/jobs/8933768002",
+    "firm": "Marshall Wace",
+    "title": "2027 MBA Intern-Global Healthcare Non-Therapeutics",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/marshallwace/jobs/8933768002",
+    "department": ""
+  },
+  {
+    "_key": "Stripe||Controllership Intern||https://stripe.com/jobs/search?gh_jid=8357739",
+    "firm": "Stripe",
+    "title": "Controllership Intern",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=8357739",
+    "department": ""
+  },
+  {
+    "_key": "OpenAI||Forward Deployed Engineer (FDE), Life Sciences - NYC||https://jobs.ashbyhq.com/openai/a12c3c93-51df-437d-862f-4892367fea32",
+    "firm": "OpenAI",
+    "title": "Forward Deployed Engineer (FDE), Life Sciences - NYC",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/openai/a12c3c93-51df-437d-862f-4892367fea32",
+    "department": "Forward Deployed Engineering"
+  },
+  {
+    "_key": "OpenAI||Forward Deployed Engineer (FDE), Life Sciences - SF||https://jobs.ashbyhq.com/openai/218c0b55-53bd-4df6-805d-321a8c2e7db7",
+    "firm": "OpenAI",
+    "title": "Forward Deployed Engineer (FDE), Life Sciences - SF",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/218c0b55-53bd-4df6-805d-321a8c2e7db7",
+    "department": "Forward Deployed Engineering"
+  },
+  {
+    "_key": "Notion||Software Engineering Intern, Frontend (Summer 2027)||https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "firm": "Notion",
+    "title": "Software Engineering Intern, Frontend (Summer 2027)",
+    "location": "New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "department": "Early Career"
+  },
+  {
+    "_key": "Notion||Software Engineering Intern, iOS (Summer 2027)||https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
+    "firm": "Notion",
+    "title": "Software Engineering Intern, iOS (Summer 2027)",
+    "location": "New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
+    "department": "Early Career"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Monetization)||https://jobs.ashbyhq.com/Perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Monetization)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Inference Engineer)||https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Inference Engineer)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Researcher)||https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Researcher)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/8fe61c73-0daf-4432-a47d-44714c1ef764",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Applied AI)||https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Applied AI)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/3c656963-876a-458d-bca6-916a42a24c1a",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Security)||https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Security)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03",
+    "department": "Security"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform)||https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Answer Quality & Evals)||https://jobs.ashbyhq.com/Perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Answer Quality & Evals)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/7755eb0a-0f51-4286-b75e-591e44c741bc",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Offensive Security Engineer)||https://jobs.ashbyhq.com/Perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Offensive Security Engineer)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/69fd6a56-0050-44f7-9ed2-2c3a7320908d",
+    "department": "Security"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Computer)||https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Computer)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Design System)||https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Design System)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Acceleration)||https://jobs.ashbyhq.com/Perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Acceleration)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/f45ba174-7e99-4743-9d19-6e4d3e196458",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Training Infrastructure)||https://jobs.ashbyhq.com/Perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Training Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Cloud Infrastructure)||https://jobs.ashbyhq.com/Perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Cloud Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/0d722589-0f8c-4500-ae79-d3bba5c8a0ea",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Data Platform)||https://jobs.ashbyhq.com/Perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Data Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/2e73bc78-684c-47c5-95df-e9973a10e0b6",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Backend Platform)||https://jobs.ashbyhq.com/Perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Backend Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Computer Growth)||https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Multimodal)||https://jobs.ashbyhq.com/Perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Multimodal)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (ML Engineer, Recommendations & User Modeling)||https://jobs.ashbyhq.com/Perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (ML Engineer, Recommendations & User Modeling)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/affd3040-91e4-4e0c-bd2f-4b022c613f91",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, API Platform)||https://jobs.ashbyhq.com/Perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, API Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/3f800e42-7c48-4f9a-9b12-43ee23e52516",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Desktop Apps)||https://jobs.ashbyhq.com/Perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Desktop Apps)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Integrations)||https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Integrations)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/ea87532c-69a0-497d-9cf3-04cc2a6c6410",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Enterprise AI Products)||https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Enterprise AI Products)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Secure Intelligence Institute)||https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Secure Intelligence Institute)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)||https://jobs.ashbyhq.com/Perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Enterprise Agent Evals & Efficiency)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/f3814af2-55a3-49a5-b0cb-67199a2a45fb",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Model Behavior)||https://jobs.ashbyhq.com/Perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Model Behavior)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/2c6ae16b-d03e-4e33-9d32-362c5388e956",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Android Engineer, Computer Growth)||https://jobs.ashbyhq.com/Perplexity/375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Android Engineer, Computer Growth)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
+    "department": "Mobile"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (iOS Engineer, Computer Growth)||https://jobs.ashbyhq.com/Perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (iOS Engineer, Computer Growth)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76",
+    "department": "Mobile"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure)||https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (TPM, Inference)||https://jobs.ashbyhq.com/Perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (TPM, Inference)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/0c5d5a82-bfed-4786-b411-79073979af07",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Infrastructure & Platform)||https://jobs.ashbyhq.com/Perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Infrastructure & Platform)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Applied AI Engineer, Agent Capabilities)||https://jobs.ashbyhq.com/Perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Applied AI Engineer, Agent Capabilities)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff, AI Products (Early Career - Industry)||https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff, AI Products (Early Career - Industry)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (New Grad)||https://jobs.ashbyhq.com/Perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (New Grad)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
+    "department": "University Recruiting"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)||https://jobs.ashbyhq.com/Perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Software Engineer, Enterprise Trust & Governance)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff, (Software Engineer, Experience)||https://jobs.ashbyhq.com/Perplexity/06dcd116-2b07-4f40-869e-06ed540f7614",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff, (Software Engineer, Experience)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/06dcd116-2b07-4f40-869e-06ed540f7614",
+    "department": "AI Products"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Software Engineer, Agent Engine)||https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/d865c821-9a27-416c-9c6a-14132a86f760",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (AI Policy and Strategic Initiatives)||https://jobs.ashbyhq.com/Perplexity/7e4a95c3-6322-4300-9455-96c511ab2621",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (AI Policy and Strategic Initiatives)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/7e4a95c3-6322-4300-9455-96c511ab2621",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure)||https://jobs.ashbyhq.com/Perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (GTM Engineer, Growth)||https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (GTM Engineer, Growth)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06",
+    "department": "Growth"
+  },
+  {
+    "_key": "ElevenLabs||Forward Deployed Engineer - Software Engineer - USA||https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "firm": "ElevenLabs",
+    "title": "Forward Deployed Engineer - Software Engineer - USA",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "department": "Enterprise - Field Engineering"
+  },
+  {
+    "_key": "Sierra||Software Engineer, Agent (New Grad 2027)||https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+    "firm": "Sierra",
+    "title": "Software Engineer, Agent (New Grad 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+    "department": "Agent Engineering New Grad"
+  },
+  {
+    "_key": "Sierra||Software Engineer Intern, Agent (Summer 2027)||https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+    "firm": "Sierra",
+    "title": "Software Engineer Intern, Agent (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+    "department": "Intern"
+  },
+  {
+    "_key": "Sierra||APX (New Grad 2027)||https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+    "firm": "Sierra",
+    "title": "APX (New Grad 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+    "department": "APX"
+  },
+  {
+    "_key": "Sierra||Research Intern||https://jobs.ashbyhq.com/Sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+    "firm": "Sierra",
+    "title": "Research Intern",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/Sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+    "department": "Research"
+  },
+  {
+    "_key": "Sierra||Strategist, Agent Development (MBA Grad 2027)||https://jobs.ashbyhq.com/Sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96",
+    "firm": "Sierra",
+    "title": "Strategist, Agent Development (MBA Grad 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/Sierra/6c3fa1ef-5eea-4afc-967e-2d3bb920ad96",
+    "department": "Agent Strategist"
+  },
+  {
+    "_key": "ATG||Member of Technical Staff (Research Engineering)||https://jobs.ashbyhq.com/ATG/04bc29f4-7aff-4e73-ae24-a60abb0094c3",
+    "firm": "ATG",
+    "title": "Member of Technical Staff (Research Engineering)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/ATG/04bc29f4-7aff-4e73-ae24-a60abb0094c3",
+    "department": "Engineering"
+  },
+  {
+    "_key": "ATG||Member of Technical Staff (Backend)||https://jobs.ashbyhq.com/ATG/a37e306f-edf5-4baf-8743-75d7d75bb7a4",
+    "firm": "ATG",
+    "title": "Member of Technical Staff (Backend)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/ATG/a37e306f-edf5-4baf-8743-75d7d75bb7a4",
+    "department": "Engineering"
+  },
+  {
+    "_key": "ATG||Member of Technical Staff (Full Stack)||https://jobs.ashbyhq.com/ATG/5c79aca9-d4f8-4ba3-89ab-0a56f5e08e91",
+    "firm": "ATG",
+    "title": "Member of Technical Staff (Full Stack)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/ATG/5c79aca9-d4f8-4ba3-89ab-0a56f5e08e91",
+    "department": "Engineering"
+  },
+  {
+    "_key": "ATG||Member of Technical Staff (iOS)||https://jobs.ashbyhq.com/ATG/9bf54445-10b8-4040-871e-9c8c35283b1a",
+    "firm": "ATG",
+    "title": "Member of Technical Staff (iOS)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/ATG/9bf54445-10b8-4040-871e-9c8c35283b1a",
+    "department": "Engineering"
+  },
+  {
+    "_key": "ATG||Member of Technical Staff (Data Platform)||https://jobs.ashbyhq.com/ATG/f3f3bb80-520f-48ab-9df1-4f19d7a387e5",
+    "firm": "ATG",
+    "title": "Member of Technical Staff (Data Platform)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/ATG/f3f3bb80-520f-48ab-9df1-4f19d7a387e5",
+    "department": "Engineering"
+  },
+  {
+    "_key": "EliseAI||Founding Software Engineer | Healthcare||https://jobs.ashbyhq.com/EliseAI/6b756f91-4355-49af-901b-77d3b62d656a",
+    "firm": "EliseAI",
+    "title": "Founding Software Engineer | Healthcare",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/EliseAI/6b756f91-4355-49af-901b-77d3b62d656a",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Lila Sciences||Co-op, AI for Protein Design||https://job-boards.greenhouse.io/lilasciences/jobs/4480337009",
+    "firm": "Lila Sciences",
+    "title": "Co-op, AI for Protein Design",
+    "location": "San Francisco, CA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4480337009",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||UX Product Design Intern - Winter 2027||https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1",
+    "firm": "Skydio",
+    "title": "UX Product Design Intern - Winter 2027",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1",
+    "department": "Software"
+  },
+  {
+    "_key": "Pinterest||Strategy & Operations Intern 2027 (USA)||https://www.pinterestcareers.com/jobs/?gh_jid=8334878",
+    "firm": "Pinterest",
+    "title": "Strategy & Operations Intern 2027 (USA)",
+    "location": "San Francisco, CA, US; Remote, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334878",
+    "department": ""
+  },
+  {
+    "_key": "Lambda||Legal Intern - Fall 2026||https://jobs.ashbyhq.com/Lambda/28fe6ae2-c6f7-4097-bded-b0fa291d783a",
+    "firm": "Lambda",
+    "title": "Legal Intern - Fall 2026",
+    "location": "San Francisco Office (Second St)",
+    "url": "https://jobs.ashbyhq.com/Lambda/28fe6ae2-c6f7-4097-bded-b0fa291d783a",
+    "department": "Legal"
+  },
+  {
+    "_key": "Salesforce||DevOps Engineer – Member of Technical Staff (MTS)||https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/DevOps-Engineer---Member-of-Technical-Staff--MTS-_JR364486",
+    "firm": "Salesforce",
+    "title": "DevOps Engineer – Member of Technical Staff (MTS)",
+    "location": "California - San Francisco",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/job/California---San-Francisco/DevOps-Engineer---Member-of-Technical-Staff--MTS-_JR364486",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Battery Algorithms Engineering Intern||https://www.metacareers.com/jobs/1161973130109332",
+    "firm": "Meta",
+    "title": "Battery Algorithms Engineering Intern",
+    "location": "Sunnyvale, CA; Redmond, WA",
+    "url": "https://www.metacareers.com/jobs/1161973130109332",
+    "department": "Facebook Reality Labs, Internship - PhD, Research"
   }
 ]
