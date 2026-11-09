@@ -19082,5 +19082,53 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9",
     "department": "AI Research & Systems"
+  },
+  {
+    "_key": "Wolverine Trading||New Grad C++ Software Engineer||https://careers.wolve.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c",
+    "firm": "Wolverine Trading",
+    "title": "New Grad C++ Software Engineer",
+    "location": "Chicago, IL",
+    "url": "https://careers.wolve.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c",
+    "department": ""
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Perplexity Frontier Research)||https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Perplexity Frontier Research)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/Perplexity/849874fd-ccb4-4d7e-8551-29c5a418e2c7",
+    "department": "AI Research & Systems"
+  },
+  {
+    "_key": "UiPath||AI Engineer Intern||https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555",
+    "firm": "UiPath",
+    "title": "AI Engineer Intern",
+    "location": "Bellevue",
+    "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555",
+    "department": "Engineering"
+  },
+  {
+    "_key": "UiPath||Software Engineer Intern||https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04",
+    "firm": "UiPath",
+    "title": "Software Engineer Intern",
+    "location": "Bellevue",
+    "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Traba||Sales Development Representative - Summer 2027 Graduates ||https://jobs.ashbyhq.com/traba/37b7bdb8-a8c3-4b5e-b2b1-44f454e41914",
+    "firm": "Traba",
+    "title": "Sales Development Representative - Summer 2027 Graduates ",
+    "location": "New York City, NY",
+    "url": "https://jobs.ashbyhq.com/traba/37b7bdb8-a8c3-4b5e-b2b1-44f454e41914",
+    "department": "Sales"
+  },
+  {
+    "_key": "Nvidia||Product Management Space Compute MBA Intern - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
+    "firm": "Nvidia",
+    "title": "Product Management Space Compute MBA Intern - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
+    "department": ""
   }
 ]
