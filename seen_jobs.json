@@ -19226,5 +19226,37 @@
     "location": "Menlo Park, CA",
     "url": "https://www.metacareers.com/jobs/1632929388311563",
     "department": "Internship - Engineering, Tech & Design, Internship - Business"
+  },
+  {
+    "_key": "Anduril||Early Career RF Mission Systems Engineer, Air Dominance & Strike||https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007",
+    "firm": "Anduril",
+    "title": "Early Career RF Mission Systems Engineer, Air Dominance & Strike",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007",
+    "department": ""
+  },
+  {
+    "_key": "Cursor||Software Engineer, New Grad 2027||https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
+    "firm": "Cursor",
+    "title": "Software Engineer, New Grad 2027",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Pinterest||Product Design Intern (USA)||https://www.pinterestcareers.com/jobs/?gh_jid=8350814",
+    "firm": "Pinterest",
+    "title": "Product Design Intern (USA)",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350814",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||Systems Research Intern, Observability – Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
+    "firm": "Nvidia",
+    "title": "Systems Research Intern, Observability – Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
+    "department": ""
   }
 ]
