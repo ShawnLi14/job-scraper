@@ -19258,5 +19258,45 @@
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
     "department": ""
+  },
+  {
+    "_key": "OpenAI||Learning & Instruction Lead, Academy||https://jobs.ashbyhq.com/openai/97493ce9-9491-4384-9be9-8069625cd766",
+    "firm": "OpenAI",
+    "title": "Learning & Instruction Lead, Academy",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/97493ce9-9491-4384-9be9-8069625cd766",
+    "department": "Global Affairs"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (TPM, Compute)||https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (TPM, Compute)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/b85c4547-fa75-41a8-bd36-6f2c70117764",
+    "department": "Platform & Infrastructure"
+  },
+  {
+    "_key": "Cockroach Labs||Member of Technical Staff (Storage)||https://www.cockroachlabs.com/careers/job/?gh_jid=8328236",
+    "firm": "Cockroach Labs",
+    "title": "Member of Technical Staff (Storage)",
+    "location": "New York, NY; Remote, United States; San Mateo, CA; Toronto, Canada",
+    "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8328236",
+    "department": ""
+  },
+  {
+    "_key": "Celonis||Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern||https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003",
+    "firm": "Celonis",
+    "title": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
+    "location": "Raleigh, US, North Carolina",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003",
+    "department": ""
+  },
+  {
+    "_key": "Nvidia||AI Operations Intern, AI Clouds - Summer 2027||https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+    "firm": "Nvidia",
+    "title": "AI Operations Intern, AI Clouds - Summer 2027",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+    "department": ""
   }
 ]
