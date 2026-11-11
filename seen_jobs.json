@@ -19538,5 +19538,93 @@
     "location": "San Francisco, California, United States",
     "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
     "department": ""
+  },
+  {
+    "_key": "Stripe||Software Engineer, Intern (Summer)||https://stripe.com/jobs/search?gh_jid=8128745",
+    "firm": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "location": "San Francisco, Seattle, New York City",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "department": ""
+  },
+  {
+    "_key": "Airbnb||Advanced Analytics Intern||https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+    "firm": "Airbnb",
+    "title": "Advanced Analytics Intern",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+    "department": ""
+  },
+  {
+    "_key": "Eight Sleep||Mechanical Engineer (New Grad 2027)||https://jobs.ashbyhq.com/eightsleep/1e79beda-c664-40aa-82ce-63632e03d5f2",
+    "firm": "Eight Sleep",
+    "title": "Mechanical Engineer (New Grad 2027)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/eightsleep/1e79beda-c664-40aa-82ce-63632e03d5f2",
+    "department": "Hardware Engineering"
+  },
+  {
+    "_key": "Rubrik||Product Management Intern (MSP), Summer 2027||https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967",
+    "firm": "Rubrik",
+    "title": "Product Management Intern (MSP), Summer 2027",
+    "location": "Palo Alto, CA",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967",
+    "department": ""
+  },
+  {
+    "_key": "Zoox||AI Workflows Intern [Summer 2027]||https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+    "firm": "Zoox",
+    "title": "AI Workflows Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+    "department": "Safety Policy and Strategy"
+  },
+  {
+    "_key": "Zoox||Process Improvement Intern [ Summer 2027]||https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852",
+    "firm": "Zoox",
+    "title": "Process Improvement Intern [ Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852",
+    "department": "Fleet Operations"
+  },
+  {
+    "_key": "Riot Games||Insights Analyst Intern, League of Legends - Summer 2027||https://www.riotgames.com/en/work-with-us/job/8356372?gh_jid=8356372",
+    "firm": "Riot Games",
+    "title": "Insights Analyst Intern, League of Legends - Summer 2027",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356372?gh_jid=8356372",
+    "department": ""
+  },
+  {
+    "_key": "Riot Games||Rendering Technical Art Intern, League of Legends - Summer 2027||https://www.riotgames.com/en/work-with-us/job/8356830?gh_jid=8356830",
+    "firm": "Riot Games",
+    "title": "Rendering Technical Art Intern, League of Legends - Summer 2027",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356830?gh_jid=8356830",
+    "department": ""
+  },
+  {
+    "_key": "Riot Games||Rendering Technical Art Intern (Lighting), League of Legends - Summer 2027||https://www.riotgames.com/en/work-with-us/job/8356807?gh_jid=8356807",
+    "firm": "Riot Games",
+    "title": "Rendering Technical Art Intern (Lighting), League of Legends - Summer 2027",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356807?gh_jid=8356807",
+    "department": ""
+  },
+  {
+    "_key": "Riot Games||Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027||https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525",
+    "firm": "Riot Games",
+    "title": "Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525",
+    "department": ""
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Developer Productivity||https://jobs.ashbyhq.com/parallel/769b266b-e639-4fe9-8451-46f164333bd4",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Developer Productivity",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/parallel/769b266b-e639-4fe9-8451-46f164333bd4",
+    "department": "Engineering"
   }
 ]
