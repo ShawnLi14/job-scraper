@@ -19634,5 +19634,21 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/mercor/3750ee8a-64d1-46ac-b4f9-6a823f949034",
     "department": "Engineering"
+  },
+  {
+    "_key": "Riot Games||Technical Game Design Intern - Summer 2027||https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525",
+    "firm": "Riot Games",
+    "title": "Technical Game Design Intern - Summer 2027",
+    "location": "Los Angeles, USA",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer II, Generative AI, Google Cloud||https://www.google.com/about/careers/applications/jobs/results/77331446980584134",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer II, Generative AI, Google Cloud",
+    "location": "Sunnyvale, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/77331446980584134",
+    "department": ""
   }
 ]
