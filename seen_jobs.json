@@ -19746,5 +19746,29 @@
     "location": "San Bruno, CA, USA; New York, NY, USA; Mountain View, CA, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/85543493170012870",
     "department": ""
+  },
+  {
+    "_key": "Zoox||Systems & Safety Engineering Intern [Summer 2027]||https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
+    "firm": "Zoox",
+    "title": "Systems & Safety Engineering Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
+    "department": "System Design & Mission Assurance"
+  },
+  {
+    "_key": "Aurora||Software Engineer Intern, Vehicle Platforms||https://aurora.tech/careers/06daa269-c02b-43a4-88b8-b57a3ba335ef",
+    "firm": "Aurora",
+    "title": "Software Engineer Intern, Vehicle Platforms",
+    "location": "Mountain View, CA",
+    "url": "https://aurora.tech/careers/06daa269-c02b-43a4-88b8-b57a3ba335ef",
+    "department": "Hardware & Embedded Engineering"
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, GenAI, Youtube Go-To-Market Technology and Insights||https://www.google.com/about/careers/applications/jobs/results/100154542414275270",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, GenAI, Youtube Go-To-Market Technology and Insights",
+    "location": "San Bruno, CA, USA; Mountain View, CA, USA; New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/100154542414275270",
+    "department": ""
   }
 ]
