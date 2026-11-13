@@ -19714,5 +19714,37 @@
     "location": "Chicago, IL, USA; New York, NY, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/81089096687985350",
     "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Business Operations Intern - Connected Warfare||https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007",
+    "firm": "Anduril",
+    "title": "2027 Business Operations Intern - Connected Warfare",
+    "location": "Costa Mesa, California, United States; Seattle, Washington, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Frontend Software Engineer Intern||https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+    "firm": "Skydio",
+    "title": "Frontend Software Engineer Intern",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+    "department": "Software"
+  },
+  {
+    "_key": "Zoox||Data Scientist Intern [Summer 2027]||https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+    "firm": "Zoox",
+    "title": "Data Scientist Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+    "department": "System Design & Mission Assurance"
+  },
+  {
+    "_key": "Google||Lead GenAI Forward Deployed Engineer, YouTube GTM Operations||https://www.google.com/about/careers/applications/jobs/results/85543493170012870",
+    "firm": "Google",
+    "title": "Lead GenAI Forward Deployed Engineer, YouTube GTM Operations",
+    "location": "San Bruno, CA, USA; New York, NY, USA; Mountain View, CA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/85543493170012870",
+    "department": ""
   }
 ]
