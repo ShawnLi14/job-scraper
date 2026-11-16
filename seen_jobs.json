@@ -19994,5 +19994,29 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f",
     "department": "Hardware Engineering"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Enterprise Security Engineer)||https://jobs.ashbyhq.com/Perplexity/4c316774-abea-47d9-b681-5fdc005e4229",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Enterprise Security Engineer)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/4c316774-abea-47d9-b681-5fdc005e4229",
+    "department": "Security"
+  },
+  {
+    "_key": "Perplexity||Member of Technical Staff (Cybersecurity Solutions Architect)||https://jobs.ashbyhq.com/Perplexity/5149f625-1c76-4ca1-b076-7b81ed23c758",
+    "firm": "Perplexity",
+    "title": "Member of Technical Staff (Cybersecurity Solutions Architect)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Perplexity/5149f625-1c76-4ca1-b076-7b81ed23c758",
+    "department": "Security"
+  },
+  {
+    "_key": "Traba||Sales Development Representative - Summer 2027 Graduates ||https://jobs.ashbyhq.com/traba/b0199420-588b-4f9c-87b3-b9578839c417",
+    "firm": "Traba",
+    "title": "Sales Development Representative - Summer 2027 Graduates ",
+    "location": "New York City, NY",
+    "url": "https://jobs.ashbyhq.com/traba/b0199420-588b-4f9c-87b3-b9578839c417",
+    "department": "Sales"
   }
 ]
