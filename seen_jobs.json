@@ -20018,5 +20018,85 @@
     "location": "New York City, NY",
     "url": "https://jobs.ashbyhq.com/traba/b0199420-588b-4f9c-87b3-b9578839c417",
     "department": "Sales"
+  },
+  {
+    "_key": "Five Rings||QT Connect 2027 - EU/UK||https://job-boards.greenhouse.io/fiveringsllc/jobs/5473153008",
+    "firm": "Five Rings",
+    "title": "QT Connect 2027 - EU/UK",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5473153008",
+    "department": ""
+  },
+  {
+    "_key": "Five Rings||QT Connect 2027 - US||https://job-boards.greenhouse.io/fiveringsllc/jobs/5473043008",
+    "firm": "Five Rings",
+    "title": "QT Connect 2027 - US",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5473043008",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Deployment Operations Intern||https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007",
+    "firm": "Anduril",
+    "title": "2027 Deployment Operations Intern",
+    "location": "Quincy, Massachusetts, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Early Career Test & Evaluation Operations Analyst||https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007",
+    "firm": "Anduril",
+    "title": "2027 Early Career Test & Evaluation Operations Analyst",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Industrial Equipment Maintenance Intern||https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007",
+    "firm": "Anduril",
+    "title": "2027 Industrial Equipment Maintenance Intern",
+    "location": "Ashville, Ohio, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Mission Operations Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
+    "firm": "Anduril",
+    "title": "2027 Mission Operations Engineer Intern",
+    "location": "Honolulu, Hawaii, United States; Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Product Marketing Intern||https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007",
+    "firm": "Anduril",
+    "title": "2027 Product Marketing Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007",
+    "department": ""
+  },
+  {
+    "_key": "Skydio||Systems Engineering Intern||https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a",
+    "firm": "Skydio",
+    "title": "Systems Engineering Intern",
+    "location": "San Mateo, California, United States",
+    "url": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a",
+    "department": "R&D"
+  },
+  {
+    "_key": "Zoox||MBA Program Manager Intern [Summer 2027]||https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8",
+    "firm": "Zoox",
+    "title": "MBA Program Manager Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8",
+    "department": "Fleet Operations"
+  },
+  {
+    "_key": "Zoox||Service Designer Intern [Summer 2027]||https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a",
+    "firm": "Zoox",
+    "title": "Service Designer Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a",
+    "department": "Product"
   }
 ]
