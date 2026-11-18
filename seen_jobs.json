@@ -20204,5 +20204,39 @@
     "location": "Cambridge, MA USA",
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4403714009",
     "department": ""
+  },
+  {
+    "_key": "Mercor||Member of Technical Staff, Annotation UI||https://jobs.ashbyhq.com/mercor/c684bdad-93b0-4811-82e5-926457db2daa",
+    "firm": "Mercor",
+    "title": "Member of Technical Staff, Annotation UI",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/mercor/c684bdad-93b0-4811-82e5-926457db2daa",
+    "department": "Core Engineering"
+  },
+  {
+    "_key": "Relativity Space||New Grad 2027 - Materials & Processes Engineer I||https://boards.greenhouse.io/relativity/jobs/8948712002?gh_jid=8948712002",
+    "firm": "Relativity Space",
+    "title": "New Grad 2027 - Materials & Processes Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8948712002?gh_jid=8948712002",
+    "department": ""
+  },
+  {
+    "_key": "Meta||Research Scientist Intern, AI Core Machine Learning (MSc)||https://www.metacareers.com/jobs/1126525590244595",
+    "firm": "Meta",
+    "title": "Research Scientist Intern, AI Core Machine Learning (MSc)",
+    "location": "",
+    "url": "https://www.metacareers.com/jobs/1126525590244595",
+    "department": "AI Research, Artificial Intelligence, Generative AI, Research"
+  },
+  {
+    "_key": "SIG (Susquehanna)||Analytics Internship: Summer 2027||https://careers.sig.com/jobs/11099?lang=en-us",
+    "firm": "SIG (Susquehanna)",
+    "title": "Analytics Internship: Summer 2027",
+    "location": "Richmond, Virginia",
+    "url": "https://careers.sig.com/jobs/11099?lang=en-us",
+    "department": [
+      " Interns + Co-ops"
+    ]
   }
 ]
