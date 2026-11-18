@@ -20116,5 +20116,45 @@
     "department": [
       " New Graduates"
     ]
+  },
+  {
+    "_key": "Hudson River Trading||Internship Program Manager||https://www.hudsonrivertrading.com/careers/job/?gh_jid=8268234",
+    "firm": "Hudson River Trading",
+    "title": "Internship Program Manager",
+    "location": "New York, NY, United States",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8268234",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Machine Learning Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+    "firm": "Anduril",
+    "title": "2027 Machine Learning Engineer Intern",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Product Data Quality Co-op||https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007",
+    "firm": "Anduril",
+    "title": "2027 Product Data Quality Co-op",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007",
+    "department": ""
+  },
+  {
+    "_key": "Mercor||Member of Technical Staff, Fraud||https://jobs.ashbyhq.com/mercor/4d817fa9-8860-4063-9da7-f484569ed1dc",
+    "firm": "Mercor",
+    "title": "Member of Technical Staff, Fraud",
+    "location": "San Francisco or NYC",
+    "url": "https://jobs.ashbyhq.com/mercor/4d817fa9-8860-4063-9da7-f484569ed1dc",
+    "department": "Security Engineering"
+  },
+  {
+    "_key": "The Trade Desk||Sr Forward Deployed Engineer||https://job-boards.greenhouse.io/thetradedesk/jobs/5297279007",
+    "firm": "The Trade Desk",
+    "title": "Sr Forward Deployed Engineer",
+    "location": "Bellevue; New York; San Francisco; San Jose; Seattle",
+    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5297279007",
+    "department": ""
   }
 ]
