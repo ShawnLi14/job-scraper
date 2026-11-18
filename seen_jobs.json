@@ -20172,5 +20172,37 @@
     "location": "San Francisco, California",
     "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
     "department": ""
+  },
+  {
+    "_key": "Anduril||2027 Business Systems Engineer Intern||https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
+    "firm": "Anduril",
+    "title": "2027 Business Systems Engineer Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
+    "department": ""
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Connectivity Platform and Product||https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Connectivity Platform and Product",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
+    "department": "Dev"
+  },
+  {
+    "_key": "Palantir||Software Engineer, Internship - Connectivity Platform and Product||https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
+    "firm": "Palantir",
+    "title": "Software Engineer, Internship - Connectivity Platform and Product",
+    "location": "Denver, CO",
+    "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
+    "department": "Dev"
+  },
+  {
+    "_key": "Lila Sciences||Member of Technical Staff, AI Security||https://job-boards.greenhouse.io/lilasciences/jobs/4403714009",
+    "firm": "Lila Sciences",
+    "title": "Member of Technical Staff, AI Security",
+    "location": "Cambridge, MA USA",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4403714009",
+    "department": ""
   }
 ]
