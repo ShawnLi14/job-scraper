@@ -20254,5 +20254,37 @@
     "location": "Redmond, WA",
     "url": "https://www.metacareers.com/jobs/994911809842621",
     "department": "AI Research, Artificial Intelligence, Facebook Reality Labs, Internship - PhD, Internship - Engineering, Tech & Design, Research"
+  },
+  {
+    "_key": "Eight Sleep||New Grad - Business Functions||https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef",
+    "firm": "Eight Sleep",
+    "title": "New Grad - Business Functions",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef",
+    "department": "General"
+  },
+  {
+    "_key": "Eight Sleep||New Grad - Engineering||https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79",
+    "firm": "Eight Sleep",
+    "title": "New Grad - Engineering",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79",
+    "department": "General"
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer III, Generative AI, Google Cloud, Healthcare||https://www.google.com/about/careers/applications/jobs/results/81681952498688710",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer III, Generative AI, Google Cloud, Healthcare",
+    "location": "Chicago, IL, USA; New York, NY, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/81681952498688710",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer IV, Applied AI, Google Cloud||https://www.google.com/about/careers/applications/jobs/results/79156374289687238",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer IV, Applied AI, Google Cloud",
+    "location": "San Francisco, CA, USA; Atlanta, GA, USA; Austin, TX, USA; Chicago, IL, USA; Addison, TX, USA; Irvine, CA, USA; Los Angeles, CA, USA; Seattle, WA, USA; Sunnyvale, CA, USA; Boulder, CO, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/79156374289687238",
+    "department": ""
   }
 ]
