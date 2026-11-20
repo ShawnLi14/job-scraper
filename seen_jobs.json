@@ -20382,5 +20382,133 @@
     "location": "",
     "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-portfolio-finance-analyst/8161734",
     "department": ""
+  },
+  {
+    "_key": "Datadog||Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking||https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590",
+    "firm": "Datadog",
+    "title": "Sales Development Representative - Summer 2027 Graduates - LATAM Portuguese Speaking",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://careers.datadoghq.com/detail/8386590/?gh_jid=8386590",
+    "department": ""
+  },
+  {
+    "_key": "Datadog||Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking||https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199",
+    "firm": "Datadog",
+    "title": "Sales Development Representative - Summer 2027 Graduates - LATAM Spanish Speaking",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://careers.datadoghq.com/detail/8386199/?gh_jid=8386199",
+    "department": ""
+  },
+  {
+    "_key": "Solstice||Member of Technical Staff (Applied AI, Data Systems)||https://jobs.ashbyhq.com/solstice/57eeecdd-fb7c-481e-9594-f769c934eabc",
+    "firm": "Solstice",
+    "title": "Member of Technical Staff (Applied AI, Data Systems)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/solstice/57eeecdd-fb7c-481e-9594-f769c934eabc",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Lucid Motors||Intern, ADAS Systems, Summer 2027||https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
+    "firm": "Lucid Motors",
+    "title": "Intern, ADAS Systems, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, AI & Data (Applied AI/Machine Learning), Summer 2027||https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+    "firm": "Lucid Motors",
+    "title": "Intern, AI & Data (Applied AI/Machine Learning), Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027||https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Embedded Software, Summer 2027||https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Embedded Software, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Infotainment Software, Summer 2027||https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Infotainment Software, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Infotainment SW Validation Automation, Summer 2027||https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Infotainment SW Validation Automation, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Motor Control Software Development and Validation Engineer, Summer 2027||https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Motor Control Software Development and Validation Engineer, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, OTA Test and Validation Automation, Summer 2027||https://lucidmotors.com/careers/search/5290917007?gh_jid=5290917007",
+    "firm": "Lucid Motors",
+    "title": "Intern, OTA Test and Validation Automation, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290917007?gh_jid=5290917007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Simulation & Virtualization Engineer, Summer 2027||https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Simulation & Virtualization Engineer, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Software Engineer, SDET, Summer 2027||https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Software Engineer, SDET, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, Software QA Engineer, Infotainment, Summer 2027||https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
+    "firm": "Lucid Motors",
+    "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Product Security Engineering Intern, Summer 2027||https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+    "firm": "Lucid Motors",
+    "title": "Product Security Engineering Intern, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+    "department": ""
+  },
+  {
+    "_key": "Parallel Web Systems||Member of Technical Staff, Developer Experience||https://jobs.ashbyhq.com/parallel/fa55e4f5-e580-4530-89eb-914f16f8f9f9",
+    "firm": "Parallel Web Systems",
+    "title": "Member of Technical Staff, Developer Experience",
+    "location": "San Francisco or Palo Alto",
+    "url": "https://jobs.ashbyhq.com/parallel/fa55e4f5-e580-4530-89eb-914f16f8f9f9",
+    "department": "Engineering"
   }
 ]
