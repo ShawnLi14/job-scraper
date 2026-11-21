@@ -20622,5 +20622,45 @@
     "location": "New York, NY, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/100362242737742534",
     "department": ""
+  },
+  {
+    "_key": "Databricks||Sr. Staff Forward Deployed Engineer||https://databricks.com/company/careers/open-positions/job?gh_jid=8951023002",
+    "firm": "Databricks",
+    "title": "Sr. Staff Forward Deployed Engineer",
+    "location": "Remote - Washington D.C.; Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951023002",
+    "department": ""
+  },
+  {
+    "_key": "Anduril||Forward Deployed Software Engineer, Connected Warfare (Active Clearance)||https://boards.greenhouse.io/andurilindustries/jobs/5304081007?gh_jid=5304081007",
+    "firm": "Anduril",
+    "title": "Forward Deployed Software Engineer, Connected Warfare (Active Clearance)",
+    "location": "Washington, District of Columbia, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5304081007?gh_jid=5304081007",
+    "department": ""
+  },
+  {
+    "_key": "SpaceX||New Graduate Engineer, Propulsion (Raptor)||https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002",
+    "firm": "SpaceX",
+    "title": "New Graduate Engineer, Propulsion (Raptor)",
+    "location": "Hawthorne, CA",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957363002?gh_jid=8957363002",
+    "department": ""
+  },
+  {
+    "_key": "Appian||Enablement Specialist (December 2026 and May 2027 Grads)||https://job-boards.greenhouse.io/appian/jobs/8400562",
+    "firm": "Appian",
+    "title": "Enablement Specialist (December 2026 and May 2027 Grads)",
+    "location": "McLean, Virginia",
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8400562",
+    "department": ""
+  },
+  {
+    "_key": "Lucid Motors||Intern, ADAS Platform Tools, Summer 2027||https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+    "firm": "Lucid Motors",
+    "title": "Intern, ADAS Platform Tools, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+    "department": ""
   }
 ]
