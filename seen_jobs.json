@@ -20798,5 +20798,109 @@
     "location": "Mountain View, CA, USA; Seattle, WA, USA",
     "url": "https://www.google.com/about/careers/applications/jobs/results/140592058938073798",
     "department": ""
+  },
+  {
+    "_key": "Anthropic||Program Operations, Coordination & Logistics, Claude Frontier Academy||https://job-boards.greenhouse.io/anthropic/jobs/5391277008",
+    "firm": "Anthropic",
+    "title": "Program Operations, Coordination & Logistics, Claude Frontier Academy",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391277008",
+    "department": ""
+  },
+  {
+    "_key": "Oscar Health||Mergers and Acquisitions Intern||https://oscarhealth.com/careers/jobs?gh_jid=8414269",
+    "firm": "Oscar Health",
+    "title": "Mergers and Acquisitions Intern",
+    "location": "New York, New York, United States",
+    "url": "https://oscarhealth.com/careers/jobs?gh_jid=8414269",
+    "department": ""
+  },
+  {
+    "_key": "Relativity Space||New Grad 2027 - Aerodynamics Engineer I||https://boards.greenhouse.io/relativity/jobs/8957620002?gh_jid=8957620002",
+    "firm": "Relativity Space",
+    "title": "New Grad 2027 - Aerodynamics Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8957620002?gh_jid=8957620002",
+    "department": ""
+  },
+  {
+    "_key": "Relativity Space||New Grad 2027 - Certification Engineer I||https://boards.greenhouse.io/relativity/jobs/8960850002?gh_jid=8960850002",
+    "firm": "Relativity Space",
+    "title": "New Grad 2027 - Certification Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8960850002?gh_jid=8960850002",
+    "department": ""
+  },
+  {
+    "_key": "Relativity Space||New Grad 2027 - GNC Mission Design Engineer I||https://boards.greenhouse.io/relativity/jobs/8957609002?gh_jid=8957609002",
+    "firm": "Relativity Space",
+    "title": "New Grad 2027 - GNC Mission Design Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8957609002?gh_jid=8957609002",
+    "department": ""
+  },
+  {
+    "_key": "Relativity Space||New Grad 2027 - Mission Reliability Engineer I||https://boards.greenhouse.io/relativity/jobs/8960854002?gh_jid=8960854002",
+    "firm": "Relativity Space",
+    "title": "New Grad 2027 - Mission Reliability Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8960854002?gh_jid=8960854002",
+    "department": ""
+  },
+  {
+    "_key": "Relativity Space||New Grad 2027 - NDE Engineer I||https://boards.greenhouse.io/relativity/jobs/8960741002?gh_jid=8960741002",
+    "firm": "Relativity Space",
+    "title": "New Grad 2027 - NDE Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8960741002?gh_jid=8960741002",
+    "department": ""
+  },
+  {
+    "_key": "Relativity Space||New Grad 2027 - Thermal Engineer I||https://boards.greenhouse.io/relativity/jobs/8957614002?gh_jid=8957614002",
+    "firm": "Relativity Space",
+    "title": "New Grad 2027 - Thermal Engineer I",
+    "location": "Long Beach, California, United States",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8957614002?gh_jid=8957614002",
+    "department": ""
+  },
+  {
+    "_key": "Rubrik||Product Management Intern (MSP), Winter 2027||https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
+    "firm": "Rubrik",
+    "title": "Product Management Intern (MSP), Winter 2027",
+    "location": "Palo Alto, CA",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766",
+    "department": ""
+  },
+  {
+    "_key": "Zoox||AI Engineering Intern, Operational Safety [Summer 2027]||https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+    "firm": "Zoox",
+    "title": "AI Engineering Intern, Operational Safety [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+    "department": "Safety Policy and Strategy"
+  },
+  {
+    "_key": "Zoox||Process Improvement Intern (A) [ Summer 2027]||https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852",
+    "firm": "Zoox",
+    "title": "Process Improvement Intern (A) [ Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852",
+    "department": "Fleet Operations"
+  },
+  {
+    "_key": "Braintrust||Forward Deployed Engineer||https://jobs.ashbyhq.com/Braintrust/2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+    "firm": "Braintrust",
+    "title": "Forward Deployed Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Braintrust/2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+    "department": "GTM | Post Sales"
+  },
+  {
+    "_key": "Meta||Battery Engineering Intern, Battery Systems Engineering||https://www.metacareers.com/jobs/1165674205921515",
+    "firm": "Meta",
+    "title": "Battery Engineering Intern, Battery Systems Engineering",
+    "location": "Sunnyvale, CA",
+    "url": "https://www.metacareers.com/jobs/1165674205921515",
+    "department": "Internship - Engineering, Tech & Design, Facebook Reality Labs"
   }
 ]
