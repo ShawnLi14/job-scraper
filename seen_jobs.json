@@ -20782,5 +20782,21 @@
     "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
     "department": "Engineering"
+  },
+  {
+    "_key": "Together AI||Forward Deployed Engineer, Applied AI||https://job-boards.greenhouse.io/togetherai/jobs/5302781007",
+    "firm": "Together AI",
+    "title": "Forward Deployed Engineer, Applied AI",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5302781007",
+    "department": ""
+  },
+  {
+    "_key": "Google||Forward Deployed Engineer, Geo Auto||https://www.google.com/about/careers/applications/jobs/results/140592058938073798",
+    "firm": "Google",
+    "title": "Forward Deployed Engineer, Geo Auto",
+    "location": "Mountain View, CA, USA; Seattle, WA, USA",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/140592058938073798",
+    "department": ""
   }
 ]
