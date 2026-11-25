@@ -20902,5 +20902,45 @@
     "location": "Sunnyvale, CA",
     "url": "https://www.metacareers.com/jobs/1165674205921515",
     "department": "Internship - Engineering, Tech & Design, Facebook Reality Labs"
+  },
+  {
+    "_key": "Eight Sleep||New Grad - Engineering (internship)||https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79",
+    "firm": "Eight Sleep",
+    "title": "New Grad - Engineering (internship)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79",
+    "department": "General"
+  },
+  {
+    "_key": "Eight Sleep||New Grad - Engineering (full-time)||https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c",
+    "firm": "Eight Sleep",
+    "title": "New Grad - Engineering (full-time)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/eightsleep/1ea47d9f-b325-4fbb-a59e-f13646ad092c",
+    "department": "General"
+  },
+  {
+    "_key": "DeepMind||Member of Technical Staff, AI Studio, DeepMind||https://www.google.com/about/careers/applications/jobs/results/76410318229512902",
+    "firm": "DeepMind",
+    "title": "Member of Technical Staff, AI Studio, DeepMind",
+    "location": "New York, NY, USA; France",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/76410318229512902",
+    "department": ""
+  },
+  {
+    "_key": "Google||Member of Technical Staff, AI Studio, DeepMind||https://www.google.com/about/careers/applications/jobs/results/76410318229512902",
+    "firm": "Google",
+    "title": "Member of Technical Staff, AI Studio, DeepMind",
+    "location": "New York, NY, USA; France",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/76410318229512902",
+    "department": ""
+  },
+  {
+    "_key": "Meta||ASIC Engineer, Performance Architecture and Modeling (University Grad)||https://www.metacareers.com/jobs/1451659813754708",
+    "firm": "Meta",
+    "title": "ASIC Engineer, Performance Architecture and Modeling (University Grad)",
+    "location": "Sunnyvale, CA; Austin, TX",
+    "url": "https://www.metacareers.com/jobs/1451659813754708",
+    "department": "Infrastructure"
   }
 ]
