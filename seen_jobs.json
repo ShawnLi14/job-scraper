@@ -20942,5 +20942,61 @@
     "location": "Sunnyvale, CA; Austin, TX",
     "url": "https://www.metacareers.com/jobs/1451659813754708",
     "department": "Infrastructure"
+  },
+  {
+    "_key": "Coinbase||Security Engineer Intern||https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+    "firm": "Coinbase",
+    "title": "Security Engineer Intern",
+    "location": "Hybrid - New York, NY",
+    "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+    "department": ""
+  },
+  {
+    "_key": "Eight Sleep||New Grad - Business Functions (full-time)||https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef",
+    "firm": "Eight Sleep",
+    "title": "New Grad - Business Functions (full-time)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef",
+    "department": "General"
+  },
+  {
+    "_key": "Eight Sleep||New Grad - Engineering (internship)||https://jobs.ashbyhq.com/eightsleep/3291df7a-cf2b-45f4-af52-34f00065255a",
+    "firm": "Eight Sleep",
+    "title": "New Grad - Engineering (internship)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/eightsleep/3291df7a-cf2b-45f4-af52-34f00065255a",
+    "department": "General"
+  },
+  {
+    "_key": "Eight Sleep||New Grad - Business Functions (internship)||https://jobs.ashbyhq.com/eightsleep/2db07e1f-ef43-4efa-852d-ac22b11426d0",
+    "firm": "Eight Sleep",
+    "title": "New Grad - Business Functions (internship)",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/eightsleep/2db07e1f-ef43-4efa-852d-ac22b11426d0",
+    "department": "General"
+  },
+  {
+    "_key": "Zoox||Supply Chain AI Intern [Summer 2027]||https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+    "firm": "Zoox",
+    "title": "Supply Chain AI Intern [Summer 2027]",
+    "location": "Foster City, CA",
+    "url": "https://jobs.lever.co/zoox/1a41e141-7e0b-4474-b4eb-bf89032bd7a8",
+    "department": "Information Technology"
+  },
+  {
+    "_key": "Parallel Web Systems||Early Career Software Engineer, Developer Experience||https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c",
+    "firm": "Parallel Web Systems",
+    "title": "Early Career Software Engineer, Developer Experience",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c",
+    "department": "Engineering"
+  },
+  {
+    "_key": "Two Sigma||Quantitative Trader - Full-Time Campus Hire||https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Trader-Full-Time-Campus-Hire/14440",
+    "firm": "Two Sigma",
+    "title": "Quantitative Trader - Full-Time Campus Hire",
+    "location": "",
+    "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Trader-Full-Time-Campus-Hire/14440",
+    "department": ""
   }
 ]
